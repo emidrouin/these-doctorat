@@ -1,8 +1,12 @@
 
-# Journal de bord { - }
+# Journal de bord
+
+### Pistes à travailler (printemps 2020)
+- Travailler l'**identité narrative**: voir comment l'identité du sujet passe par les histoires racontées (*se* raconter), mais encore: ces *histoires racontées*, ça comprend à la fois l'histoire qui est racontée (*à propos de quoi*), mais aussi comment c'est raconté (*la fabrique*) – et c'est ça qui m'intéresse (comment on *se raconte* = notre identité)
+- **Ricoeur et le langage**: langage comme "un mode d'être dans l'être" (*Le conflit des interprétations*)
 
 
-### Commentaires suite à l'examen de synthèse (oct. 2019) { - }
+### Commentaires suite à l'examen de synthèse (oct. 2019)
 - Expliquer et justifier le corpus (dans l'introduction):
     - N'y a-t-il pas, peut-être, filiation dans la représentation de l'enfance au Québec? Ou bien est-ce une essence transhistorique/un invariant historique? C'est-à-dire: il y a toujours eu et il y aura toujours des enfances représentées, souvent sous la forme de romans d'apprentissage. *R: Possiblement. Or la question que je souhaite poser est davantage de l'ordre du "comment" que du "quoi" et surtout du "pourquoi".*
     - Justifier le corpus: pourquoi éliminer les autres romans québécois de l'enfance? *Car je ne travaille pas, en réalité, sur l'"enfance", mais sur la représentation romanesque et narrative de l'ipséité, et que les romans de l'enfance sont, à cet effet, un corpus privilégié (l'enfance étant une forme d'altérité/ipséité "naturelle").*
