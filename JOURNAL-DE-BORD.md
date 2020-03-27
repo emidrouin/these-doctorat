@@ -3,6 +3,7 @@
 
 ### Pistes à travailler (printemps 2020)
 - Travailler l'**identité narrative**: voir comment l'identité du sujet passe par les histoires racontées (*se* raconter), mais encore: ces *histoires racontées*, ça comprend à la fois l'histoire qui est racontée (*à propos de quoi*), mais aussi comment c'est raconté (*la fabrique*) – et c'est ça qui m'intéresse (comment on *se raconte* = notre identité)
+    - Hypothèse: plutôt que de voir les polarités (soi/autre, par ex.) sur un mode binaire (soi vs Autre), Ricoeur les voit sur le mode d'un spectre dont il tente de joindre les deux pôles (soi =?= Autre; que se passe-t-il si soi=Autre), les deux opposés; et c'est pour ça que ça s'applique si bien à la littérature, car la vocation de la fiction est souvent exactement celle-là: surprendre en jumelant les opposés, en faisant advenir l'improbable, en défiant le réel
 - **Ricoeur et le langage**: langage comme "un mode d'être dans l'être" (*Le conflit des interprétations*)
 
 
