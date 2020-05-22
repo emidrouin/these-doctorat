@@ -28,6 +28,8 @@
     * livres > tableaux car les livres sont remplis de mots (NV, p. 126)
     * rapport à la littérature: Chateaugué apprend par coeur les mots d'une oraison funèbre de Bossuet mais en ignore la signification (NV, p. 144 et +) – *rapport à la littérature qui passe par sa connaissance (mémorisation) plutôt que sa compréhension ou le ressenti?*
     * Notion de "péché" (NV, p. 193); question du mal en rapport avec l'âge adulte (NV, p. 193-194)
+    * voir dans onomastique: "Ludwig von Mozart" (NV, p. 280)
+    * refus du monde et des conventions = effet Joconde: pourquoi on trouve la Joconde si belle? par convention, parce que tout le monde la trouve belle… mais Mille Milles se refuse à ces conventions (NV, p. 280-281)
 * "La pureté me fatigue. [...] Va pour la cochonnerie. Au fond, j'aime mieux la cochonnerie. Le mot est moins fatigant, plus modeste. Vulves, venez. Je suis fatigué de haïr l'adulte; je l'adore à compter de cette heure. L'enfance agace à la longue. Elle s'use et se ternit à force d'usage. Je m'assieds sur elle. Je m'essuie les pieds sur mon enfance." (NV, p. 205)
 * "Ce par quoi l'âme d'enfant déchoit donne naissance à l'âme d'adulte. [...] Si la joie dans l'enfant n'a rien de dégoûtant, qu'a donc de dégoûtant la joie, la même joie, dans l'adulte?" (NV' p. 217)
 * Questa: "Le bonheur des enfants, et le nôtre, finit quand commence la puberté. [...] Les enfants ne pensent pas à l'amour comme nous. Le secret du bonheur des enfants, c'est leur chasteté, c'est l'ignorance de ce que nous savons de plus qu'eux." (NV, p. 220) – établit une distinction entre un *eux* des enfants et un *nous* des adultes
@@ -64,6 +66,8 @@
     * "C'est utile d'être quelque chose, de ne pas être n'importe quoi, de ne pas craindre de réserver des surprises à soi-même." (NV, p. 239) – *"être quelque chose" comme façon de "ne pas être n'importe quoi" = constance à soi/fidélité à la parole donnée*
     * "Au début de cet entretien, j'avais des principes; je croyais. Je m'étais formé une idée précise de moi, et je m'exerçais à tout faire pou rl'imposer à la réalité. Je prétendais, m'arrogeant des pouvoirs divins, changer la réalité et les choses, les amener à force d'opiniâtreté à s'adapter à une définition simple et rigide que j'appelais moi. Voici cette définition: l'enfant et l'innocence me sont beaux jusqu'aux larmes; la maturité, l'achat, la vente, la clientèle et les sexes me sont laids jusqu'au dégoût, jusqu'au désespoir. Je me faisais un honneur, un devoir, de haïr jusqu'au sang tout ce qui n'était pas de la couleur et de la douceur de notre enfance. Manquer à ma définition équivalait à trahir, à de la haute trahison. Prenant peu à peu la couleur et l'aigreur de l'adulte, j'en suis venu à me haïr, jusqu'au dégoût, jusqu'au désespoir, jusqu'à vouloir ma mort, jusqu'à projeter ma mort. Tous les adultes devraient être trouvés laids et hideux, non parce qu'ils étaient laids et hideux, mais parce qu'ils étaient acheteurs, vendeurs, et ruisselants de péchés d'impureté. De toutes mes forces, fidèlement, je tâchais de trouver les adultes laids. Le monde, invention des adultes, des acheteurs, des vendeurs, des impurs, subissait le sort des adultes. De toutes mes forces, je le haïssais. Mais à force de courage de vivre, j'ai soupçonné et découvert l'imposture des mots. Maintenant, je ne crois plus. Maintenant, je ne suis plus rien." (NV, p. 240)
     * rôle de la joie: "Tu as ta joie [...]. Il suffit que tu l'imposes à tout… toujours; à toi-même à mesure que tu te trouves autre." (NV, p. 259)
+* être soi: alors que le "Molière" humoriste trouve que Chateaugué dérange (au cinéma): "Mais, je ne suis que moi, Mille Milles. Elle me prend pour une autre." (NV, p. 277)
+* être humain vs être logique (NV, p. 279)
 
 
 ### Rapport au langage
@@ -100,12 +104,14 @@
         * "pas avare de mes *s*" (NV, p. 125); "c'est avec ces ailes (*ailes* ne prend pas deux *l*, deux ailes)" (NV, p. 191)
         * "mots en *ance* et en *ence*" (NV, p. 216)
     * jeu de vocabulaire sur les mots "culotte(s)" et "pantalon(s)" et leurs pluriels (NV, p. 161)
-    * définition de motssépaq
+    * définition de mots:
         * commentaire quant à la définition du mot *heureux* (NV, p. 146)
         * définition du mot baralipton: "Un baralipton, pour ta gouverne, c'est une ruse mnémotechnique." (NV, p. 249)
         * utilisation du mot "correk" dans le sens de "correct", mais définition farfelue: "Correc est l'abréviation de cinématographie. Il y en a qui pensent que correk est l'abréviation de vélocipède. Ce sont des abrutis." (NV, p. 267)
     * jeu sur les gentilés et les toponymes: être "Flamande de Flamagne" (et parler italien) (NV, p. 178), ou plutôt venir de "Seuleragne" mais vivre "en Bîme" et vouloir en sortir ("sortir de la Bîme") (NV, p. 178-179)
-    * jeu sur l'orthographe: "le service doit être plus-que-parfait" (NV, p. 233)
+    * jeu sur l'orthographe:
+        * "le service doit être plus-que-parfait" (NV, p. 233)
+        * "or mussif" (NV, p. 281)
     * jeu de mots/double sens:
         * "Dans les poulaillers, les poètes pondent des vers"… et + (NV, p. 196)
         * "être un membre inutile (un bras, une jambe) de la société" (NV, p. 226)
@@ -123,6 +129,7 @@
         * "Il est ridicule de s'attacher à des mots [Tate] qui ne signifient plus rien." (NV, p. 228)
         * "Il ne faut pas se laisser mener par des mots [...]." (NV, p. 230)
         * présence du cheval (concept) dans le mot "chevalier" (NV, p. 250)
+        * "Les mots sont des mirages. On dit tigre et on croit voir un tigre, mais que le mot est beau quand on sait qu'il n'est pas tigre mais mirage! C'est beau un mirage quand on sait que c'en est un." (NV, p. 279)
     * questionnement sur le sens/la signification des mots: "Qui sait le mieux ce que [les mots] veulent dire? Sont-ce ces mots eux-mêmes, ou est-ce mon âme?" (NV, p. 217)
     * polysémie du mot "plongeur", qui ne sont pas tous des scaphandriers! (NV, p. 224)
     * grammaire
@@ -141,15 +148,22 @@
         * "On essaie toujours de naître dans son propre pays, dans un pays où on ne risque pas d'être pris pour un intrus, pour un Gentil." (NV, p. 269)
 * Commentaire sur les nivaux de langue / niveau sociolinguistique (acrolecte vs méso ou basilecte): "(je traduis pour ceux qui ne comprennent le français que lorsqu'il est compliqué)" (NV, p. 195)
 * rapport à la littérature / à l'écriture
-    * mention d'Isabelle Rimbaud (NV, p. 237)
+    * Rimbaud:
+        * mention d'Isabelle Rimbaud (NV, p. 237)
+        * "comme dirait Rimbaud" (NV, p. 273)
+        * considère que la grandeur est stupide, par ex. Rimbaud (NV, p. 279)
     * rapport à l'écriture: "Il est écrit dans l'Évangile [...]" (NV, p. 247)
     * utilisation du nom Molière comme un mot
         * signifie "comique" (?)
+        * Molière = humoriste (NV, p. 276)
         * "Molière" l'épicier (NV, p. 255): non-sense à la Humpty Dumpty
         * "Molière l'humoriste" (NV, p. 275), au cinéma		
+        * un vrai Molière et un second Molière (NV, p. 277)
     * présence de poèmes dans le roman
         * poème "*Les automobiles*" (NV, p. 261)
-    * rapport au texte/à la lecture scolaire: incapable de comprendre (NV, p. 270 à 272) et fait rire de lui (NV, p. 272)
+    * rapport au texte/à la lecture scolaire: incapable de comprendre (NV, p. 270 à 272) et fait rire de lui (NV, p. 272); compréhension expérientielle plutôt qu'épistémique (NV, p. 273)
+    * intertexte: *Barbe-Bleue* et Fédor Dostoïevski (NV, p. 278)
+    * méfiance envers la littérature: "Je t'apprendrai à te méfier des phrases, de ces idées d'hommes dont tu ne vois pas le visage." (NV, p. 279)
 
 
 #### Question de la parole: énonciation, onomastique
@@ -165,6 +179,7 @@
     * auto-renomination: Mille Milles dit à Questa qu'il s'appele "Étin Celant" (NV, p. 180)
     * filles de Questa qui ont toutes le même nom ("Anne"), mais qui ont des noms de baptêmes différents quoique similaires (Lucie, Lucienne et Lucille), donnés par leur père contre la volonté de la mère: "Mais ces petites sont à moi et seuls les noms que je leur ai donnés comptent." (NV, p. 218-219)
     * nom Marie = "Je-vous-salue-Marie" (NV, p. 263)
+    * jeu: "Ludwig von Mozart" (NV, p. 280) = rapport à l'art/à la culture
 * Lieu confiné (chambre) comme lieu du soi?
 * "Tout à coup, j'étais un autre, rené." (NV, p. 235) – pistes: re-né (nouvelle naissance)? réf à Chateaubriand?
 * "Je suis Popeye, le vrai marin." (NV, p. 235-236 et 286)
