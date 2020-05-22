@@ -57,6 +57,7 @@
     * "	mon âge (seize dix-sept ans)" (NV, p. 289)	
     * être soi: alors que le "Molière" humoriste trouve que Chateaugué dérange (au cinéma): "Mais, je ne suis que moi, Mille Milles. Elle me prend pour une autre." (NV, p. 277)
     * était d'être autre (*ipse*) en tant que non-adulte parmi les adultes (NV, p. 291)
+    * "Je n'ai plus besoin que l'on m'aime: je m'aime." (NV, p. 317)
 * Mille Milles qui souffre d'un"mal" qui est "moral" et causé par le "manque d'intelligence du monde" (NV, p. 192-193); mal comme un "aigle"; être un poisson dans la mer/dans le monde, être un parasite (NV, p. 193)
 * Question de l'agentivité du soi?: "Je ne veux plus souffrir. Si l'homme se comprenait, il pourrait agir sur lui-même comme l'homme qui comprend les moteurs Diesel peut agir sur eux. [...] Le pire pour celui qui souffre, c'est de comprendre qu'il n'est pas le seul, qu'il n'est pas victime d'une erreur ou d'une difficulté temporaire du monde, mais que tous les autres souffrent comme lui, mais que personne n'est épargné." (NV, p. 195)
 * Rapport à la philosophie?: "une idée dans le sens de Platon (ou Aristote)" (NV, p. 198); "je fais mon petit Freud" (NV, p. 199) – complexe d'Oedipe
@@ -94,10 +95,15 @@
         * "Nous croisons quatre Chinois, qui parlent en chinois [...]. [...] Après avoir réfléchi à cela, il me vient à l'esprit qu'il est possible de prononcer cinq consonnes d'un seul coup." (NV, p. 248); + autres mots à prononcer "Khrouchtchev, Chtchédrine, Chtcherbakov." (NV, p. 249)
         * prononciation du toponyme de la ville de Stettin, renommée: "C'est Szczecin. Mais on prononce chtchè-tsinn." (NV, p. 249) + invention du baralipton comme truc mnémotechnique
         * assonance: "pornographe" / "phonographes sans orthographe" (NV, p. 315)
+        * "Espèce de pente à gruelle!" (NV, p. 326) – Pantagruel?
    * néologismes
         * "Pauvre Mille Milles! tout dépaysagé, tout désorientalisé, tout désillusionismisé!" (NV, p. 15)
         * célèbrent la "Sainte-Paye" (NV, p. 246)
-    * jeu sur l'arbitraire du signe: "hortensesturber", se "branle-basser"; "hortensesturbateur invétéré" (NV, p. 215)
+        * gradation: "évêque, archevêque, académicien, archadémicien" (NV, p. 317) – si le supérieur de l'évêque est l'archevêque, le supérieur de l'académicien sera l'archadémicien!
+    * jeu sur l'arbitraire du signe:
+        * "hortensesturber", se "branle-basser" / le "branle-bas"
+        * "hortensesturbateur invétéré" (NV, p. 215)
+        * rat = "un Premier ministre de Lettonie"… "Un Premier ministre de Lettonie, pour Chateaugué et Moi, c'est un rat." (NV, p. 325) / "Qu'est-ce qu'un Premier ministre de Lettonie, mon petit bonhomme? C'est une souris, monsieur." (NV, p. 326) / raisonnement sophistique...
     * jeu automobile/hommiliste:
         * "Au lieu de dire automobiliste, on devrait dire automobile et au lieu de dire automobile on devrait dire hommiliste. [...]" (NV, p. 15)
         * Questa qui "faisait sa petite automobiliste, sa petite automobile" (NV, p. 183); = motif de mépris, qui semble se superposer aux axiologies enfant/adulte, pur/impur…
@@ -113,17 +119,23 @@
         * mot = "parasite d'académie" (NV, p. 100)
         * genou = "penture de votre pauvre jambe" (NV, p. 312)
         * bicyclette = "mon triporteur à deux roues" ou "ma draisienne à trois pattes" (NV, p. 310)
+        * "clins de bouche" / "sourires d'yeux" (NV, p. 316)
     * commentaire sur le fait de faire une "fleur de rhétorique" (NV, p. 198)
     * mention de la notion de la métaphore (NV, p. 224) – rapport épistémologique à la langue?
     * obéir aux mots = accomplir l'action (NV, p. 99), mais Chateaugué n'est pas un mot, c'est une action (NV, p. 97); *hypothèse: performativité des mots qui rend le sujet passif et souffrant (plutôt qu'agissant), au sens Ricoeurien; mots (et tout le langage) qui ont la capacité de placer le sujet dans la posture du patient plutôt que dans celle de l'agent (énonciateur); question de la passivité vs agentivité, de l'homme agissant et souffrant, chez Ricoeur*; "Les mots se donnent de l'importance et nous donnent des ordres, quand on a le malheur de les faire sortir de leur trou. Les mots se donnent des airs et nous donnent des airs. [...] Que peut changer un mot, même quand il est parole d'honneur? Rien. Les mots sont sans effet sur les choses." (NV, p. 213) – pouvoir des mots et performativité du langage?; "Le mot n'est pas la chose. [...] Les verbes ne font pas l'action." (NV, p. 213-214)
     * commentaire sur l'orthographe des mots:
         * "pas avare de mes *s*" (NV, p. 125); "c'est avec ces ailes (*ailes* ne prend pas deux *l*, deux ailes)" (NV, p. 191)
         * "mots en *ance* et en *ence*" (NV, p. 216)
+        * énonce des règles de grammaire:
+            * "En règle générale, les mots en *au* et en *eu* prennent un *x* au pluriel. Landau, sarrau, bleu et pneu font exception." (NV, p. 317)
+            * "Les noms en *al* changent *al* en *aux* au pluriel. [...] Les noms en *ail* prennent un *s* au pluriel. [...] Quant à bijou, caillou, chou, genou, hibou, joujou et pou, tout le monde sait à quoi s'en tenir à leur sujet." (NV, p. 330)
+            * "Je suis gonflé et tendu comme un pneu. Pneu prend un *s* au pluriel." (NV, p. 331)
+            * "Il croit qu'aimer est un verbe d'action: il ne sait pas que c'est un verbe d'état." (NV, p. 329)
     * jeu de vocabulaire sur les mots "culotte(s)" et "pantalon(s)" et leurs pluriels (NV, p. 161)
     * définition de mots:
         * commentaire quant à la définition du mot *heureux* (NV, p. 146)
         * définition du mot baralipton: "Un baralipton, pour ta gouverne, c'est une ruse mnémotechnique." (NV, p. 249)
-        * utilisation du mot "correk" dans le sens de "correct", mais définition farfelue: "Correc est l'abréviation de cinématographie. Il y en a qui pensent que correk est l'abréviation de vélocipède. Ce sont des abrutis." (NV, p. 267)
+        * utilisation du mot "correk" dans le sens de "correct", mais définition farfelue: "Correk est l'abréviation de cinématographie. Il y en a qui pensent que correk est l'abréviation de vélocipède. Ce sont des abrutis." (NV, p. 267)
     * jeu sur les gentilés et les toponymes: être "Flamande de Flamagne" (et parler italien) (NV, p. 178), ou plutôt venir de "Seuleragne" mais vivre "en Bîme" et vouloir en sortir ("sortir de la Bîme") (NV, p. 178-179)
     * jeu sur l'orthographe:
         * "le service doit être plus-que-parfait" (NV, p. 233)
@@ -138,7 +150,6 @@
         * "comme un démon dans l'eau bénite" (NV, p. 263) – *l'expression n'existe pas; on dit le diable, et c'est figé*
     * commentaire: "Beau et beauté sont des mots de trop" (NV, p. 198)
     * commentaire sur l'existence des mots et rapport au dictionnaire (norme langagière/définitionnelle): "Le mot inassouvissable n'est pas dans le dictionnaire que j'ai, ne se découvre point dans le dictionnaire que je suis possédant. J'aurais dû m'en acheter un plus épais." (NV, p. 263)
-    * "filles en fleur" (NV, p. 196, 197, 198) - intertexte proustien??
     * rapport au mot en tant que signe:
         * "Tuez le mot, le funeste, le semeur de confusion! Le mot tigre n'est pas un tigre. Qui le sait? Personne." (NV, p. 198)
         * rapport au **mot "adulte"** en tant que **signe**: "Je ne haïssais l'adulte que lorsque je pensais au mot adulte. J'aime tous les adultes que je connais." (NV, p. 205) – premier rapport à l'adulte = rapport au *signe* "adulte"! / linguistique; différence enfance/adulte = "qu'une question de mots après tout" (NV, p. 216)
@@ -148,8 +159,9 @@
         * "Les mots sont des mirages. On dit tigre et on croit voir un tigre, mais que le mot est beau quand on sait qu'il n'est pas tigre mais mirage! C'est beau un mirage quand on sait que c'en est un." (NV, p. 279)
     * questionnement sur le sens/la signification des mots: "Qui sait le mieux ce que [les mots] veulent dire? Sont-ce ces mots eux-mêmes, ou est-ce mon âme?" (NV, p. 217)
     * polysémie du mot "plongeur", qui ne sont pas tous des scaphandriers! (NV, p. 224)
-    * grammaire
+    * grammaire:
         * "ris, rions, riez" (NV, p. 244)
+        * avoir ou être une automobile? naître ou devenir automobile? (NV, p. 320)
 * Rapport politique à la langue`
     * américanité vs francité (NV, p. 150)
     * rapport à la langue anglaise
@@ -158,6 +170,7 @@
         * langue anglaise: "langue encore vivante" (par rapport au grec et au latin (italien?)), "malheureuse langue" (NV, p. 226)
         * rapport littéraire (de personnage) à l'anglais: "dans la langue de Macbeth" (NV, p. 307)
         * passage en anglais (NV, p. 315)
+        * "les avides d'argent de langue anglaise" / "les avides de dollars des États-Unis" / "des remplis de dollars touristiques des États-Unis" (NV, p. 325)
     * rapport aux langues étrangères (grec et italien/latin)
         * cuisiniers italiens et grecs qui ne parlent pas français (NV, p. 233)
         * peuples: G		recs et Romains (NV, p. 262, 267, 292); Italiens et Grecs (NV, p. 289)
@@ -171,6 +184,7 @@
         * mention d'Isabelle Rimbaud (NV, p. 237)
         * "comme dirait Rimbaud" (NV, p. 273)
         * considère que la grandeur est stupide, par ex. Rimbaud (NV, p. 279)
+    * intertexte Nelligan / *La romance du vin* (NV, p. 316-317)
     * rapport à l'écriture: "Il est écrit dans l'Évangile [...]" (NV, p. 247)
     * utilisation du nom Molière comme un mot
         * signifie "comique" (?)
@@ -181,6 +195,9 @@
         * référence à "l'art pour l'art" (NV, p. 289) = Parnasse / Théophile Gautier dans *Mademoiselle de Maupin* (1835) et autres
         * réfère à l'histoire de Jeanne d'Arc (NV, p. 313)
         * référence *Le Cid* (premiers ministres = cabotins qui aiment se déguiser en Cid)? (NV, p. 315)
+        * intertexte biblique (Atlas): "Je sais que Dieu, demain ou après, me terrassera, me tiendra rivé au sol du poids de sa montagne" (NV, p. 317)
+        * "filles en fleur" (NV, p. 196, 197, 198) - intertexte proustien??
+        * référence à Malherbe, au Moyen Âge, à la Renaissance (NV, p. 328)
     * présence de poèmes dans le roman
         * poème "*Les automobiles*" (NV, p. 261)
     * rapport au texte/à la lecture scolaire: incapable de comprendre (NV, p. 270 à 272) et fait rire de lui (NV, p. 272); compréhension expérientielle plutôt qu'épistémique (NV, p. 273)
@@ -196,6 +213,8 @@
     * "J'aime les phrases qui boitent. Je suis sadique: je les regarde boiter et je trouve cela drôle." (NV, p. 226)
     * fait une substitution: on lui dit "Tu ferais peut-être mieux d'aller te (hortensesturber)" (NV, p. 290) = substitue le mot employé par son propre vocabulaire (transcription de la parole d'autrui dans une version idiolectale)
 * conscience de sa posture d'énonciateur narrant: "Mais ici, je brutalise un peu l'ordre chronologique des événements" (NV, p. 303)
+* posture d'écrivant:
+    * "Je ne suis pas aussi fidèle et attentif qu'avant à mon cher journal. Depuis que j'ai relu ce que j'y avais écrit, il me dégoûte." (NV, p. 318)
 * Onomastique:`
     * idée d'un "être collectif": Mille Milles + Chateaugué = "Tate" (NV, p. 84-85)
     * jeu sur le nom "Mille Milles"/"Mille Kilomètres"
@@ -212,3 +231,4 @@
 * posture d'énonciation à l'écart du monde / s'exprime à l'écart du monde?
     * "Mes amis les hommes, s'ils m'entendent [...]. Mais je ne leur parle pas pour être entendu. Je leur parle, mais je n'ai pas besoin d'être vraiment entendu. Je parle en faisant semblant d'être entendu et faire semblant d'être entendu me suffit. Quant aux poètes, ils font semblant de parler pour être entendus. Penser que j'ai des amis parmi les hommes, cela aussi est faire semblant." (NV, p. 302) – *volonté d'être et d'énoncer de façon autre/ipse; à la façon des poètes – donc en étroit lien avec la langue et surtout l'usage littéraire/esthétique de la langue*
     * "O mon ami l'homme" (NV, p. 309)
+    * "O hommes [...]", puis dénonce leur avarice d'âme, la vulgarité, la cruauté… (NV, p. 319-320)
