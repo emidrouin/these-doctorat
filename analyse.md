@@ -68,6 +68,8 @@
     * rôle de la joie: "Tu as ta joie [...]. Il suffit que tu l'imposes à tout… toujours; à toi-même à mesure que tu te trouves autre." (NV, p. 259)
 * être soi: alors que le "Molière" humoriste trouve que Chateaugué dérange (au cinéma): "Mais, je ne suis que moi, Mille Milles. Elle me prend pour une autre." (NV, p. 277)
 * être humain vs être logique (NV, p. 279)
+* se hortensesturbe / se plaire / être (seul) avec soi (NV, p. 289)
+* "mon âge (seize dix-sept ans)" (NV, p. 289)
 
 
 ### Rapport au langage
@@ -95,6 +97,8 @@
         * jeu automobile/iste (NV, p. 225)
     * rapport au texte (en tant que concept): texte = phrases = mots (NV, p. 97)
     * rapport aux mots, à leur sens, aux synonymes (NV, p. 99)
+        * jeu sur l'antonymie innocentes obscénités / coupables obscénités (NV, p. 282)
+        * expression "à mon âme défendant" (substitution par un antonyme dans un syntagme figé) (NV, p. 285)
     * vocabulaire recherché: "oaristys", sorte de poème grec (NV, p. 252)
     * mot = "parasite d'académie" (NV, p. 100)
     * commentaire sur le fait de faire une "fleur de rhétorique" (NV, p. 198)
@@ -142,7 +146,7 @@
         * langue anglaise: "langue encore vivante" (par rapport au grec et au latin (italien?)), "malheureuse langue" (NV, p. 226)
     * rapport aux langues étrangères (grec et italien/latin)
         * cuisiniers italiens et grecs qui ne parlent pas français (NV, p. 233)
-        * G		recs et Romains (NV, p. 262)
+        * G		recs et Romains (NV, p. 262); Italiens et Grecs (NV, p. 289)
         * Grecs et Romains (NV, p. 267) qui parlent grec et latin (NV, p. 268), les langues de Caligula et d'Euripide (NV, p. 268), des "langues mortes" (NV, p. 268), etc.
         * sentiment d'exclusion (NV, p. 268) et volonté de ne pas se laisser envahir/exiler linguistiquement (NV, p. 269)
         * "On essaie toujours de naître dans son propre pays, dans un pays où on ne risque pas d'être pris pour un intrus, pour un Gentil." (NV, p. 269)
@@ -159,6 +163,7 @@
         * "Molière" l'épicier (NV, p. 255): non-sense à la Humpty Dumpty
         * "Molière l'humoriste" (NV, p. 275), au cinéma		
         * un vrai Molière et un second Molière (NV, p. 277)
+        * référence à "l'art pour l'art" (NV, p. 289) = Parnasse / Théophile Gautier dans *Mademoiselle de Maupin* (1835) et autres
     * présence de poèmes dans le roman
         * poème "*Les automobiles*" (NV, p. 261)
     * rapport au texte/à la lecture scolaire: incapable de comprendre (NV, p. 270 à 272) et fait rire de lui (NV, p. 272); compréhension expérientielle plutôt qu'épistémique (NV, p. 273)
@@ -180,6 +185,7 @@
     * filles de Questa qui ont toutes le même nom ("Anne"), mais qui ont des noms de baptêmes différents quoique similaires (Lucie, Lucienne et Lucille), donnés par leur père contre la volonté de la mère: "Mais ces petites sont à moi et seuls les noms que je leur ai donnés comptent." (NV, p. 218-219)
     * nom Marie = "Je-vous-salue-Marie" (NV, p. 263)
     * jeu: "Ludwig von Mozart" (NV, p. 280) = rapport à l'art/à la culture
+    * renomme Chateaugué: "Papillon" et "Parle-Parle Jase-Jase" (NV, p. 285)
 * Lieu confiné (chambre) comme lieu du soi?
 * "Tout à coup, j'étais un autre, rené." (NV, p. 235) – pistes: re-né (nouvelle naissance)? réf à Chateaubriand?
 * "Je suis Popeye, le vrai marin." (NV, p. 235-236 et 286)
