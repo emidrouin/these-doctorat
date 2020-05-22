@@ -3,7 +3,7 @@
 ## L'Avalée des avalés
 * Intertextualité comme moyen de faire apparaître l'Autre de la littérature: l'Autre à l'intérieur de Bérénice qui serait la Littérature (sugg. d'ENL) – voir l'article de Jean-François Hamel; possible également que cette piste soit féconde pour *La petite fille qui aimait trop les allumettes*, où l'Autre serait la littérature et la philosophie (ou la *bibliothèque*, carrément).^
 * Regarder l'Autre de la religion: voir si la Judéité est à l'oeuvre comme forme d'altérité, face à l'hégémonie catholique du Québec d'avant la Révolution tranquille (représentée par Christian et la mère). Certains travaux sur la judéité chez Ducharme pourraient être pertinents.
-
+âme
 ## Le nez qui voque
 
 ### Valorisation de l'enfance et dévalorisation de l'âge adulte
@@ -37,6 +37,7 @@
 * idée d'un monde à eux seuls
     * Chateaugué: "Avec toi, je ne me sentirai jamais seule et abandonnée. Je n'ai besoin de personne." (NV, p. 251)
     * dans la chambre: "Nous regardons en silence briller ces étoiles [chandelles allumées] d'un monde à nous seuls." (NV, p. 261)
+* mauvaise humeur d'adulte (durable) vs d'enfant (NV, p. 290)
 
 
 
@@ -44,6 +45,7 @@
 * Rapport conflictuel à la société organisée: "jouer le jeu de la société, leur hostie de jeu" (NV, p. 92)
     * s'inscrit dans un idéal anti-capitaliste: ville et urbanité = logique capitaliste (argent + travail), qui est refusé par Mille Milles (NV, p. 107-108)
     * *s'inscrit dans l'idéal de pureté de l'enfance, en tant que volonté de ne pas se laisser souiller par les choses du monde des adultes, par ce qui se monnaie, par le monde organisé et hiérarchisé, par un monde qui vit au rythme d'une logique comptable, économique, capitaliste, à l'envers des valeurs éthiques*
+    * rejet du système de la société (l'État): "Nous sommes bien ensemble, Chateaugué et moi. Nous n'avons besoin de personne. [...] Elle n'a que moi et je n'ai qu'elle. Nous n'avons que l'amitié. Nous avons si peu de choses! [...] Laissez-nous tranquilles! Allez faire vos parlements ailleurs!" (NV, p. 315) – *"parlements" peut s'interpréter doublement: question politique/société organisée (État), et aussi parce que ça contient le mot "parle", donc "parler", "parole", qui constitue le rempart entre les enfants et la société des adultes, dans cette ipséité qui se détermine et définit par le langage, la parole*
 * Idée du je/soi/destinée (NV, p. 100): "Moi? Qui suis-je?" (NV, p. 102)
 * soi à devenir = virilité? / archétype du masculin (NV, p. 133)
 * Désir ultime de pureté qui motive au branle-bas (suicide) (NV, p. 164)
@@ -51,6 +53,10 @@
 * Question du soi:
     * s'invente une fausse identité esquimaude (NV, p. 177)
     * Questa interpelle Mille Milles en tant qu'"adolescent ami" (NV, p. 190)
+    * se hortensesturbe / se plaire / être (seul) avec soi (NV, p. 289)
+    * "	mon âge (seize dix-sept ans)" (NV, p. 289)	
+    * être soi: alors que le "Molière" humoriste trouve que Chateaugué dérange (au cinéma): "Mais, je ne suis que moi, Mille Milles. Elle me prend pour une autre." (NV, p. 277)
+    * était d'être autre (*ipse*) en tant que non-adulte parmi les adultes (NV, p. 291)
 * Mille Milles qui souffre d'un"mal" qui est "moral" et causé par le "manque d'intelligence du monde" (NV, p. 192-193); mal comme un "aigle"; être un poisson dans la mer/dans le monde, être un parasite (NV, p. 193)
 * Question de l'agentivité du soi?: "Je ne veux plus souffrir. Si l'homme se comprenait, il pourrait agir sur lui-même comme l'homme qui comprend les moteurs Diesel peut agir sur eux. [...] Le pire pour celui qui souffre, c'est de comprendre qu'il n'est pas le seul, qu'il n'est pas victime d'une erreur ou d'une difficulté temporaire du monde, mais que tous les autres souffrent comme lui, mais que personne n'est épargné." (NV, p. 195)
 * Rapport à la philosophie?: "une idée dans le sens de Platon (ou Aristote)" (NV, p. 198); "je fais mon petit Freud" (NV, p. 199) – complexe d'Oedipe
@@ -60,16 +66,16 @@
     * "c'est ça, être adulte" (NV, p. 253)
     * Mille Milles = adulte (NV, p. 253)
     * "Sais-tu ce que c'est, être adulte?" (NV, p. 252)
+    * premières règles / puberté de Chateaugué (NV, p. 299)
 * Écriture de soi – identité narrative?
     * "Je ne me ressemble pas. [...] Je ne suis pas moi. [...] Mille Milles n'a rien conservé, Mille Milles a changé de tout." (NV, p. 238-239)
     * "Si tu veux un moi bien fidèle à une définition, forge-t'en un, crois que tu en as un, crois, crois (surtout aux mots)."
     * "C'est utile d'être quelque chose, de ne pas être n'importe quoi, de ne pas craindre de réserver des surprises à soi-même." (NV, p. 239) – *"être quelque chose" comme façon de "ne pas être n'importe quoi" = constance à soi/fidélité à la parole donnée*
     * "Au début de cet entretien, j'avais des principes; je croyais. Je m'étais formé une idée précise de moi, et je m'exerçais à tout faire pou rl'imposer à la réalité. Je prétendais, m'arrogeant des pouvoirs divins, changer la réalité et les choses, les amener à force d'opiniâtreté à s'adapter à une définition simple et rigide que j'appelais moi. Voici cette définition: l'enfant et l'innocence me sont beaux jusqu'aux larmes; la maturité, l'achat, la vente, la clientèle et les sexes me sont laids jusqu'au dégoût, jusqu'au désespoir. Je me faisais un honneur, un devoir, de haïr jusqu'au sang tout ce qui n'était pas de la couleur et de la douceur de notre enfance. Manquer à ma définition équivalait à trahir, à de la haute trahison. Prenant peu à peu la couleur et l'aigreur de l'adulte, j'en suis venu à me haïr, jusqu'au dégoût, jusqu'au désespoir, jusqu'à vouloir ma mort, jusqu'à projeter ma mort. Tous les adultes devraient être trouvés laids et hideux, non parce qu'ils étaient laids et hideux, mais parce qu'ils étaient acheteurs, vendeurs, et ruisselants de péchés d'impureté. De toutes mes forces, fidèlement, je tâchais de trouver les adultes laids. Le monde, invention des adultes, des acheteurs, des vendeurs, des impurs, subissait le sort des adultes. De toutes mes forces, je le haïssais. Mais à force de courage de vivre, j'ai soupçonné et découvert l'imposture des mots. Maintenant, je ne crois plus. Maintenant, je ne suis plus rien." (NV, p. 240)
     * rôle de la joie: "Tu as ta joie [...]. Il suffit que tu l'imposes à tout… toujours; à toi-même à mesure que tu te trouves autre." (NV, p. 259)
-* être soi: alors que le "Molière" humoriste trouve que Chateaugué dérange (au cinéma): "Mais, je ne suis que moi, Mille Milles. Elle me prend pour une autre." (NV, p. 277)
+    * autoportrait littéraire / JE: "Je suis un indésirable. Je suis indésirable pour moi-même comme pour le monde. [...] Avant, je n'étais pas comme cela. Je ne suis comme cela que depuis que je ne suis plus un enfant. [...] Tu m'écoeures, Mille Milles." (NV, p. 300-301)
 * être humain vs être logique (NV, p. 279)
-* se hortensesturbe / se plaire / être (seul) avec soi (NV, p. 289)
-* "mon âge (seize dix-sept ans)" (NV, p. 289)
+
 
 
 ### Rapport au langage
@@ -87,6 +93,7 @@
         * jeu macadam/macarthur (NV, p. 243)
         * "Nous croisons quatre Chinois, qui parlent en chinois [...]. [...] Après avoir réfléchi à cela, il me vient à l'esprit qu'il est possible de prononcer cinq consonnes d'un seul coup." (NV, p. 248); + autres mots à prononcer "Khrouchtchev, Chtchédrine, Chtcherbakov." (NV, p. 249)
         * prononciation du toponyme de la ville de Stettin, renommée: "C'est Szczecin. Mais on prononce chtchè-tsinn." (NV, p. 249) + invention du baralipton comme truc mnémotechnique
+        * assonance: "pornographe" / "phonographes sans orthographe" (NV, p. 315)
    * néologismes
         * "Pauvre Mille Milles! tout dépaysagé, tout désorientalisé, tout désillusionismisé!" (NV, p. 15)
         * célèbrent la "Sainte-Paye" (NV, p. 246)
@@ -99,8 +106,13 @@
     * rapport aux mots, à leur sens, aux synonymes (NV, p. 99)
         * jeu sur l'antonymie innocentes obscénités / coupables obscénités (NV, p. 282)
         * expression "à mon âme défendant" (substitution par un antonyme dans un syntagme figé) (NV, p. 285)
+        * "monter sur leurs cothurnes" = grands sabots? (NV, p. 294)
     * vocabulaire recherché: "oaristys", sorte de poème grec (NV, p. 252)
-    * mot = "parasite d'académie" (NV, p. 100)
+    * vocabulaire populaire / québécismes: "mon-oncle" et "ma-tante" (NV, p. 298)
+    * métaphores:
+        * mot = "parasite d'académie" (NV, p. 100)
+        * genou = "penture de votre pauvre jambe" (NV, p. 312)
+        * bicyclette = "mon triporteur à deux roues" ou "ma draisienne à trois pattes" (NV, p. 310)
     * commentaire sur le fait de faire une "fleur de rhétorique" (NV, p. 198)
     * mention de la notion de la métaphore (NV, p. 224) – rapport épistémologique à la langue?
     * obéir aux mots = accomplir l'action (NV, p. 99), mais Chateaugué n'est pas un mot, c'est une action (NV, p. 97); *hypothèse: performativité des mots qui rend le sujet passif et souffrant (plutôt qu'agissant), au sens Ricoeurien; mots (et tout le langage) qui ont la capacité de placer le sujet dans la posture du patient plutôt que dans celle de l'agent (énonciateur); question de la passivité vs agentivité, de l'homme agissant et souffrant, chez Ricoeur*; "Les mots se donnent de l'importance et nous donnent des ordres, quand on a le malheur de les faire sortir de leur trou. Les mots se donnent des airs et nous donnent des airs. [...] Que peut changer un mot, même quand il est parole d'honneur? Rien. Les mots sont sans effet sur les choses." (NV, p. 213) – pouvoir des mots et performativité du langage?; "Le mot n'est pas la chose. [...] Les verbes ne font pas l'action." (NV, p. 213-214)
@@ -144,10 +156,13 @@
         * "Minute, papillon, margarinefly (butterfly)!" (NV, p. 15)
         * "à côté de l'huis pend une inscription au néon et en anglais: SAILORS' CHURCH 1654. Ils font de la publicité, de l'aplaventrisme, pour mettre l'eau à la bouche des touristes de langue anglaise. Go homme!" (NV, p. 14)
         * langue anglaise: "langue encore vivante" (par rapport au grec et au latin (italien?)), "malheureuse langue" (NV, p. 226)
+        * rapport littéraire (de personnage) à l'anglais: "dans la langue de Macbeth" (NV, p. 307)
+        * passage en anglais (NV, p. 315)
     * rapport aux langues étrangères (grec et italien/latin)
         * cuisiniers italiens et grecs qui ne parlent pas français (NV, p. 233)
-        * G		recs et Romains (NV, p. 262); Italiens et Grecs (NV, p. 289)
-        * Grecs et Romains (NV, p. 267) qui parlent grec et latin (NV, p. 268), les langues de Caligula et d'Euripide (NV, p. 268), des "langues mortes" (NV, p. 268), etc.
+        * peuples: G		recs et Romains (NV, p. 262, 267, 292); Italiens et Grecs (NV, p. 289)
+        * langues: qui parlent grec et latin (NV, p. 268, 292)
+            * les langues de Caligula et d'Euripide (NV, p. 268), des "langues mortes" (NV, p. 268), etc.
         * sentiment d'exclusion (NV, p. 268) et volonté de ne pas se laisser envahir/exiler linguistiquement (NV, p. 269)
         * "On essaie toujours de naître dans son propre pays, dans un pays où on ne risque pas d'être pris pour un intrus, pour un Gentil." (NV, p. 269)
 * Commentaire sur les nivaux de langue / niveau sociolinguistique (acrolecte vs méso ou basilecte): "(je traduis pour ceux qui ne comprennent le français que lorsqu'il est compliqué)" (NV, p. 195)
@@ -164,11 +179,14 @@
         * "Molière l'humoriste" (NV, p. 275), au cinéma		
         * un vrai Molière et un second Molière (NV, p. 277)
         * référence à "l'art pour l'art" (NV, p. 289) = Parnasse / Théophile Gautier dans *Mademoiselle de Maupin* (1835) et autres
+        * réfère à l'histoire de Jeanne d'Arc (NV, p. 313)
+        * référence *Le Cid* (premiers ministres = cabotins qui aiment se déguiser en Cid)? (NV, p. 315)
     * présence de poèmes dans le roman
         * poème "*Les automobiles*" (NV, p. 261)
     * rapport au texte/à la lecture scolaire: incapable de comprendre (NV, p. 270 à 272) et fait rire de lui (NV, p. 272); compréhension expérientielle plutôt qu'épistémique (NV, p. 273)
     * intertexte: *Barbe-Bleue* et Fédor Dostoïevski (NV, p. 278)
     * méfiance envers la littérature: "Je t'apprendrai à te méfier des phrases, de ces idées d'hommes dont tu ne vois pas le visage." (NV, p. 279)
+    * intertexte rada?: "devenir rat d'alcôve" (NV, p. 289) – radis, rat d'haie, rada de *Dévadé*?
 
 
 #### Question de la parole: énonciation, onomastique
@@ -176,6 +194,8 @@
     * mise en scène de l'acte du discours oral (de la même façon que l'"écrivain écrivant", lorsqu'il y a mise en scène de l'acte d'écrire): "Voilà que moi-même, je déclamais." (NV, p. 89)
     * rapport à sa propre écriture et à l'écriture philosophique: "Je fais mon petit Jean Racine, mon petit La Rochefoucauld, mon petit La Fontaine, mon petit hostie de comique." (NV, p. 96)
     * "J'aime les phrases qui boitent. Je suis sadique: je les regarde boiter et je trouve cela drôle." (NV, p. 226)
+    * fait une substitution: on lui dit "Tu ferais peut-être mieux d'aller te (hortensesturber)" (NV, p. 290) = substitue le mot employé par son propre vocabulaire (transcription de la parole d'autrui dans une version idiolectale)
+* conscience de sa posture d'énonciateur narrant: "Mais ici, je brutalise un peu l'ordre chronologique des événements" (NV, p. 303)
 * Onomastique:`
     * idée d'un "être collectif": Mille Milles + Chateaugué = "Tate" (NV, p. 84-85)
     * jeu sur le nom "Mille Milles"/"Mille Kilomètres"
@@ -189,4 +209,6 @@
 * Lieu confiné (chambre) comme lieu du soi?
 * "Tout à coup, j'étais un autre, rené." (NV, p. 235) – pistes: re-né (nouvelle naissance)? réf à Chateaubriand?
 * "Je suis Popeye, le vrai marin." (NV, p. 235-236 et 286)
-
+* posture d'énonciation à l'écart du monde / s'exprime à l'écart du monde?
+    * "Mes amis les hommes, s'ils m'entendent [...]. Mais je ne leur parle pas pour être entendu. Je leur parle, mais je n'ai pas besoin d'être vraiment entendu. Je parle en faisant semblant d'être entendu et faire semblant d'être entendu me suffit. Quant aux poètes, ils font semblant de parler pour être entendus. Penser que j'ai des amis parmi les hommes, cela aussi est faire semblant." (NV, p. 302) – *volonté d'être et d'énoncer de façon autre/ipse; à la façon des poètes – donc en étroit lien avec la langue et surtout l'usage littéraire/esthétique de la langue*
+    * "O mon ami l'homme" (NV, p. 309)
