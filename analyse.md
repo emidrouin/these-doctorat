@@ -1,4 +1,4 @@
-# Pistes d'analyse
+genette# Pistes d'analyse
 
 ## L'Avalée des avalés
 * Intertextualité comme moyen de faire apparaître l'Autre de la littérature: l'Autre à l'intérieur de Bérénice qui serait la Littérature (sugg. d'ENL) – voir l'article de Jean-François Hamel; possible également que cette piste soit féconde pour *La petite fille qui aimait trop les allumettes*, où l'Autre serait la littérature et la philosophie (ou la *bibliothèque*, carrément).^
@@ -218,6 +218,7 @@
 * Onomastique:`
     * idée d'un "être collectif": Mille Milles + Chateaugué = "Tate" (NV, p. 84-85)
     * jeu sur le nom "Mille Milles"/"Mille Kilomètres"
+    * Mille Milles = intertexte du *Petit Prince* (Saint-Exupéry, p. 16)?? / *qui se trouve "à mille milles" de la civilisation, à l'écart...*
     * rapport et hiérarchisation signifiant/référent: acte d'écrire le prénom de Chateaugué en sa présence: "Je l'ai devant moi, qu'ai-je besoin d'écrire son nom?" (NV, p. 98)
     * multiples noms de Questa: s'auto-désigne comme "Pas-Bonne! Grosse Pas-Bonne!" (NV, p. 178); "Pas Pomone. Pas-Bonne! Ni Pomone ni Pas-Bonne! Questa. Questa! Je m'appelle Questa, rien que pour toi. Appelle-moi Questa." (NV, p. 178) – "*rien que pour toi*"; "Madame Grosse Pas-Bonne" (NV, p. 186)
     * auto-renomination: Mille Milles dit à Questa qu'il s'appele "Étin Celant" (NV, p. 180)
