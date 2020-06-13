@@ -1,10 +1,24 @@
 # Onomastique
 * fonctions traditionnelles de l'onomastique: "identifier, classer, signifier", + une fonction poétique @Nicole1983
 * sur la spécificité de l'onomastique en **littérature**: "Le déchiffrement des noms fictifs, qui est une lecture, a peu à voir avec le déchiffrement des noms réels, qui est la reconstitution d'une dénomination initialement transparente, la mise à jour d'une racine (celtique, par exemple, dans un toponyme) effacée par le temps" [@Baudelle1989, 20]
+* nom romanesque qui a "une fonction et une valeur sémiotiques qui contribuent à la production narrative" [@Hotte-Pilon1992, 106]
 * hypothèse: *changer continuellement de nom, n'est-ce pas une façon de se créer-se recrééer à la façon d'un personnage de roman? Se réinventer, se raconter de façon nouvelle???* (/identité narrative?)
-* question de la subjectivité/ipséité: voir l'art. d'André Gervais à propos de Louky Bersianik
+* question de la subjectivité/ipséité: voir l'art. @Gervais1991  à propos de Louky Bersianik
 * omniprésence du nom qui "traduit dans les récits la surconscience du nom qu'ont les personnages et la narration" [@Dionne2013, 8]
 * sur le phénomène de renomination:
     * Onomastique: normalement une question **sémantique**, qui, avec la renomination, devient une question **énonciative** ou de ***praxis*** (?) / **praxématique**??
     * noms: en principe des **désignateurs rigides** (noms et pronoms) vs les désignateurs non-rigides (descriptions identifiantes) @Corblin1993
-* 
+* art. de @Hotte-Pilon1992
+    * Bérénice Einberg (AA) → souhaite devenir seulement Bérénice, en rejetant le père, sa Loi et la Bible, pour "se tourn[er] vers les Bérénice de l'histoire, de la mythologie et de la littérature" [@Hotte-Pilon1992, 106]; + nommer le bérénicien à partir de son prénom [@Hotte-Pilon1992, 107]
+    * reniement, par Ivugivic (NV) et B. Einberg (AA), de leur nom qui "connote une appartenance ethnique" [@Hotte-Pilon1992, 107]
+    * impossibilité de transmission du nom dans l'Océantume = bris de la filiation [@Hotte-Pilon1992, 107]
+    * "Le système onomastique de Ducharme dépouille le patronyme de l'importance que lui attribue le code social: c'est le prénom qui devient l'élément prépondérant. Contrairement au nom de famille, le prénom n'établit aucun lien de filiation ou de dépendance à l'égard des autres; en marquant l'opposition, la différence radicale, il **affirme l'individualité du sujet, contre toute appartenance à une catégorie**." [@Hotte-Pilon1992, 108]
+    * Sur le *nom collectif* ("Tate"): = "recherche d'une fusion avec l'autre" / "désir d'union entre deux êtres", également dans les autres livres de Ducharme [@Hotte-Pilon1992, 109]
+    * Mais aussi un phénomène de "dédoublement, selon des formes multiples, allant de la reprise, de vocables, de phonèmes ou d'initiales jusqu'au transfert du nom complet d'un personnage à l'autre" [@Hotte-Pilon1992, 109]: Constance Chlore → Constance Kloür (AA); Lucie, Lucienne et Lucille → les trois Anne (NV); redoublement sonore: Blasey Blasey, Mille Milles, Faire Faire...; redoublement "allitérati[f]": Constance Chlore, Dick Dong, Asie Zsothe…
+    * Sur la **renomination**
+        * "La nomination, chez Ducharme, oscille constamment entre la **foi dans le pouvoir absolu de nommer** – mon nom c'est moi – et le constat d'une inadéquation qui relance constamment le processus de nomination." [@Hotte-Pilon1992, 110]
+        * "La renomination, fréquente chez Ducharme, équivaut à **renier un nom jugé adéquat, pour en revêtir un plus "vrai", plus "propre" à nommer**." [@Hotte-Pilon1992, 111]
+    * importance: "Les personnage de Ducharme ont une vision "théologique" du nom: connaître le "vrai nom", c'est avoir accès à l'Autre, c'est prendre possession de l'Autre." [@Hotte-Pilon1992, 112]
+    * "Le **nom** est **ce qui donne existence au personnage**, mais Ducharme n'en réclame pas la paternité. Le plus souvent, en effet, **les personnages se nomment eux-mêmes**" [@Hotte-Pilon1992, 15]; "En fait, Ducharme attribue à ses personnages le pouvoir de création inhérent à sa propre position d'auteur. Cette délégation de pouvoir relance la nomination vers le premier pôle du système onomastique, c'est-à-dire la recherche du "vrai nom" celui qui donne accès à l'Autre. Les personnages ne se renomment que pour trouver le nom qui leur permettra de rejoindre l'Autre." [@Hotte-Pilon1992, 115]
+    * "La **création de soi** passe inévitablement **par l'écriture** que les narrateurs s'approprient au détriment de l'auteur, semble-t-il. [...] Raconter sa vie, c'est en quelque sorte lui donner forme, lui "donner vie". Du même coup, c'est se donner vie. Il n'est pas étonnant que le narrateur refuse tout un nom qui lui aurait été transmis: il peut ainsi se donner lui-même un nom." [@Hotte-Pilon1992, 116] / par "l'autogénération, l'autonarration et l'autonomination" (116)
+    * "Dans la langue, le nom propre définit l'individu comme lieu d'intersection d'un ensemble de rapports: groupe social, ethnie, sexe. Chez Ducharme, le nom propre remet en question la définition de l'individu par l'état social: le personnage se donne un nom pour échapper à la définition." [@Hotte-Pilon1992, 117]
