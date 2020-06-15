@@ -39,8 +39,6 @@
     * dans la chambre: "Nous regardons en silence briller ces étoiles [chandelles allumées] d'un monde à nous seuls." (NV, p. 261)
 * mauvaise humeur d'adulte (durable) vs d'enfant (NV, p. 290)
 
-
-
 #### Rapport conflictuel à la société: soi vs société des adultes; soi l'adulte
 * Rapport conflictuel à la société organisée: "jouer le jeu de la société, leur hostie de jeu" (NV, p. 92)
     * s'inscrit dans un idéal anti-capitaliste: ville et urbanité = logique capitaliste (argent + travail), qui est refusé par Mille Milles (NV, p. 107-108)
@@ -76,8 +74,6 @@
     * rôle de la joie: "Tu as ta joie [...]. Il suffit que tu l'imposes à tout… toujours; à toi-même à mesure que tu te trouves autre." (NV, p. 259)
     * autoportrait littéraire / JE: "Je suis un indésirable. Je suis indésirable pour moi-même comme pour le monde. [...] Avant, je n'étais pas comme cela. Je ne suis comme cela que depuis que je ne suis plus un enfant. [...] Tu m'écoeures, Mille Milles." (NV, p. 300-301)
 * être humain vs être logique (NV, p. 279)
-
-
 
 ### Rapport au langage
 
@@ -237,7 +233,10 @@
 
 ## Jimmy
 * "Je suis prêt à tout raconter, mais je n'ai jamais réussi à **parler vraiment avec quelqu'un**. Je veux dire, tu es prêt à raconter quelque chose, tu mets tous les mots à terre et tu les tiens par la queue pendant une minute [comme Papou a fait au Chanoine!], puis tu les lâches d'un coup et ils courent à quatre pattes dans tous les sens: tu te ramasses avec une histoire de zouave, pour être honnête." (Ji, p. 25)
-* alternance entre le *je* et le *tu* (et ce *tu* qui semble changer, parfois un *tu* général, parfois *tu*=*je*, parfois *tu*=Papou?)
-* "tu serais obligé de te lever et d'avoir l'air fou, et tu serais porté à donner ta langue au Chanoine" (Ji, p. 34)
+* **question des pronoms**: alternance je-tu-il pour désigner le narrateur
+* jeu/métonymie: "tu serais obligé de te lever et d'avoir l'air fou, et tu serais porté à donner ta langue au Chanoine" (Ji, p. 34)
 * omission d'une majuscule..? discours rapporté direct: "Sainte-Pétronille", tandis que dans la narration: "Sainte-pétronille" (Ji, p. 37); *vérifier dans une édition plus récente?*
-* 
+* ne pas appartenir?: "c'est ça que je veux dire au sujet de Papou: il parle parfois comme si je n'étais pas à lui ou quelque chose comme ça. C'est une des choses étrange qui ont commencé quand Mamie est restée longtemps a 'Hôtel-Dieu" (Ji, p. 47)
+* intertextes:
+    * *Le chat botté* (Charles Perrault): chat botté + Marquis de Carabas
+    * *Vingt mille lieues sous les mers* (Jules Verne): Capitaine Nemo
