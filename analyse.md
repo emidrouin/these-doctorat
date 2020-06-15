@@ -240,3 +240,4 @@
 * intertextes:
     * *Le chat botté* (Charles Perrault): chat botté + Marquis de Carabas
     * *Vingt mille lieues sous les mers* (Jules Verne): Capitaine Nemo
+* onomastique: Jimmy pour Jim Clark (coureur automobile)
