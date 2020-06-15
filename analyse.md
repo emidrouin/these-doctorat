@@ -3,7 +3,7 @@
 ## L'Avalée des avalés
 * Intertextualité comme moyen de faire apparaître l'Autre de la littérature: l'Autre à l'intérieur de Bérénice qui serait la Littérature (sugg. d'ENL) – voir l'article de Jean-François Hamel; possible également que cette piste soit féconde pour *La petite fille qui aimait trop les allumettes*, où l'Autre serait la littérature et la philosophie (ou la *bibliothèque*, carrément).^
 * Regarder l'Autre de la religion: voir si la Judéité est à l'oeuvre comme forme d'altérité, face à l'hégémonie catholique du Québec d'avant la Révolution tranquille (représentée par Christian et la mère). Certains travaux sur la judéité chez Ducharme pourraient être pertinents.
-âme
+
 ## Le nez qui voque
 
 ### Valorisation de l'enfance et dévalorisation de l'âge adulte
@@ -233,3 +233,11 @@
     * "Mes amis les hommes, s'ils m'entendent [...]. Mais je ne leur parle pas pour être entendu. Je leur parle, mais je n'ai pas besoin d'être vraiment entendu. Je parle en faisant semblant d'être entendu et faire semblant d'être entendu me suffit. Quant aux poètes, ils font semblant de parler pour être entendus. Penser que j'ai des amis parmi les hommes, cela aussi est faire semblant." (NV, p. 302) – *volonté d'être et d'énoncer de façon autre/ipse; à la façon des poètes – donc en étroit lien avec la langue et surtout l'usage littéraire/esthétique de la langue*
     * "O mon ami l'homme" (NV, p. 309)
     * "O hommes [...]", puis dénonce leur avarice d'âme, la vulgarité, la cruauté… (NV, p. 319-320)
+
+
+## Jimmy
+* "Je suis prêt à tout raconter, mais je n'ai jamais réussi à **parler vraiment avec quelqu'un**. Je veux dire, tu es prêt à raconter quelque chose, tu mets tous les mots à terre et tu les tiens par la queue pendant une minute [comme Papou a fait au Chanoine!], puis tu les lâches d'un coup et ils courent à quatre pattes dans tous les sens: tu te ramasses avec une histoire de zouave, pour être honnête." (Ji, p. 25)
+* alternance entre le *je* et le *tu* (et ce *tu* qui semble changer, parfois un *tu* général, parfois *tu*=*je*, parfois *tu*=Papou?)
+* "tu serais obligé de te lever et d'avoir l'air fou, et tu serais porté à donner ta langue au Chanoine" (Ji, p. 34)
+* omission d'une majuscule..? discours rapporté direct: "Sainte-Pétronille", tandis que dans la narration: "Sainte-pétronille" (Ji, p. 37); *vérifier dans une édition plus récente?*
+* 
