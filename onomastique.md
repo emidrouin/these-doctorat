@@ -1,6 +1,7 @@
 # Onomastique
 * fonctions traditionnelles de l'onomastique:
     * "identifier, classer, signifier", + une fonction poétique @Nicole1983
+    * nom propre: "marque conventionnelle d'identification sociale telle qu'elle puisse désigner constamment et de manière unique un individu unique" [@Benveniste1974c, 200]
     * "conception pragmatique et fonctionnelle du nom comme attestation légale de l'identité du sujet qui se raconte et comme engagement de sa signature" [@Baudelle.Nardout-Lafarge2018, 7] / "le nom, conventionnellement associé à la loi (celle de la langue et celle de la filiation, de l'état civil ou même du droit pénal)" [@Baudelle.Nardout-Lafarge2018, 8]
 * sur la spécificité de l'onomastique en **littérature**: "Le déchiffrement des noms fictifs, qui est une lecture, a peu à voir avec le déchiffrement des noms réels, qui est la reconstitution d'une dénomination initialement transparente, la mise à jour d'une racine (celtique, par exemple, dans un toponyme) effacée par le temps" [@Baudelle1989, 20] 
 * nom romanesque qui a "une fonction et une valeur sémiotiques qui contribuent à la production narrative" [@Hotte-Pilon1992, 106]
@@ -16,7 +17,7 @@
     * impossibilité de transmission du nom dans l'Océantume = bris de la filiation [@Hotte-Pilon1992, 107]
     * "Le système onomastique de Ducharme dépouille le patronyme de l'importance que lui attribue le code social: c'est le prénom qui devient l'élément prépondérant. Contrairement au nom de famille, le prénom n'établit aucun lien de filiation ou de dépendance à l'égard des autres; en marquant l'opposition, la différence radicale, il **affirme l'individualité du sujet, contre toute appartenance à une catégorie**." [@Hotte-Pilon1992, 108]
     * Sur le *nom collectif* ("Tate"): = "recherche d'une fusion avec l'autre" / "désir d'union entre deux êtres", également dans les autres livres de Ducharme [@Hotte-Pilon1992, 109]
-    * Mais aussi un phénomène de "dédoublement, selon des formes multiples, allant de la reprise, de vocables, de phonèmes ou d'initiales jusqu'au transfert du nom complet d'un personnage à l'autre" [@Hotte-Pilon1992, 109]: Constance Chlore → Constance Kloür (AA); Lucie, Lucienne et Lucille → les trois Anne (NV); redoublement sonore: Blasey Blasey, Mille Milles, Faire Faire...; redoublement "allitérati[f]": Constance Chlore, Dick Dong, Asie Zsothe…
+    * Mais aussi un phénomène de "dédoublement, selon des formes multiples, allant de la reprise, de vocables, de phonèmes ou d'initiales jusqu'au transfert du nom complet d'un personnage à l'autre" [@Hotte-Pilon1992, 109]: Constance Chlore → Constance Kloür (AA); Lucie, Lucienne et Lucille → les trois Anne (NV); redoublement sonore: Blasey Blasey, Mille Milles, Faire Faire...; redoublement "allitérati[f]": Constance Chlore, Dick Dong, Asie Asothe…
     * Sur la **renomination**
         * "La nomination, chez Ducharme, oscille constamment entre la **foi dans le pouvoir absolu de nommer** – mon nom c'est moi – et le constat d'une inadéquation qui relance constamment le processus de nomination." [@Hotte-Pilon1992, 110]
         * "La renomination, fréquente chez Ducharme, équivaut à **renier un nom jugé adéquat, pour en revêtir un plus "vrai", plus "propre" à nommer**." [@Hotte-Pilon1992, 111]
@@ -48,5 +49,3 @@ Voir: Tinamer (?); nom intertextuel chez Soucy (Alice, guidée par Ariane sa soe
 
 Voir: linguistique du nom propre (Jonasson, Kleiber, Gary-Prieur)
 Voir: Benveniste?
-
-
