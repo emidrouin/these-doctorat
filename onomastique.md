@@ -11,6 +11,8 @@
 * sur le phénomène de renomination:
     * Onomastique: normalement une question **sémantique**, qui, avec la renomination, devient une question **énonciative** ou de ***praxis*** (?) / **praxématique**??
     * noms: en principe des **désignateurs rigides** (noms et pronoms) vs les désignateurs non-rigides (descriptions identifiantes) @Corblin1993
+   
+## Article de Lucie Hotte-Pilon
 * art. de @Hotte-Pilon1992
     * Bérénice Einberg (AA) → souhaite devenir seulement Bérénice, en rejetant le père, sa Loi et la Bible, pour "se tourn[er] vers les Bérénice de l'histoire, de la mythologie et de la littérature" [@Hotte-Pilon1992, 106]; + nommer le bérénicien à partir de son prénom [@Hotte-Pilon1992, 107]
     * reniement, par Ivugivic (NV) et B. Einberg (AA), de leur nom qui "connote une appartenance ethnique" [@Hotte-Pilon1992, 107]
@@ -49,3 +51,21 @@ Voir: Tinamer (?); nom intertextuel chez Soucy (Alice, guidée par Ariane sa soe
 
 Voir: linguistique du nom propre (Jonasson, Kleiber, Gary-Prieur)
 Voir: Benveniste?
+
+
+# Moi vs Soi
+
+* pour @Benveniste1974c, qui distingue les pronoms sujets de la série *je*, *tu*, *il* des pronoms autonomes *moi*, *toi*, *lui* (quoique le IL est permutable, voir p. 201)
+    * "Le pronom autonome *moi* se comporte à tous égards comme un nom propre." [@Benveniste1974c, 200]; "À la ressemblance et à la différence du nom propre social, MOI est, dans l'instance de discours, la désignation autique de celui qui parle: c'est son *nom propre de locuteur*, celui par lequel un parlant, toujours et seulement lui, se réfère à lui-même en tant que parlant, puis dénomme en face de lui TOI, et hors du dialogue, LUI." [@Benveniste1974c, 200]; Benveniste choisit de nommer "la série autonome de MOI, comme distincte du pronom *je*", par le terme "antonyme" [@Benveniste1974c, 201]
+    * série autonome: qui a une "situation "pronominale"" et une "consonance "onomastique"" [@Benveniste1974c, 201]
+    * constitue une "variété spécifique [de noms propres], propre à la langue actualisée dans le discours" [@Benveniste1974c, 201]
+* série *je*, *tu*, *il* qui s'adjoint les séries de pronoms objets *me* *te* *le* (*se*) (pronoms objets directs) et *moi* *toi* *lui* (*soi*) (pronoms objets indirects) [@Benveniste1974c, 203]
+
+## Rôle de la psychanalyse pour renverser Descartes
+* psychanalyse freudienne: n'a pas éliminé le sujet; elle l'a déplacé, et avec elle "ni la conscience, ni le Moi ne sont plus dans la position du principe ou de l'origine" [@Ricoeur1969, p. 327]
+* Descartes: "*je pense, je suis*" [@Ricoeur1969, p. 327]
+    * pousse à confondre la position d'existence (*je suis*) avec le "jugement de perception", en une "aperception de mon *être-tel*" [@Ricoeur1969, p. 327-328]
+* psychanalyse: "La psychanalyse introduit un coin entre l'apodicticité de la position absolue d'existence et l'adéquation du jugement portant sur l'*être-tel*. **Je suis, mais que suis-je, moi qui suis?** Voilà ce que je ne sais plus. En d'autres termes, la réflexion a perdu l'assurance de la conscience. *Ce que* je suis est aussi problématique qu'il est apodictique *que* je suis." [@Ricoeur1969, p. 328]
+
+
+

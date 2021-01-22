@@ -1,5 +1,10 @@
 # Journal de bord
 
+### Retour à la rédaction (janvier 2021)
+- finaliser chapitre 1A : *Parcours de la reconnaissance* pour compléter la réflexion ricoeurienne sur le *soi*
+- lier langage et identité: passer par les *Cahiers de praxématique* pour revenir à Ricoeur, et revoir comment Ricoeur lui-même s'appuie sur la question du langage (de l'énonciation), pour converger vers Benveniste
+- corpus littéraire: lire, annoter, extraire, trier
+
 ### Début de la rédaction (été 2020)
 - écrit à M-E: "Pour l'été, je pensais continuer l'analyse des romans, puis commencer à rédiger une section théorique sur Ricoeur et la question du langage (énonciation). J'aimerais aussi développer un peu ce que Ricoeur appelait le "tripôle de l'altérité" (conscience d'Heidegger, visage selon Levinas, corps propre/chair chez Husserl); je pense qu'il y a quelque chose d'important là-dedans, et que certains romans tendent davantage vers une ou l'autre de ces "modalités" de l'altérité. C'est à creuser. Ça dépendra éventuellement de la réouverture des bibliothèques, cependant, parce qu'il y a certaines sources que j'aimerais consulter et qui ne sont pas disponibles pour le moment."
 - aussi: question des pronoms et du nom propre / que penser quand il varie?
