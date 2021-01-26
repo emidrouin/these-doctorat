@@ -43,6 +43,9 @@ Non seulement elle convoque les deux premières – d’une part par le biais d
 
 Pour Ricoeur, la conscience vient donc à soi et pour soi par l’injonction d’autrui, mais également *de* soi par l’attestation de soi-même.
 
+* Écrire ici sur la reconnaissance @Ricoeur2004
+* *Soi-même comme un autre* (1990) qui ouvre la dernière portion de l'oeuvre philosophique de Ricoeur, celle de la **"phénoménologie de l'homme capable"**, dont fait partie selon Greisch la **capacité de reconnaissance** dont il est question dans le *Parcours de la reconnaissance* [@Greisch2006]
+
 C’est donc dans le cadre – et dans la continuité – de ce vaste héritage philosophique que s’inscrivent les réflexions et travaux de Paul Ricoeur à propos du soi et, plus largement, de l’identité.
 
 [^1]: Héritière de la pensée grecque sur les non grecs comme « barbares », cette réflexion était particulièrement fertile au tournant des années 90, alors que la publication de *Soi-même comme un autre* (1990) suivait de peu celle d’*Étrangers à nous-mêmes* (@Kristeva1988) et de *Nous et les autres* [@Todorov1989]. Nourri, au XXe siècle, par les études postcoloniales, l’intérêt pour l’altérité a même donné naissance à la théorisation sous l’appellation de littérature ou d’écriture « migrante », de tout un champ de la représentation littéraire de la question identitaire [@Simon1991], de l’altérité [@Baudrillard.Guillaume1992], de l’étranger [@Beaucage.Harel1992] ou de l’autre [@Paterson2004].
