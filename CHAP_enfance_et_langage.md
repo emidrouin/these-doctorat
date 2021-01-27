@@ -9,3 +9,6 @@
 
 ## Sur l’acquisition et la maîtrise du langage
 > « idée maîtresse de l’humanisme : l’homme, cet animal doué de parole, n’acquiert sa véritable dimension d’homme qu’en excellant dans ce qu’il a d’essentiellement humain, le langage. Maîtriser le langage, c’est se maîtriser soi-même et être capable de communiquer avec les autres. Apprendre à parler, c’est apprendre à vivre en société. Et bien parler, c’est-à-dire approprier son langage à l’auditeur et au sujet traité, pour respecter le principe de convenance que les Anciens appelaient *decorum*, n’est-ce pas une forme élevée du savoir vivre? », par Frank Bierlaire, « Colloques scolaires et civilités puériles au XVIe siècle » dans *Histoire de l’enfance en Occident* [@Becchi.Julia1998b, 280]
+
+## Psychanalyse lacanienne?
+* Voir [@Godin-Ouimet2018]

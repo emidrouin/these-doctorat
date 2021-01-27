@@ -1,4 +1,6 @@
 # Altérité
+
+## Versus « identité »
 * notions qui sont, définitionnellement, opposées (dans le dictionnaire, par ex.)
 * mais, selon Simon Harel, « le complément de l'identité n'est certes pas l'altérité, mais ce qui résiste à la mise en jeu spéculaire: un infigurable qui est en fait une altération de l'identité » [*Les passages obligés de l'écriture migrante*, cité dans @Lemieux2016, 15]
 * altérité…
