@@ -1,8 +1,20 @@
 # Journal de bord
 
+### Réflexions (janvier 2021)
+- lien entre altérité et langage – lien entre le « tripôle de l’altérité » [@Ricoeur1990] et la singularité énonciative
+    - chair/corps (Husserl): la nomination (*praxème nominatif*) comme présentation du *soi* au monde / aussi l’usage du *je*
+    - Visage (Lévinas) : l’intertextualité (textuelle ou onomastique) comme rapport d’intersubjectivité (Autre)
+    - conscience (*Gewissen*, Heidegger) : comme la modalité de déploiement, d’hésitation, d’alternance; rapport moi à moi; question de l’appel (plutôt *se laisser* appeler); confusion *je*-*tu*-*il*?
+- fiction: « Narro, ergo sum » (origine inconnue)
+- étude pragma-énonciative
+    - contexte: fiction littéraire
+    - je = singulatif
+    - tu = autre discursif de JE
+
 ### Retour à la rédaction (janvier 2021)
 - finaliser chapitre 1A : *Parcours de la reconnaissance* pour compléter la réflexion ricoeurienne sur le *soi*
 - lier langage et identité : passer par les *Cahiers de praxématique* pour revenir à Ricoeur, et revoir comment Ricoeur lui-même s’appuie sur la question du langage (de l’énonciation), pour converger vers Benveniste
+    - Écrit à M-E (été 2020) : « Je prévois maintenant commencer la rédaction d’une section qui développe les liens entre l’altérité et le langage. Mes pistes principales: la question des pronoms (soi qui est à la fois un ‘je’ et un ‘il’, éventuellement un ‘tu’ pour l’autre), l’onomastique (entrée du soi dans la langue; question des ancêtres, d’un ancrage), éventuellement sur le rapport à la littérature / l’intertexte. Pour les pronoms, j’y vois, en vue de l’analyse, déjà certains exemples intéressants, notamment dans *Jimmy* (le ‘je’ qui devient un ‘il’ ou un ‘tu’) et, évidemment dans *Mailloux* avec un ‘je’/‘moi’ surinvesti. Dans *Mailloux* toujours, la question de l’onomastique surgit inévitablement (le nom est surinvesti, comme le pronom de première personne, et les deux sont reliés à outrance); dans les autres textes, le nom est souvent déjà chargé de sens, littérairement ou historiquement (Bérénice qui est toutes les Bérénice de l’histoire; la *Petite fille qui aimait trop les allumettes* se nomme Alice, et sa soeur, son ‘guide’, Ariane; Jimmy qui fait le lien entre son nom et celui du coureur automobile Jimmy Clark...), ce qui me semble introduire, déjà, de l’‘autre dans le soi. Enfin, il y a aussi la question de l’onomastique variable ou changeante, ces noms qui changent sans cesse (*Le nez qui voque*, et tout Ducharme en fait). Peut-être que tout ça (la partie théorique), avec la section sur Ricoeur, pourrait constituer un chapitre 1? »
 - corpus littéraire : lire, annoter, extraire, trier
 - vieille hypothèse (vérifiée) : *Ricoeur: plutôt que de voir les polarités (soi/autre, par ex.) sur un mode binaire (soi vs Autre), il les voit sur le mode d’un spectre dont il tente de joindre les deux pôles (soi =?= Autre; que se passe-t-il si soi=Autre), les deux opposés; et c’est pour ça que ça s’applique si bien à la littérature, car la vocation de la fiction est souvent exactement celle-là: surprendre en jumelant les opposés, en faisant advenir l’improbable, en défiant le réel*
 
