@@ -1,5 +1,8 @@
 # Journal de bord
 
+### Utilité et visée du projet (mars 2021)
+- Projet qui nourrit la réflexion sur l’utilisation et l’appropriation de l'a langue, sur l’identité et la formation de l’identité, sur la question de l’appartenance à la communauté; sur *ce que ça signifie* que d’appartenir (ou de ne pas appartenir) à une communauté, notamment par la question ou la définition des pratiques (langagières)
+
 ### Réflexions (janvier 2021)
 - lien entre altérité et langage – lien entre le « tripôle de l’altérité » [@Ricoeur1990] et la singularité énonciative
     - chair/corps (Husserl): la nomination (*praxème nominatif*) comme présentation du *soi* au monde / aussi l’usage du *je*

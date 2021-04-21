@@ -34,3 +34,6 @@
 * Ricoeur et les pronoms
     * Ricoeur distingue donc deux approches (qui ne sont tout de même pas absolument opposées) de la personne : par la référence identifiante et par l’autodésignation [@Ricoeur1990, p. 44]
     * Ricoeur voit tout de même dans le « pouvoir d’autodésignation » ce qui « fait de la personne non plus seulement une chose d’un type unique, mais un soi  » [@Ricoeur1990, 45]
+
+## Intertextualité comme altérité
+* « L’idée d’intertextualité, affirme Marc Angenot, ‘sert au telquelien à proclamer la bonne nouvelle de la mort du sujet’. Les textes étant dans un engendrement perpétuel, l’auteur comme sujet individuel, définition héritée de la tradition du XIXème siècle, n’a plus de crédibilité : à travers sa voix ce sont des dizaines, des centaines d’autres voix qui s’expriment, surtout dans le roman, genre polyphonique par excellence. ‘À la place de la notion d’intersubjectivité s’installe celle d’intertextualité’ affirme Kristeva (*Sèméiotikè*, p. 146) ». [@Gignoux2006, 4]
