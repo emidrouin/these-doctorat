@@ -1,5 +1,8 @@
 # Journal de bord
 
+### De l’usage du « je » et du « nous »
+- « Avouerais-je enfin que je n’ai pas de règle fixe dans l’usage du « je » et du « nous », à l’exclusion du « nous » d’autorité et de majesté? Je dis de préférence « je » quand j’assume un argument et « nous » quand j’espère entraîner à ma suite mon lecteur. » [@Ricoeur2000b, III]
+
 ### Utilité et visée du projet (mars 2021)
 - Projet qui nourrit la réflexion sur l’utilisation et l’appropriation de l'a langue, sur l’identité et la formation de l’identité, sur la question de l’appartenance à la communauté; sur *ce que ça signifie* que d’appartenir (ou de ne pas appartenir) à une communauté, notamment par la question ou la définition des pratiques (langagières)
 
