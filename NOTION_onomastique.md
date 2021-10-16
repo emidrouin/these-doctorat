@@ -51,3 +51,6 @@ Voir : Tinamer (?); nom intertextuel chez Soucy (Alice, guidée par Ariane sa s
 
 Voir : linguistique du nom propre (Jonasson, Kleiber, Gary-Prieur)
 Voir : Benveniste?
+
+
+sur la renomination: en tant que *hapax*, rend la communication impossible (difficile?) : « Un langage infinitisé, correspondant symétrique de l’infinité des événements du monde, ne serait susceptible d’aucun apprentissage, l’occasion nouvelle prenant à tout coup au dépourvu la puissance signifiante. Il ne soutiendrait aucune communication. Il ne serait pas langage du tout, n’étant fait que d’*hapax*.. Il ne peut y avoir langage que par la finitude des éléments mis en jeu, et donc soumis au réemploi, et communication que par le réemploi lui-même. » [@Lafont1978, 129]
