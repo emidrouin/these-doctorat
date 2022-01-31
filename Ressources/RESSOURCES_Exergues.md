@@ -13,3 +13,7 @@
 > Ricoeur dans *Le conflit des interprétations*, « pour qui le langage est un mode d'être dans l'être » (cité, [http://www.analyse-du-discours.com/discours-et-subjectivite](http://www.analyse-du-discours.com/discours-et-subjectivite))
 
 > [à propos de Proust] : « l'écrivain confondît entièrement certains hommes avec leur langage, et ne donnât ses créatures que sous les pures espèces, sous le volume dense et coloré de leur parole » [@Barthes1953, p. 62]
+
+# Autres
+> « Avouerais-je enfin que je n’ai pas de règle fixe dans l’usage du « je » et du « nous », à l’exclusion du « nous » d’autorité et de majesté? Je dis de préférence « je » quand j’assume un argument et « nous » quand j’espère entraîner à ma suite mon lecteur. » [@Ricoeur2000b, III]
+> fiction: « Narro, ergo sum » (origine inconnue)

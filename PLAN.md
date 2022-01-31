@@ -7,7 +7,10 @@
 ### Enfance et langage
 ### Le travail de la psychanalyse
 - L-D Godin
+- Freud, Kristeva, Lacan
 ## Vers un autre chemin (= problématique)
+* Utilité et visée du projet: projet qui nourrit la réflexion sur l’utilisation et l’appropriation de l'a langue, sur l’identité et la formation de l’identité, sur la question de l’appartenance à la communauté; sur *ce que ça signifie* que d’appartenir (ou de ne pas appartenir) à une communauté, notamment par la question ou la définition des pratiques (langagières)
+* « Est-ce que l'écart linguistique dans ton corpus s'explique par un défaut de compétence (linguistique) ou par le succès d'une performance (littéraire)? Les deux peuvent aller de pair, voire l'une masquer l'autre… Cela dit, la notion de "singularité" me paraît comme la plus prometteuse à creuser. Une singularité est une identité tellement radicale, ou irréductible, qu'elle ne peut paraître qu'en tant qu'altérité aux yeux d'une communauté identitaire. Dans ce sens, l'enfant comme "radicalement autre" (ce qu'il était en tant qu'infans, avant la parole), mais seulement à titre '"provisoire", me semble une bonne piste à suivre et éclaircir, une fois qu'il est devenu "être langagier". » (commentaire de Gilles Dupuis)
 
 # La question de l’identité du sujet
 * *Ricoeur: plutôt que de voir les polarités (soi/autre, par ex.) sur un mode binaire (soi vs Autre), il les voit sur le mode d’un spectre dont il tente de joindre les deux pôles (soi =?= Autre; que se passe-t-il si soi=Autre), les deux opposés; et c’est pour ça que ça s’applique si bien à la littérature, car la vocation de la fiction est souvent exactement celle-là: surprendre en jumelant les opposés, en faisant advenir l’improbable, en défiant le réel*
@@ -26,6 +29,15 @@
 * Théorie: Benveniste
 * les déictiques comme *subjectivèmes*
 ## Travaux suivants: les subjectivèmes et la praxématique (?)
+## L’altérité et le langage
+* lien entre altérité et langage – lien entre le « tripôle de l’altérité » [@Ricoeur1990] et la singularité énonciative
+    * chair/corps (Husserl): la nomination (*praxème nominatif*) comme présentation du *soi* au monde / aussi l’usage du *je*
+    * Visage (Lévinas) : l’intertextualité (textuelle ou onomastique) comme rapport d’intersubjectivité (Autre)
+    * conscience (*Gewissen*, Heidegger) : comme la modalité de déploiement, d’hésitation, d’alternance; rapport moi à moi; question de l’appel (plutôt *se laisser* appeler); confusion *je*-*tu*-*il*?
+    *étude pragma-énonciative
+    - contexte: fiction littéraire
+    - je = singulatif
+    - tu = autre discursif de JE
 
 # La question des pronoms
 ## Sur la place du *je*
@@ -35,6 +47,7 @@
 ## Le glissement pronominal
 
 # L’onomastique
+* le nom est souvent déjà chargé de sens, littérairement ou historiquement (Bérénice qui est toutes les Bérénice de l’histoire; la *Petite fille qui aimait trop les allumettes* se nomme Alice, et sa soeur, son ‘guide’, Ariane; Jimmy qui fait le lien entre son nom et celui du coureur automobile Jimmy Clark...), ce qui me semble introduire, déjà, de l’‘autre dans le soi
 ## L’onomastique changeante
 ## Le nom inconnu
 ## Le nom déjà connu
