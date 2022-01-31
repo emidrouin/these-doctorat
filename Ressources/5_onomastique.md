@@ -1,4 +1,11 @@
 # Onomastique
+- entrée du soi dans la langue
+- psychanalyse? (Lacan, langage)
+    - voir L-D Godin
+- quand le nom précède - nom = signe chargé de sens (Bérénice = toutes les Bérénice de l’histoire; Alice et Ariane dans *La petite fille*; Jimmy le coureur automobile...) – personnages qui portent déjà un nom archi-sémantisé, littérairement ou historiquement; = de l’*autre* dans le soi
+- onomastique variable ou changeante : noms qui changent sans cesse
+
+# Onomastique
 * fonctions traditionnelles de l’onomastique :
     * « identifier, classer, signifier », + une fonction poétique @Nicole1983
     * nom propre : « marque conventionnelle d’identification sociale telle qu’elle puisse désigner constamment et de manière unique un individu unique » [@Benveniste1974c, 200]

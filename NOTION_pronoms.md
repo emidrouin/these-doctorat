@@ -1,5 +1,0 @@
-# De l’usage des pronoms
-
-# Pronom *on*
-* Analyse opératoire dans un corpus littéraire (*Sylvie*) : « L’emploi de *on* marque une position énonciative intermédiaire entre l’altérité absolue (l’autre en disjonction radicale) et l’ipséité (l’autre de l’autre : *je*) : *on* pose un monde où la dialectique du même et de l’autre ne se résout pas, mais reste en suspens, instaurant un espace du ‘ni même ni autre, un peu même un peu autre’, ce que dit par ailleurs fort bien sa forme non marquée en genre et en nombre. Le *je* qu’il inclut est un *je* saisi en même. [...] cette part d’*aliud* permet de revivre en autre ce *je* antérieur en le racontant. Mais il peut aussi renvoyer à l’alter ego, *tu*, dans une proximité du *je**, au *je* + non-*je* jusqu’au point disjonctif où *on* bascule dans l’*aliud* radical, et où il se transforme en *il(s)* : *on m’a dit/il n’a dit*. *On* manifeste une indistinction énonciative, à laquelle *je* participe en tant qeu médiateur de cette parole venue d’ailleurs, alors que dans *il m’a dit*, la disjonction d’avec l’autre étant consommée signe l’espace de parole attribué à chacun des co-locuteurs.  » [@Detrie1998, p. 32-33]
-* 

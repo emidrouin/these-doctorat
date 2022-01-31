@@ -1,4 +1,6 @@
 # Notions de praxématique
+* * sur la praxématique (vs analyse du discours), voir [@Guilhaumou2003]
+
 * « En dépit des précautions pour éviter toute option ontologique explicite (les structures sémiotiques sont-elles mises en évidence de la réalité objective ou ne sont-elles que construction, représentation intellectuelle?), la présupposition de l’immanence par rapport à la manifestation nous est apparue procéder d’une démarche marquée d’idéalisme : en posant l’antériorité logique d’un ‘être’ sur son ‘paraître’, elle pose en fait, selon nous, celle d’une essence. La praxématique opte au contraire pour une perspective inverse: il ne saurait y avoir de signifié immanent; n’existent que des outils linguistiques dont seule l’actualisation par un sujet est productrice de sens. » [@Barberis.etal1989, p. 31]
 * « Le praxème est l’unité pratique de production de sens que la praxématique substitue au signe. À contre courant de l’usage établi, la praxématique ne renvoie pas le référent à l’extralinguistique mais en fait une composante du fonctionnement du langage. » [@Barberis.etal1989, p. 34]
 * Définition académique de la praxématique : « Théorie linguistique centrée sur l’analyse de la production du sens en langage dans un cadre anthropologique et réaliste. » [@Detrie.etal2017, p. 298]

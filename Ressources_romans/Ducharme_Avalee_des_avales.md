@@ -1,0 +1,4 @@
+# L’Avalée des avalés
+* Intertextualité comme moyen de faire apparaître l’Autre de la littérature: l’Autre à l’intérieur de Bérénice qui serait la Littérature (sugg. d’ENL) – voir l’article de Jean-François Hamel; possible également que cette piste soit féconde pour *La petite fille qui aimait trop les allumettes*, où l’Autre serait la littérature et la philosophie (ou la *bibliothèque*, carrément).
+* Regarder l’Autre de la religion: voir si la Judéité est à l’oeuvre comme forme d’altérité, face à l’hégémonie catholique du Québec d’avant la Révolution tranquille (représentée par Christian et la mère). Certains travaux sur la judéité chez Ducharme pourraient être pertinents.
+* « Quand je serai grande, je ne passerai pas mon temps à déambuler paresseusement dans l'herbe morte. Je serai donc partie pour un lieu d'où l'on arrive en passant par des lieux où l'on ne s'arrête pas. » [@Ducharme1966a], cité par [@Meadwell2012, 89].

@@ -1,17 +1,8 @@
-# Pistes d’analyse
-* On peut penser à l’onomastique, qui est parfois changeante (tous ces personnages qui changent de nom dans les romans de Réjean Ducharme : Constance Chlore devenue Constance Exsangue; Mille Milles qui se présente sous le nom d’Étin Celant, et dont l’amie Chateaugué s’appelait auparavant Ivugivic), inconnue (le prénom de _La petite fille qui aimait trop les allumettes_ n’est dévoilé qu’à la toute fin; la narratrice d’_À l’abri des hommes et des choses_ n’est jamais nommée) ou déjà chargée de sens (Tinamer, l’enfant-anagramme de Jacques Ferron;  Bérénice Einberg au nom juif et son frère Christian; _Jimmy_ comme le pilote automobile; cette _Petite fille_ dont le prénom est Alice, comme l’héroïne de Lewis Caroll, et dont la sœur s’appelle Ariane, comme celle de la mythologie grecque; _Mailloux_ qui est « mouillé »). Il y a aussi les pronoms, notamment le _je_ surinvesti dans _Mailloux_ et désinvesti au profit du _il_ (par l’alternance _je_-_il_)  dans _Jimmy_. Nommons également le recours à des néologismes et détournements lexicaux (l’inversion entre les « automobilistes » et les « hommilistes » dans _Le nez qui voque_; celle, tout aussi axiologique, entre les « putes » et les « saintes vierges » dans _La petite fille qui aimait trop les allumettes_)  et syntaxiques (causés par la juxtaposition entre le _je_ et son nom par _Mailloux_), formes d’appropriation du langage, ou carrément aux recours à des langues autochtones (le nom d’Ivugivic du _Nez qui voque_)  ou étrangères (l’anglais, notamment dans _L’amélanchier_ et dans _À l’abri des hommes et des choses_), voire inventées (_L’avalée des avalés_) ou illisibles (le grimoire tout écrit avec la lettre « _l _» dans _La petite fille qui aimait trop les allumettes_). Enfin, pensons à la question de la mise en scène de l’écriture (_Mailloux_ qui « reçoit en songe les mots qui le font », puis qui noircit au crayon son plâtre jauni; _La petite fille_ qui rédige son « grimoire », cet « évangile de \[son\] enfer »), ainsi qu’à l’intertextualité et au rapport ainsi introduit entre la narration et la Littérature (notamment dans _L’avalées des avalés_; _La petite fille qui aimait trop les allumettes_).
+# Le nez qui voque
 
-## L’Avalée des avalés
-* Intertextualité comme moyen de faire apparaître l’Autre de la littérature: l’Autre à l’intérieur de Bérénice qui serait la Littérature (sugg. d’ENL) – voir l’article de Jean-François Hamel; possible également que cette piste soit féconde pour *La petite fille qui aimait trop les allumettes*, où l’Autre serait la littérature et la philosophie (ou la *bibliothèque*, carrément).
-* Regarder l’Autre de la religion: voir si la Judéité est à l’oeuvre comme forme d’altérité, face à l’hégémonie catholique du Québec d’avant la Révolution tranquille (représentée par Christian et la mère). Certains travaux sur la judéité chez Ducharme pourraient être pertinents.
-* « Quand je serai grande, je ne passerai pas mon temps à déambuler paresseusement dans l'herbe morte. Je serai donc partie pour un lieu d'où l'on arrive en passant par des lieux où l'on ne s'arrête pas. » [@Ducharme1966a], cité par [@Meadwell2012, 89].
+## Valorisation de l’enfance et dévalorisation de l’âge adulte
 
-
-## Le nez qui voque
-
-### Valorisation de l’enfance et dévalorisation de l’âge adulte
-
-#### Haine de l’adulte
+### Haine de l’adulte
 * Propos explicites de valorisation-dévalorisation:
     * "Quand on a été enfant, on le reste. [...] On ne devient pas ce que tu [Questa] es; on l’a toujours été. Tu es une adulte, tu es pourrie; tu es de la race des époux et des épouses, Tu es une bête. Tu n’as pas d’âme, pas de coeur, pas d’entrailles." (NV, p. 186) – propos qui résonne avec ceux de Bérénice (*l’enfant est dur, l’adulte est mou...*); adulte = pourri (donc enfance = idéal de pureté?); *revoir du côté de la critique de littérature anglaise, par rapport à la valorisation de l’enfance dans la littérature romantique inspirée par la théorie religieuse augustinienne*
     * "Je hais tellement l’adulte que je te dirais n’importe quoi pourvu que ce soit en haine, et que tu comprennes que c’est en haine. On naît enfant ou on naît adulte. [...] Je suis bouillant de haine. Je ne prends même pas la peine de choisir mes mots quand je parle aux adultes. Je leur crie n’importe quoi." (NV, p. 187) – intertexte explicite avec *L’avalée des avalés*
@@ -24,7 +15,7 @@
     * "Ce qui est sûr, c’est que, sauf exceptions, tous les adultes sont pris dans le mal, et que, sauf exceptions, tous les enfants ne sont que des victimes du mal à retardement." (NV, p. 194-195)
   
   
-#### Idéal de pureté pour l’enfance
+### Idéal de pureté pour l’enfance
 * Superposition de la dichotomie enfant/adulte ou homme/femme et du rapport à la littérature/lecture/culture
     * dans le sillage du paradigme de la pureté de l’enfance (biblique, puis repris maintes fois dans la littérature, notamment de tradition anglaise). Pour Mille Milles, lire = immaturité = homme (NV, chap. 14); de même, son rapport à la culture voit cette dernière comme équivalant en gros à la sexualité et à l’américanité
     * le rapport à la lecture, parce qu’il se passe à la bibliothèque et se fait souvent *contre* celle-ci (arracher une page, voler du temps) implique également un rapport conflictuel envers la société organisée/la structure sociale
@@ -42,7 +33,7 @@
     * dans la chambre: "Nous regardons en silence briller ces étoiles [chandelles allumées] d’un monde à nous seuls." (NV, p. 261)
 * mauvaise humeur d’adulte (durable) vs d’enfant (NV, p. 290)
 
-#### Rapport conflictuel à la société: soi vs société des adultes; soi l’adulte
+### Rapport conflictuel à la société: soi vs société des adultes; soi l’adulte
 * Rapport conflictuel à la société organisée: "jouer le jeu de la société, leur hostie de jeu" (NV, p. 92)
     * s’inscrit dans un idéal anti-capitaliste: ville et urbanité = logique capitaliste (argent + travail), qui est refusé par Mille Milles (NV, p. 107-108)
     * *s’inscrit dans l’idéal de pureté de l’enfance, en tant que volonté de ne pas se laisser souiller par les choses du monde des adultes, par ce qui se monnaie, par le monde organisé et hiérarchisé, par un monde qui vit au rythme d’une logique comptable, économique, capitaliste, à l’envers des valeurs éthiques*
@@ -78,9 +69,9 @@
     * autoportrait littéraire / JE: "Je suis un indésirable. Je suis indésirable pour moi-même comme pour le monde. [...] Avant, je n’étais pas comme cela. Je ne suis comme cela que depuis que je ne suis plus un enfant. [...] Tu m’écoeures, Mille Milles." (NV, p. 300-301)
 * être humain vs être logique (NV, p. 279)
 
-### Rapport au langage
+## Rapport au langage
 
-#### Rapport aux mots: vocabulaire, néologismes, jeux sur les sonorités
+### Rapport aux mots: vocabulaire, néologismes, jeux sur les sonorités
 * Rapport au langage qui implique un étroit rapport aux mots/au vocabulaire:
     * jeu sur la sonorité des mots
         * coup d’aile/d’elle (aigle) (NV, p. 171)
@@ -205,7 +196,7 @@
     * intertexte rada?: "devenir rat d’alcôve" (NV, p. 289) – radis, rat d’haie, rada de *Dévadé*?
 
 
-#### Question de la parole: énonciation, onomastique
+### Question de la parole: énonciation, onomastique
 * Posture d’"énonciateur énonçant":
     * mise en scène de l’acte du discours oral (de la même façon que l’"écrivain écrivant", lorsqu’il y a mise en scène de l’acte d’écrire): "Voilà que moi-même, je déclamais." (NV, p. 89)
     * rapport à sa propre écriture et à l’écriture philosophique: "Je fais mon petit Jean Racine, mon petit La Rochefoucauld, mon petit La Fontaine, mon petit hostie de comique." (NV, p. 96)
@@ -232,16 +223,3 @@
     * "Mes amis les hommes, s’ils m’entendent [...]. Mais je ne leur parle pas pour être entendu. Je leur parle, mais je n’ai pas besoin d’être vraiment entendu. Je parle en faisant semblant d’être entendu et faire semblant d’être entendu me suffit. Quant aux poètes, ils font semblant de parler pour être entendus. Penser que j’ai des amis parmi les hommes, cela aussi est faire semblant." (NV, p. 302) – *volonté d’être et d’énoncer de façon autre/ipse; à la façon des poètes – donc en étroit lien avec la langue et surtout l’usage littéraire/esthétique de la langue*
     * "O mon ami l’homme" (NV, p. 309)
     * "O hommes [...]", puis dénonce leur avarice d’âme, la vulgarité, la cruauté… (NV, p. 319-320)
-
-## Jimmy
-* "Je suis prêt à tout raconter, mais je n’ai jamais réussi à **parler vraiment avec quelqu’un**. Je veux dire, tu es prêt à raconter quelque chose, tu mets tous les mots à terre et tu les tiens par la queue pendant une minute [comme Papou a fait au Chanoine!], puis tu les lâches d’un coup et ils courent à quatre pattes dans tous les sens: tu te ramasses avec une histoire de zouave, pour être honnête." (Ji, p. 25)
-* **question des pronoms**: alternance je-tu-il pour désigner le narrateur
-* jeu/métonymie: "tu serais obligé de te lever et d’avoir l’air fou, et tu serais porté à donner ta langue au Chanoine" (Ji, p. 34)
-* ne pas appartenir?: "c’est ça que je veux dire au sujet de Papou: il parle parfois comme si je n’étais pas à lui ou quelque chose comme ça. C’est une des choses étrange qui ont commencé quand Mamie est restée longtemps a ’Hôtel-Dieu" (Ji, p. 47)
-* intertextes:
-    * *Le chat botté* (Charles Perrault): chat botté + Marquis de Carabas
-    * *Vingt mille lieues sous les mers* (Jules Verne): Capitaine Nemo
-* onomastique: Jimmy pour Jim Clark (coureur automobile)
-
-## Intertextualité
-> «Vous avez des trous dans votre chapeau», s'insurge, outré, Réjean Ducharme, attaquant l'éditeur Pierre Tisseyre qui a refusé de publier son *Océantume* (source?) – lien avec *La petite fille qui aimait trop les allumettes*
