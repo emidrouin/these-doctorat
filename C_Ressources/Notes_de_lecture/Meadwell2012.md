@@ -1,8 +1,6 @@
 ---
-Titre: Narrativité et voix de l'altérité: figurations et configurations de l'altérité dans le roman canadien d'expression française
-Auteur: Kenneth Meadwell
-Année: 2012
-Tag: @Meadwell2012
+title: Narrativité et voix de l'altérité: figurations et configurations de l'altérité dans le roman canadien d'expression française
+keywords: @Meadwell2012
 ---
 
 # Introduction

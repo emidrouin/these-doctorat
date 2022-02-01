@@ -1,8 +1,6 @@
 ---
-Titre: Soi-même comme un autre
-Auteur: Paul Ricoeur
-Année: 1990
-Tag: @Ricoeur1990
+title: Soi-même comme un autre
+keywords: @Ricoeur1990
 ---
 
 # Première étude. La "personne" et la référence identifiante. Approche sémantique

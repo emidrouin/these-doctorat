@@ -1,8 +1,6 @@
 ---
-Titre: Histoire de la sexualité III: le souci de soi
-Auteur: Michel Foucault
-Année: 1984
-Tag: @Foucault1984
+title: Histoire de la sexualité III: le souci de soi
+keywords: @Foucault1984
 ---
 
 # La culture de soi (chap. 2)

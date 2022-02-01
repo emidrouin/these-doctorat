@@ -1,8 +1,6 @@
 ---
-Titre: Un roman, ses langues. Prolégomènes
-Auteur: Benoît Melançon
-Année: 2016
-Tag: @Melancon2016
+title: Un roman, ses langues. Prolégomènes
+keywords: @Melancon2016
 ---
 
 * article dans *Études françaises*

@@ -1,3 +1,8 @@
+---
+title: Paul Ricoeur
+keywords: @Grondin2013
+---
+
 # À propos de la pensée de Ricoeur
 - Ricoeur comme « philosophie de l’écoute » [@Grondin2013, 10]
 - chez Ricoeur comme chez Heidegger: une herméneutique qui se prolonge vers une éthique [@Grondin2013, 10-11]

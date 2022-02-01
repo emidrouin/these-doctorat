@@ -1,8 +1,6 @@
 ---
-Titre: Histoire de l'enfance en Occident: de l'antiquité au XVIIe siècle (tome 1/2)
-Éditeurs: Egle Becchi et Dominique Julia
-Année: 1998 
-Tag: @Becchi.Julia1998b
+title: Histoire de l'enfance en Occident: de l'antiquité au XVIIe siècle (tome 1/2)
+keywords: @Becchi.Julia1998b
 ---
 
 # Histoire de l'enfance, histoire sans paroles? (par Becchi et Julia)

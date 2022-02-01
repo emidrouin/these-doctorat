@@ -1,8 +1,8 @@
 ---
-Titre: Problèmes de linguistique générale, tomes I et II
-Auteur: Émile Benveniste
-Année: 1966 (t. I) et 1974 (t. 2)
-Tag: @Benveniste1966c, @Benveniste1974c et autres
+title: Problèmes de linguistique générale, tomes I et II
+keywords:
+      - @Benveniste1966c
+      - @Benveniste1974c
 ---
 
 # Tendances récentes en linguistique générale (tome 1, chap. 1)

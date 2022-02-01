@@ -1,8 +1,6 @@
 ---
-Titre: Langagement
-Auteur: Lise Gauvin
-Année: 2000
-Tag: @Gauvin2000
+title: Langagement
+keywords: @Gauvin2000
 ---
 
 # Introduction

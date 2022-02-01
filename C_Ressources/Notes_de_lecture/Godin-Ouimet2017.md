@@ -1,8 +1,6 @@
 ---
-Titre: Le Québec comme un enfant: à propos d'un lieu commun de la recherche (conférence)
-Auteur: Louis-Daniel Godin-Ouimet
-Année: 2017
-Tag: @Godin-Ouimet2017
+title: Le Québec comme un enfant: à propos d'un lieu commun de la recherche (conférence)
+keywords: @Godin-Ouimet2017
 ---
 
 # Lieu commun: Québec comme un enfant

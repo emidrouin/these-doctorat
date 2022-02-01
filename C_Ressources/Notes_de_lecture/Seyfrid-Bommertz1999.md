@@ -1,8 +1,6 @@
 ---
-Titre: La rhétorique des passions dans les romans d'enfance de Réjean Ducharme
-Auteur: Brigitte Seyfrid-Bommertz
-Année: 1999
-Tag: @Seyfrid-Bommertz1999
+title: La rhétorique des passions dans les romans d'enfance de Réjean Ducharme
+keywords: @Seyfrid-Bommertz1999
 ---
 
 # Introduction

@@ -1,8 +1,6 @@
 ---
-Titre: Histoire de l'enfance en Occident: du XVIIe siècle à nous jours (tome 2/2)
-Éditeurs: Egle Becchi et Dominique Julia
-Année: 1998
-Tag: @Becchi.Julia1998a
+title: Histoire de l'enfance en Occident: du XVIIe siècle à nous jours (tome 2/2)
+keywords: @Becchi.Julia1998a
 ---
 
 # Histoire de l'enfance en Occident: Du XVIIIe siècle à nos jours
