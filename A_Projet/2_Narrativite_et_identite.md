@@ -1,16 +1,19 @@
-# Paul Ricoeur et la question de l’identité
+# 2. Narrativité et identité : la représentation de l’ipséité
+
+## Raconter : l’identité narrative
+
+## Les dialectiques de l’identité :  le *soi*, entre *soi-même* et *autre que soi*
 Sans vouloir refaire l’historique ou l’épistémologie de l’altérité – nous référerons pour ce faire à d’autres travaux [@Jodelet2008; @Frame2016] – nous souhaitons tout de même poser adéquatement les bases théoriques nécessaires à notre recherche.
 Pour ce faire, il nous apparaît incontournable de résumer certains des itinéraires philosophiques empruntés par Paul Ricoeur dans *Soi-même comme un autre*, itinéraires que nous empruntons aujourd’hui avec lui afin d’arriver au lieu de nos propres recherches avec le bagage nécessaire.
 Cette propédeutique est tout sauf futile: la pensée de Ricoeur sur l’identité et l’altérité, nourrie qu’elle est par la démarche herméneutique, repose avant tout sur la lecture, la compréhension et l’interprétation des travaux de ses prédécesseurs et de ses contemporains.
 
-## Les dialectiques de l’identité
 Pour Paul Ricoeur, la question de l’identité s’inscrit d’abord dans une dialectique entre les pôles de la mêmeté et de l’ipséité, respectivement l’*idem* et l’*ipse* latins. Il s’agit de deux différentes modalités de l’identité – l’identité-mêmeté ou identité-*idem* et l’identité-ipséité ou identité-*ipse* –, et Ricoeur fait passer l’attachement à l’un ou à l’autre de ces modèles par la question – et par le « *comment?* » – de la « permanence dans le temps » [@Ricoeur1990, 140].
 D’un côté, l’identité-mêmeté peut tenir sa permanence dans le temps soit selon le pôle du caractère [@Ricoeur1990, 146], dans la sédimentation ou la réitération d’habitudes ou de traits qui varient peu ou pas avec le temps, soit par les « identifications acquises » à des valeurs, normes ou idéaux – marqueurs d’appartenance à un groupe – qui sont intériorisés au point où ils ne semblent plus venir de l’extérieur [@Ricoeur1990, 147]. Pour le dire autrement, l’identité ainsi pensée correspond à une essence ou bien à des étiquettes que l’on endosse.
 De l’autre côté, l’identité-ipséité tient sa permanence dans le temps à la « fidélité à la parole donnée » [@Ricoeur1990, 148], que Ricoeur explique en relevant les différentes traductions données au terme allemand *Selbständigkeit* emprunté à Martin Heidegger: sa propre traduction dans *Temps et récit III*, « constance à soi », et celle – postérieure – d’Emmanuel Martineau, « maintien de soi » [@Ricoeur1990, 149].
 Ainsi, empruntant toujours à la pensée et au vocabulaire heideggériens, Ricoeur explique que cette notion de parole tenue implique « un certain investissement existentiel des transcendantaux de l’existence », ou « existentiaux » [@Ricoeur1990, 149], autrement dit une justification éthique si forte que la tenue de cette promesse  – le maintien, dans l’existence, d’une fidélité envers elle – puisse éventuellement aller à l’encontre du pôle du caractère [@Ricoeur1990, 149].
 Il y a donc encore permanence dans le temps, mais elle ne repose plus sur un phénomène de fixité ou un jeu d’identification et d’appartenance tel que l’induisait la mêmeté.
 
-### La dialectique entre le soi et l’autre que soi
+### La part d’*autre* dans le soi: la dialectique entre le soi et l’autre que soi
 Dès lors, l’ipséité du *soi* ne peut plus se penser uniquement dans une dialectique avec la mêmeté, que ce soit celle du caractère en tant que noyau inchangeant ou celle de l’adhésion à un groupe.
 Dans *Soi-même comme un autre*, Ricoeur introduit, à partir de la notion d’identité-ipséité et par le biais d’une nouvelle dialectique entre le *soi* et l’*autre que soi* [@Ricoeur1990, 13], le concept d’*altérité*.
 Cette façon d’envisager l’autre, concept étymologiquement opposé au même [@Ricoeur1990, 13], semble à première vue s’inscrire dans la dialectique ancienne du Même et de l’Autre [@Ricoeur2004a, 46-48], et donc dans la réflexion millénaire à propos de l’autre en tant qu’étranger[^1].
@@ -43,10 +46,11 @@ Non seulement elle convoque les deux premières – d’une part par le biais d
 
 Pour Ricoeur, la conscience vient donc à soi et pour soi par l’injonction d’autrui, mais également *de* soi par l’attestation de soi-même.
 
-* Écrire ici sur la reconnaissance @Ricoeur2004 - se reco soi-m
-* *Soi-même comme un autre* (1990) qui ouvre la dernière portion de l'oeuvre philosophique de Ricoeur, celle de la **"phénoménologie de l'homme capable"**, dont fait partie selon Greisch la **capacité de reconnaissance** dont il est question dans le *Parcours de la reconnaissance* [@Greisch2006]
-
+## Se raconter: un enjeu éthique
 C’est donc dans le cadre – et dans la continuité – de ce vaste héritage philosophique que s’inscrivent les réflexions et travaux de Paul Ricoeur à propos du soi et, plus largement, de l’identité.
+
+
+***
 
 [^1]: Héritière de la pensée grecque sur les non grecs comme « barbares », cette réflexion était particulièrement fertile au tournant des années 90, alors que la publication de *Soi-même comme un autre* (1990) suivait de peu celle d’*Étrangers à nous-mêmes* (@Kristeva1988) et de *Nous et les autres* [@Todorov1989]. Nourri, au XXe siècle, par les études postcoloniales, l’intérêt pour l’altérité a même donné naissance à la théorisation sous l’appellation de littérature ou d’écriture « migrante », de tout un champ de la représentation littéraire de la question identitaire [@Simon1991], de l’altérité [@Baudrillard.Guillaume1992], de l’étranger [@Beaucage.Harel1992] ou de l’autre [@Paterson2004].
 [^2]: « Quand le visage d’autrui s’élève face à moi, au-dessus de moi, ce n’est pas un apparaître que je puisse inclure dans l’enceinte de mes représentations miennes [...]. C’est en moi que le mouvement parti de l’autre achève sa trajectoire: l’autre me constitue responsable, c’est-à-dire capable de répondre. Ainsi la parole de l’autre vient-elle se placer à l’origine de la parole par laquelle je m’impute à moi-même l’origine de mes actes. » [@Ricoeur1990, 388]

@@ -1,112 +1,194 @@
-# Introduction
-* le personnage d’enfant; au Québec, souvent en lien avec le genre du roman d’apprentissage
-* travail sur la représentation romanesque et narrative de l’ipséité, à partir d’un corpus restreint aux romans « de l’enfance », notamment parce qu’ils ont déjà reçu une réception et une lecture critiques qui ont été par la suite contestées et nuancées
+# 1. Introduction
 
-## L’enfance dans le roman québécois contemporain
+## L’enfance comme *topos* dans le roman (québécois contemporain)
+- [ ] hyperreprésentation de l’enfance dans le roman (québécois contemporain)
+- [ ] le personnage d’enfant, en lien avec le roman d’apprentissage?
 
 ## La lecture politique
+- [ ] Aurélien Boivin, Monique Boucher, Serge Cantin, Georges Desmeules, Isabelle L’Italien-Savard, Denise Lemieux
+- [ ] Critique : [@Godin-Ouimet2017], [@Godin-Ouimet2018, intro]
 
-## Les nouvelles lectures
+## Les nouvelles/autres lectures
+- [ ] Le travail de la psychanalyse (Freud, Kristeva, Lacan) [@Godin-Ouimet2018]
+- [ ] Question de narration [@Poiesz2006] [@Lemelin2009] [@Lacoursiere1993]
 
-### Enfance et langage
+## Vers un autre chemin
+- [ ] Pertinence de la recherche
+- [x] Problématique claire
 
-### Le travail de la psychanalyse
-* L-D Godin
-* Freud, Kristeva, Lacan
 
-## Vers un autre chemin (= problématique)
-* Utilité et visée du projet: projet qui nourrit la réflexion sur l’utilisation et l’appropriation de l'a langue, sur l’identité et la formation de l’identité, sur la question de l’appartenance à la communauté; sur *ce que ça signifie* que d’appartenir (ou de ne pas appartenir) à une communauté, notamment par la question ou la définition des pratiques (langagières)
-* « Est-ce que l'écart linguistique dans ton corpus s'explique par un défaut de compétence (linguistique) ou par le succès d'une performance (littéraire)? Les deux peuvent aller de pair, voire l'une masquer l'autre… Cela dit, la notion de "singularité" me paraît comme la plus prometteuse à creuser. Une singularité est une identité tellement radicale, ou irréductible, qu'elle ne peut paraître qu'en tant qu'altérité aux yeux d'une communauté identitaire. Dans ce sens, l'enfant comme "radicalement autre" (ce qu'il était en tant qu'infans, avant la parole), mais seulement à titre '"provisoire", me semble une bonne piste à suivre et éclaircir, une fois qu'il est devenu "être langagier". » (commentaire de Gilles Dupuis)
+# 2. Narrativité et identité : la représentation de l’ipséité
+- [ ] Question de la narrativité et de l’ipséité [@Meadwell2009] [@Meadwell2012] [@Meadwell2012a] 
 
-***
-# La question de l’identité du sujet
-* Ricoeur: plutôt que de voir les polarités (soi/autre, par ex.) sur un mode binaire (soi vs Autre), il les voit sur le mode d’un spectre dont il tente de joindre les deux pôles (soi =?= Autre; que se passe-t-il si soi=Autre), les deux opposés; et c’est pour ça que ça s’applique si bien à la littérature, car la vocation de la fiction est souvent exactement celle-là: surprendre en jumelant les opposés, en faisant advenir l’improbable, en défiant le réel*
+## Raconter : l’identité narrative
+- [ ] Définition de l’identité narrative
 
-## La notion du *soi*
+## Les dialectiques de l’identité :  le *soi*, entre *soi-même* et *autre que soi*
+- [x] Pensée de Ricoeur sur l’identité [@Ricoeur1990]
 
-## Ricoeur et l’identité (les dialectiques de l’identité)
+## Se raconter : un enjeu éthique
+- [ ] La dimension collective de l’identité @Ricoeur2004 @Ricoeur2000
+- [ ] Question de *reconnaissance* (se reconnaître soi-même, voir [@Ricoeur2004]); *Soi-même comme un autre* (1990) qui ouvre la dernière portion de l'oeuvre philosophique de Ricoeur, celle de la **"phénoménologie de l'homme capable"**, dont fait partie selon Greisch la **capacité de reconnaissance** dont il est question dans le *Parcours de la reconnaissance* [@Greisch2006]
+- [ ] La dimension éthique [@Ricoeur1990, chap. 10] [@Ricoeur2004]
 
-## L’identité narrative
 
-***
+# 3. Du langage dans la subjectivité: la question du langage
+- [ ] Ricoeur, vers la question du langage
 
-# Du langage dans la subjectivité: la question du langage
-* « D’une manière générale, en plaçant le sujet (au sens philosophique du terme) au centre des grandes catégories du langage, en montrant, à l’occasion de faits très divers, que ce sujet ne peut jamais se distinguer d’une ‘instance de discours’, différente de l’instance de la réalité, Benveniste fonde linguistiquement, c’est-à-dire scientifiquement, l’identité du sujet et du langage, position qui est au coeur de bien des recherches actuelles et qui intéresse aussi bien la philosophie que la littérature; de telles analyses désignent peut-être l’issue d’une vieille antinomie, mal liquidée : celle du subjectif et de l’objectif, de l’individu et de la société, de la science et du discours. » [@Barthes1984, p. 193]
-* « De manière très grossière, on pourrait voir dans la réflexion pragmatique un effort pour repenser la coupure entre le logique et le rhétorique ou, quand elle se fait plus délibérément linguistique, pour repenser la coupure entre la structure grammaticale et son utilisation. En d'autres termes, **il y a pragmatique linguistique** si l'on considère que **l'utilisation du langage**, son **appropriation par un énonciateur** s'adressant à un allocutaire dans un contexte déterminé, **ne s'ajoute pas de l'extérieur à un énoncé** en droit autosuffisant, mais que **la structure du langage** est **radicalement conditionnée** par le fait qu'il est **mobilisé par des énonciations singulières** et **produit un certain effet à l'intérieur d'un certain contexte**, verbal et non-verbal. » (Dominique Maingueneau, *Pragmatique pour le discours littéraire*, p. 2-3)
-* voir le personnage comme une *instance d’énonciation*
-* **Ricoeur et le langage** : langage comme « un mode d’être dans l’être » (*Le conflit des interprétations*)
-* Ipséité et nomination/onomastique : identité = réponse au *qui* suis-je?; la réponse peut être un nom; mais que faire quand l’onomastique est changeante/subversive? la réponse n’est plus l’identité..? mais quand c’est une auto-nomination farfelue, serait-ce une réponse au *que* suis-je, donc à l’ipséité? réponse du soi à la question sur soi?
-* voir Claude Romano : identité en première personne (ce que je suis indépendamment de ma volonté, mais sur laquelle je peux avoir certaines attitudes) vs identité en troisième personne (le volontaire) / possiblement de Ricoeur, *Le volontaire et l’involontaire*
+## Le langage comme *pratique* : la linguistique de l’énonciation
+- [ ] L’énonciation comme appropriation de la langue [@Benveniste1974], [@Benveniste1974]
+- [ ] Notion de déictiques
+- [ ] Notion de subjectivèmes [@Kerbrat-Orecchioni1980] [@Rabatel2008]
+- [ ] Langage et subjectivité [@Benveniste1966d]
+- [ ] Langage et intersubjectivité [@Benveniste1974b]
 
-## Travaux fondateurs: les déictiques (Benveniste)
-* Théorie: Benveniste
-* les déictiques comme *subjectivèmes*
+## L’altérité et le langage (cadre conceptuel)
+- [ ] en littérature : voir le personnage comme une « instance d’énonciation »
+- [ ] lien entre altérité et langage: lien entre le « tripôle de l’altérité » [@Ricoeur1990] et la singularité énonciative
+    - [ ] mondanéisation (à la façon du rapport chair/corps chez Husserl) :
+        - [ ] nomination (*praxème nominatif*) comme présentation du *soi* au monde (le nom comme identification, comme réponse au *qui suis-je?*)
+        - [ ] usage du *je* versus l’usage du *il*
+            - [ ] identité en première personne (ce que je suis indépendamment de ma volonté, mais sur laquelle je peux avoir certaines attitudes) versus identité en troisième personne (le volontaire) [@Romano2015]
+    - [ ] intersubjectivité (à la façon du Visage chez Lévinas) :
+        - [ ] dialogisme bakhtinien [@Bakhtine1975]
+        - [ ] intertextualité (textuelle ou onomastique) comme rapport à l’Autre
+        - [ ] emprunt lexical ou linguistique comme interdiscours
+        - [ ] idiolectalisation comme brouillage discursif (néologismes, notamment)
+    - [ ] autoréflexivité sur l’identité (à la façon de la conscience heideggérienne comme modalité du déploiement, d’hésitation, d’alternance)
+        - [ ] glissement pronominal : confusion *je*-*tu*-*il*
+        - [ ] glissement onomastique : onomastique changeante (du *qui suis-je?* au *que suis-je?*)
+        - [ ] rapport à l’intertextualité sur la modalité de l’*appel* de la conscience (de l’autre en soi)
 
-## Travaux suivants: les subjectivèmes et la praxématique (?)
 
-## L’altérité et le langage
-* lien entre altérité et langage – lien entre le « tripôle de l’altérité » [@Ricoeur1990] et la singularité énonciative
-    * chair/corps (Husserl): la nomination (*praxème nominatif*) comme présentation du *soi* au monde / aussi l’usage du *je* / « La parole est un geste et ce geste est un monde » (*Phénoménologie de la perception*, Merleau-Ponty)
-    * Visage (Lévinas) : l’intertextualité (textuelle ou onomastique) comme rapport d’intersubjectivité (Autre)
-    * conscience (*Gewissen*, Heidegger) : comme la modalité de déploiement, d’hésitation, d’alternance; rapport moi à moi; question de l’appel (plutôt *se laisser* appeler); confusion *je*-*tu*-*il*?
-    *étude pragma-énonciative
-    - contexte: fiction littéraire
-    - je = singulatif
-    - tu = autre discursif de JE
+# 4. L’onomastique
+- [ ] place du nom propre dans l’énonciation [@Benveniste1974c]
+- [ ] fonction de l’onomastique [@Nicole1983] [@Baudelle.Nardout-Lafarge2018]
+- [ ] en littérature [@Baudelle1989] [@Hotte-Pilon1992]
 
-***
+## L’onomastique indécise ou inconnue
+- [ ] personnages qui changent de nom (comme façon de redéployer l’identité)
+    - [ ] Constance Chlore → Constance Exsangue `(AA)`
+    - [ ] Chateaugué ← Ivugivic `(NV)`
+- [ ] pratique du surnom (comme façon de multiplier les possibles de l’identité)
+    - [ ] renomination: Mille Milles → Étin Celant `(NV)`
+    - [ ] jeu de mots: Mille Milles → Mille Kilomètres `(NV)`
+- [ ] nom collectif
+    - [ ] Mille Milles + Chateaugué = Tate `(NV)`
+- [ ] narratrice qui n’est jamais nommée `(AHC)`
+- [ ] narratrice dont le nom n’est dévoilé qu’à la fin `(PF)`
 
-# La question des pronoms
+## Le nom pré-sémantisé
+- [ ] le nom et la culture: personnage *palimpseste*, comme rapport à l’Autre de la culture (façon de s’inscrire dans un ordre symbolique)
+    - [ ] rapport à l’Histoire: Bérénice qui est « toutes les Bérénice de l’histoire » `(AA)`
+    - [ ] rapport au littéraire: Alice (comme celle de Lewis Caroll) `(PF)`
+    - [ ] rapport à la mythologie: Ariane, qui joue le rôle de guide `(PF)`
+    - [ ] rapport au personnage historique: Jimmy (Clark) comme le pilote automobile `(Ji)` – le *glissement* est particulier, ici, et mène à une quasi-fusion énonciative entre les deux
+- [ ] le nom et la langue : sémantique du nom dans le système linguistique
+    - [ ] Tinamer comme enfant-anagramme, et dont le nom la lie au réel (fille de Ferron) `(Am)`
+    - [ ] Benoît Cyr / « en cire » `(T24)` [@Godin-Ouimet2018]
+    - [ ] Bérénice Einberg au nom juif et son frère Christian `(AA)`
+    - [ ] *Mailloux*, anagramme phonétique Mailloux/mouilla (mouillé) `(Ma)`
 
-## Sur la place du *je*
-* Ricoeur (soi = je/il)
-* revenir sur la psychanalyse
 
-## Le surinvestissement ou le désinvestissement?
+# 5. La question des pronoms
+- [ ] Travaux sur les déictiques et les pronoms [@Benveniste1966a]
+- [ ] Revenir rapidement sur la place du *je* dans la réflexion sur le *soi* en première personne
+- [ ] Revenir sur la psychanalyse (le *je* du *moi*)
 
-## Le glissement pronominal
+## Surinvestissement ou désinvestissement
+- [ ] le surinvestissement de la première personne par le redoublement *je* *moi* `(Ma)` [@Godin2017] [@Godin-Ouimet2018]
+- [ ] le désinvestissement de la première personne par l’énonciation de soi à la troisième personne `(Ji)`
+    - [ ] comme façon de dépersonnaliser et de généraliser le propos – *je fais ceci*, mais *tu peux aussi*, et en fait *tout le monde le fait* – comme façon d’universaliser le propos et de contrebalancer la solitude de son individualité? (appel à l’intersubjectivité)
+    - [ ] glissement de la première à la troisième personne (« le pilote ») qui fait place à un *il* fantasmé `(Ji, 56-57)`
 
-***
+## L’inconstance pronominale
+- [ ] l’alternance pronominale et le glissement *je* / *tu* / *il*: « Je suis prêt à tout raconter, mais je n’ai jamais réussi à parler vraiment avec quelqu’un. Je veux dire, tu es prêt à raconter quelque chose, tu mets tous les mots par terre et tu les tiens par la queue pendant une minute, puis tu les lâches d’un coup et ils courent à quatre pattes dans tous les sens :  tu te ramasses avec une histoire de zouave, pour être honnête. » `(Ji)`
+- [ ] le glissement masculin / féminin des accords `(PF)`
 
-# L’onomastique
-* le nom est souvent déjà chargé de sens, littérairement ou historiquement (Bérénice qui est toutes les Bérénice de l’histoire; la *Petite fille qui aimait trop les allumettes* se nomme Alice, et sa soeur, son ‘guide’, Ariane; Jimmy qui fait le lien entre son nom et celui du coureur automobile Jimmy Clark...), ce qui me semble introduire, déjà, de l’‘autre dans le soi
 
-## L’onomastique changeante
+# 6. Le vocabulaire
+- [ ] outre les agrammaticalités causées par la juxtaposition du pronom et du nom `(Ma)` ou par le glissement pronominal `(Ji)`
 
-## Le nom inconnu
+## Néologismes et inventions
+- [ ] néologismes
+    - [ ] ayant pour fonction d’atténuation: « hortensesturber » et « branle-bas » / se « branle-basser » `(NV)`
 
-## Le nom déjà connu
-
-***
-
-# L’idiolectalisation
-* notion: idiolecte
-* idiolectalisation comme *processus* (Détrie?)
-
-## Néologismes et détournements
+## Détournement et jeu
+- [ ] détournement lexical
+    - [ ] par l’inversion « automobilistes » / « hommilistes » `(NV)`
+    - [ ] par la confusion « putes » / « saintes vierges » `(PF)`
+    - [ ] par la généralisation des livres qui sont tous des « dictionnaires » `(PF)`
+    - [ ] idée d’une « race » féminine `(AHC)`
+    - [ ] surutilisation de déterminants possessifs `(AHC)`
+- [ ] utilisation de la métaphore (comme détournement ou double sens)
+    - [ ] mot = « parasite d’académie » `(NV, 100)`
+- [ ] imprécision
+    - [ ] « Dieu, sa Trinité et le Grand Esprit » `(AHC)`
+    - [ ] énumération « Sainte Trinité » + divinités spéciales et vaudou `(AHC)`
+    - [ ] utilisation du mot « Sainte » comme adjectif (usage hors du religieux) `(AHC)`
 
 ## L’emprunt aux langues étrangères: de l’autre dans le même
+- [ ] transcription de la prononciation de langues étrangères
+    - [ ] transcription de l’anglais `(Am)`
+    - [ ] transciption erronnée de l’anglais `(AHC)`
+- [ ] langues « autochtones », notamment pour le nom d’Ivugivic `(NV)`
 
-## Question de la langue *inventée* : du soi dans le soi-même
+# 7. L’idiolectalisation
+- [ ] notion (critiquée) d’*idiolecte*
+- [ ] l’*idiolectalisation* comme *processus* [@Detrie2005]
 
-***
+## La mise en scène du rapport à la langue
+- [ ] Mailloux qui « reçoit en songe les mots qui le font » `(Ma)`
+    - [ ] rapport au « mot d’heurque » `(Ma)`
+    - [ ] assonance (?) « tas de merde, t’es de marde » `(Ma)`
+- [ ] commentaires métalinguistiques et rapport aux mots en tant que signes
+    - [ ] « Je ne haïssais l’adulte que lorsque je pensais au mot adulte. J’aime tous les adultes que je connais. » `(NV, 205)`
 
-# L’intertextualité: une question de *mise en scène*
-* de l’écriture
-* de la Littérature
+## La langue *inventée* : du soi dans le soi-même
+- [ ] commentaires métadiscursifs/métaénonciatifs à propos de la volonté idiolectale
+    - [ ] le projet du bérénicien comme projet anti-adultes `(AA)`
+    - [ ] l’écriture du grimoire tout en « l » `(PF)`
+- [ ] le détournement comme action politique/militante
+    - [ ]  RE : « automobilistes » / « hommilistes » `(NV)`
+    - [ ]  utilisation du nom « Molière » comme un synonyme de « comique » `(NV)`
 
-## L’intertextualité comme intersubjectivité / rapport à l’autre
-* emprunts, plagiats
-* voir réflexion de Marc Angenot
+# 8. L’intertextualité
+- [ ] Littérature comme Autre
+- [ ] intertextualité comme intersubjectivité, selon Kristeva; voir aussi Angenot
+- [ ] or, dans le corpus, le rapport
 
-***
+## Le rapport à l’institution du littéraire: un rapport « pour soi »
+- [ ] rapport de désacralisation
+    - [ ] par l’absence de typographie (pas de majuscules, pas d’italiques pour les noms d’auteurs et titres de livres) `(PF)`
+    - [ ] par la réduction de toute la littérature à des livres de chevalerie `(PF)`
+    - [ ] rejet de l’institutionalisation du littéraire par le « vol de temps » à la bibliothèque du St-Sulpice `(NV)`
+    - [ ] par l’intertextualité peu visible et abondante (chez Ducharme, en général)
 
-# Des personnages *autres*
+## L’intertextualité comme *mémoire*: du collectif dans le soi
+- [ ] la Littérature en tant qu’autre; introduit un rapport à la *mémoire* [@Hamel2001]
+- [ ] or, 
+    - [ ] rapport de plagiat, de pillage (chez Ducharme)
+        - [ ] nom « Mille Milles » comme intertexte du *Le petit prince*? `(NV)`
+        - [ ] vol de « temps » à la bibliothèque du St-Sulpice `(NV)`
+
+## Rapport à l’écriture
+- [ ] mise en scène de l’écriture
+    - [ ] le noircissement du plâtre jauni (l’écriture comme façon de cacher) `(Ma)`
+    - [ ] principe du « secrétarien » et mise en scène de l’écriture du « grimoire » comme « évangile de mon enfer » `(PF)`
+    - [ ] écriture du journal et conscience de la posture d’énonciateur narrant `(NV)`
+    - [ ] notion d’ « évangile » – aussi un rapport aux genres littéraires `(NV)`
+- [ ] mise en scène de l’acte du discours oral: « Voilà que moi-même, je déclamais. » `(NV, 89)`
+- [ ] usages de l’adresse
+    - [ ] « O mon ami l’homme » / « O hommes » `(NV)`
+
+# 9. Conclusion: des personnages *autres*
+- [ ] *enfants de langage*: des personnages / narrateurs qui sont davantage *comment* ils disent
 
 ## Notion d’altérité (rappel)
+- [ ] posture de Ricoeur: plutôt que de voir les polarités (soi/autre, par ex.) sur un mode binaire (soi vs Autre), il les voit sur le mode d’un spectre dont il tente de joindre les deux pôles (soi =?= Autre; que se passe-t-il si soi=Autre), les deux opposés; et c’est pour ça que ça s’applique si bien à la littérature, car la vocation de la fiction est souvent exactement celle-là: surprendre en jumelant les opposés, en faisant advenir l’improbable, en défiant le réel
+- [ ] particularité de cette perspective: cette façon de *travailler* les dialectiques force à penser l’entre-deux autrement, à ne pas voir uniquement le rapport d’opposition ou de complémentarité (entre les deux pôles) mais la possibilité que l’un se pense dans l’autre, que l’un existe dans l’autre
+- [ ] ce qui rend possible de penser le rapport entre langue et identité *autrement*
 
-***
-
-# Conclusion
-
-## La dialectique entre soi et l’autre: retour à une lecture « politique »
+## Le rapport à la langue comme démonstration d’une dialectique entre soi et l’autre: retour à une lecture « politique »?
+- [ ] Façon d’utiliser la langue qui est, même lorsque ce n’est pas militant (ou que la lecture qu’on en fait n’y voit pas un aspect militant), une démonstration à portée politique [@Gauvin2000]
+- [ ] Enjeu *praxique* et ultimement ontologique qui force à penser la perspective éthique; donc forcément la question du vivre ensemble?

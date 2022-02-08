@@ -1,0 +1,38 @@
+# Corpus (et abbréviations)
+* à confirmer
+
+## Ordre alphabétique
+AA: *L’avalée des avalés* [@Ducharme1966]
+Am: *L’amélanchier* [@Ferron1970]
+AHC: *À l’abri des hommes et des choses* [@Boulay2016]
+* Ca: *Les cachettes* [@Lalancette2020]
+CPM : *C'est pas moi, je le jure!* [@Hebert1997]
+* ÉA: *L’évasion d’Arthur ou La commune d’Hochelaga* [@Leduc2019]
+Ji: *Jimmy* [@Poulin1969]
+Ma: *Mailloux: histoires de novembre et de juin* [@Bouchard2002]
+MSL: *Du mercure sous la langue* [@Trudel2001c]
+NS: *Numéro six* [@Bouchard2014]
+NV: *Le nez qui voque* [@Ducharme1968]
+Oc: *L’océantume* [@Ducharme1967]
+PF: *La petite fille qui aimait trop les allumettes* [@Soucy1998]
+* PV: *La petite et le vieux* [@Lavoie2010]
+SH: *Le souffle e l’harmattan* [@Trudel1986a; @Trudel2001b]
+T24: *Tiroir n°24* [@Delisle2010]
+
+## Ordre chronologique
+AA: *L’avalée des avalés* [@Ducharme1966]
+Oc: *L’océantume* [@Ducharme1967]
+NV: *Le nez qui voque* [@Ducharme1968]
+Ji: *Jimmy* [@Poulin1969]
+Am: *L’amélanchier* [@Ferron1970]
+SH: *Le souffle e l’harmattan* [@Trudel1986a; @Trudel2001b]
+CPM : *C'est pas moi, je le jure!* [@Hebert1997]
+PF: *La petite fille qui aimait trop les allumettes* [@Soucy1998]
+MSL: *Du mercure sous la langue* [@Trudel2001c]
+Ma: *Mailloux: histoires de novembre et de juin* [@Bouchard2002]
+T24: *Tiroir n°24* [@Delisle2010]
+* PV: *La petite et le vieux* [@Lavoie2010]
+NS: *Numéro six* [@Bouchard2014]
+AHC: *À l’abri des hommes et des choses* [@Boulay2016]
+* ÉA: *L’évasion d’Arthur ou La commune d’Hochelaga* [@Leduc2019]
+* Ca: *Les cachettes* [@Lalancette2020]

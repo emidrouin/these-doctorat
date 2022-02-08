@@ -163,7 +163,7 @@
         * "les avides d’argent de langue anglaise" / "les avides de dollars des États-Unis" / "des remplis de dollars touristiques des États-Unis" (NV, p. 325)
     * rapport aux langues étrangères (grec et italien/latin)
         * cuisiniers italiens et grecs qui ne parlent pas français (NV, p. 233)
-        * peuples: G		recs et Romains (NV, p. 262, 267, 292); Italiens et Grecs (NV, p. 289)
+        * peuples: Grecs et Romains (NV, p. 262, 267, 292); Italiens et Grecs (NV, p. 289)
         * langues: qui parlent grec et latin (NV, p. 268, 292)
             * les langues de Caligula et d’Euripide (NV, p. 268), des "langues mortes" (NV, p. 268), etc.
         * sentiment d’exclusion (NV, p. 268) et volonté de ne pas se laisser envahir/exiler linguistiquement (NV, p. 269)

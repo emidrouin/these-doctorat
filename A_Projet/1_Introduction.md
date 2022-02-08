@@ -1,13 +1,21 @@
-# Introduction
+# 1. Introduction
+
+## L’enfance comme topos dans le roman québécois contemporain
+
+## La lecture politique
+
+## Les nouvelles lectures
+
+## Vers un autre chemin (problématique)
+* Il sera tout de même intéressant de faire un travail sur la représentation romanesque et narrative de l’ipséité, à partir d’un corpus restreint aux romans « de l’enfance », justement parce qu’ils ont déjà reçu une réception et une lecture critiques qui ont été par la suite contestées et nuancées.
+* Ainsi, utilité et visée du projet: nourrir la réflexion sur l’utilisation et l’appropriation littéraires de la langue, sur la représentation de l’identité et de la formation de l’identité, sur la représentation de la question de l’appartenance à la communauté (*ce que ça signifie* que d’appartenir – ou de ne pas appartenir – à une communauté), notamment par la question ou la définition des pratiques (langagières)
+* « Est-ce que l'écart linguistique dans ton corpus s'explique par un défaut de compétence (linguistique) ou par le succès d'une performance (littéraire)? Les deux peuvent aller de pair, voire l'une masquer l'autre… Cela dit, la notion de "singularité" me paraît comme la plus prometteuse à creuser. Une singularité est une identité tellement radicale, ou irréductible, qu'elle ne peut paraître qu'en tant qu'altérité aux yeux d'une communauté identitaire. Dans ce sens, l'enfant comme "radicalement autre" (ce qu'il était en tant qu'infans, avant la parole), mais seulement à titre '"provisoire", me semble une bonne piste à suivre et éclaircir, une fois qu'il est devenu "être langagier". » (commentaire de Gilles Dupuis)
+
 Dans la préface de *Soi-même comme un autre*, Paul Ricœur place la question du langage, et principalement celle des pronoms, à la base de sa réflexion sur la subjectivité.
 Si le pronom « soi » est, grammaticalement, « un pronom réfléchi de la *troisième personne* » [@Ricoeur1990, 11], il est  plutôt envisagé par le philosophe, suivant  le « détour par le ‘se’ » [@Ricoeur1990, 11‑12] », comme un « réfléchi omnipersonnel », c’est-à-dire le « pronom réfléchi de toutes les personnes grammaticales » [@Ricoeur1990, 12].
 Pensée dans le cadre de la dialectique de l’*idem* et de l’*ipse*, cette conceptualisation du « soi » se retrouve à représenter à la fois deux opposés – la troisième personne du « il » ou du « elle » et, par le détour par le « se », le « je » de la première personne – et à réconcilier les deux pôles – l’*idem* et l’*ipse* – qui y sont liés.
-Menant ici à terme l’élaboration de sa théorie narrative amorcée dans *Temps et récit*, selon laquelle c’est l’« histoire racontée », ou la narration, qui « dit le *qui* de l’action » [@Ricoeur1985a, 442], le philosophe prolonge la « dialectique \[…\] de l’ipséité et de la mêmeté » en celle « du *soi* et de l’*autre que soi* » [@Ricoeur1990, 13] jusqu’à penser l’altérité comme ontologiquement « constitutive de l’ipséité »:
-
-> *Soi-même comme un autre* implique l’altérité à un degré si intime que l’une ne se laisse pas penser sans l’autre, que l’une pas plutôt dans l’autre \[…\]. Au ‘comme’, nous voudrions attacher la signification forte, non pas seulement d’une comparaison – soi-même semblable à un autre –, mais bien d’une implication : soi-même en tant que… autre. [@Ricoeur1990, 14]
-
+Menant ici à terme l’élaboration de sa théorie narrative amorcée dans *Temps et récit*, selon laquelle c’est l’« histoire racontée », ou la narration, qui « dit le *qui* de l’action » [@Ricoeur1985a, 442], le philosophe prolonge la « dialectique \[…\] de l’ipséité et de la mêmeté » en celle « du *soi* et de l’*autre que soi* » [@Ricoeur1990, 13] jusqu’à penser l’altérité comme ontologiquement « constitutive de l’ipséité ».
 Or, si Ricœur propose de réfléchir le *quoi* de la narration,  comment en penser le *comment*? Cette question, qui convie à une réflexion sur fonction ipséifiante de l’énonciation, me semble trouver de nombreux échos dans les travaux présentés dans le numéro « L’idiolecte : du singulier dans le langage » des *Cahiers de praxématique* (2005), notamment quant à l’idée d’« idiolectalisation » développée par Catherine Détrie : «  une manière de dire (et surtout d’écrire) qui devient stylisation parce qu’elle est conçue comme l’outil de sa construction ipséifiante, et non comme sa singularité en tant qu’être de parole » [@Detrie2005, 73]. L’enjeu est *éthique*, *praxique* et, ultimement, ontologique.
-
 La littérature faisant figure de « vaste laboratoire pour des expériences de pensée où sont mises à l’épreuve du récit les ressources de variation de l’identité narrative » [@Ricoeur1990, 176], ma démarche s’articule à l’intersection de celles qui sont aujourd’hui des disciplines distinctes : philosophie, linguistique, littérature. 
 Ainsi, l’objectif de ma proposition est surtout démonstratif,  alors que je souhaite présenter comment certains concepts théorisés par la linguistique peuvent soutenir la démarche d’analyse littéraire de façon à comprendre comment l’œuvre littéraire « construi\[t\] un monde » et articule « la relation entre ce monde et l’événement énonciatif qui le porte » [@Maingueneau2004, 222].
 Dans cette thèse, je propose de présenter, à partir d’extraits romanesques québécois contemporains, comment cette problématisation pragma-énonciative de la subjectivité peut venir appuyer une analyse de la littérarisation de l’ipséité.

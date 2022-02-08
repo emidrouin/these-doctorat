@@ -23,6 +23,7 @@ keywords:
 ***
 
 # De la subjectivité dans le langage (tome 1, chap. 21)
+* Référence: [@Benveniste1966d]
 * "le discours est le langage mis en action, et nécessairement entre partenaires" (p. 258); discours comme "la langue en tant qu'assumée par l'homme qui parle" (p. 266); "condition d'*intersubjectivité*, qui seule rend possible la communication linguistique" (p. 266)
 * langage qui précède l'homme: "Le langage est dans la nature de l'homme, qui ne l'a pas fabriqué." (p. 259)
 * langage qui n'est pas un instrument (pas une invention de l'homme); ce qui est instrument ou véhicule, c'est la parole en tant qu'elle "assure la "communication"" par sa façon d'être une actualisation du langage (p. 259)
@@ -59,6 +60,7 @@ keywords:
 ***
 
 # La philosophie analytique et le langage (tome 1, chap. 22)
+* Référence: [@Benveniste1966b]
 * intérêt pour les philosophes d'Oxford, dont fait partie Austin
 * résume certaines idées d'Austin à propos des énoncés constatifs et performatifs (p. 269-270 pour convenir qu'il s'agissait du propos, sans la terminologie, que lui-même tenait dans "De la subjectivité dans le langage" (chap. 21) publié 5 ans auparavant (1958, vs 1963) (p. 270-271)
 
@@ -77,6 +79,7 @@ keywords:
 ***
 
 # Le langage et l'expérience humaine, 1965 (tome 2, chap. 4)
+* Référence: [@Benveniste1974b]
 * deux "catégories élémentaires" du discours "indépendantes de toute détermination culturelle et où nous voyons l'expérience subjective des sujets" : la personne et le temps (p. 67)
 * énonciation et subjectivité: "Tout homme se pose dans son individualité en tant que *moi* par rapport à *toi* et *lui*." (p. 67); phénomène qui apparaît comme une "structure d'oppositions linguistiques inhérente au discours" (p.67)
 * *je* comme "donnée lexicale" qui, dans l'énonciation, co-existe avec le *tu* en opposition au *il* (p. 68)
@@ -101,7 +104,7 @@ keywords:
 ***
 
 # L'appareil formel de l'énonciation, 1970 (tome 2, chap. 5)
-
+* Référence: [@Benveniste1974]
 ## Concept de l'énonciation
 * définition: "L'énonciation est cette mise en fonctionnement de la langue par un acte individuel d'utilisation." (p. 80)
 * condition: "Le discours, dira-t-on, qui est produit chaque foi qu'on parle, cette manifestation de l'énonciation, n'est-ce pas simplement la "parole"? – Il faut prendre garde à la condition spécifique de l'énonciation: c'est l'**acte même de produire un énoncé** et non le texte de l'énoncé **qui est notre objet**. Cet acte est le **fait du locuteur qui mobilise la langue pour son compte **. La relation du locuteur à la langue détermine les caractères linguistiques de l'énonciation. On doit l'envisager comme le **fait du locuteur, qui prend la langue pour instrument**, et dans les caractères linguistiques qui marquent cette relation." (p. 80)
@@ -131,6 +134,7 @@ keywords:
 ***
 
 # Structure de la langue et structure de la société, 1968/1970 (tome 2, chap. 6)
+* Référence: [@Benveniste1974d]
 
 ## Relations entre la langue et la société
 * "Le langage est pour l'homme un **moyen**, en fait le seul moyen d'**atteindre l'autre homme**, de lui transmettre et de recevoir de lui un message. Par conséquent **le langage pose et suppose l'autre**." (p. 91)
