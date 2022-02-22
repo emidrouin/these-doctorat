@@ -22,6 +22,41 @@ keywords:
 
 ***
 
+# La nature des pronoms, 1956 (tome 1, chap. 20)
+
+## Pronoms personnels (je/tu)
+* spécificité des pronoms : « Chaque *je* a sa référence propre, et correspond chaque fois à être unique, posé comme tel. » (p. 252) – différent des noms, qui ont un référent objectif
+* *je* et *tu* réfèrent à une « réalité de discours » (p. 252) et ont chacun leur « position dans le langage » (p. 253)
+* cas du *je* :
+    * « *Je* ne peut être défini qu’en termes de ‘locution’, non en termes d’objets, comme l’est un signe nominal. » (p. 252)
+    * première définition : « *Je* signifie ‘la personne qui énonce la présente instance de discours contenant *je*’. » (p. 252)
+    * double instance du *je* :
+        * instance de discours contenant *je* comme référé : « *je* ne peut être identifié que par l’instance de discours qui le contient  […]. Il ne vaut que dans l’instane où il est produit. » (p. 252)
+        * instance de forme *je*, comme référant : « la forme *je* n’a d’existence linguistique que dans l’acte de parole qui la profère » (p. 252)
+    * définition plus précise : « *je* est l’‘individu qui énonce la présente instance de discours contenant l’instance linguistique *je*’. » (p. 252)
+* cas du *tu* :
+    * situation d’« allocution » (p. 253)
+    * *tu* : « individu allocuté dans la présente instance de discours contenant l’instance linguistique *tu* » (p. 253)
+
+## Notion de déictiques et de deixis
+* parle des démonstratifs (*ce*) (p. 253)
+* parle des adverbes (*ici* et *maintenant*) (p. 253), qui tirent leur référence du fait que la deixis, laquelle est « contemporaine de l’instance de discours qui porte l’indicateur de personne » (p. 253)
+* autrement dit, *ici*, *maintenant*, *je* et *tu* sont dans la même situation : « L’essentiel est donc la relation entre l’indicateur (de personne, de temps, de lieu, d’objet montré, etc.) et la *présente* instance de discours. » (p. 253)
+
+## Vers la « conversion du langage en discours » (énonciation)
+* idée du « sujet parlant » comme de « formes ‘pronominales’ » qui renvoient « à l’énonciation […] qui les contient, et réfléchissent ainsi leur propre emploi » (p. 254)
+* utilité des déictiques : « Le langage a résolu ce problème en créant un ensemble de signes ‘vides’, non référentiels par rapport à la ‘réalité’, toujours disponibles, et qui deviennent ‘pleins’ dès qu’un locuteur les assume dans chaque instance de son discours. » (p. 254); « Leur rôle est de fournir l’**instrument d’une conversion**, qu’on peut appeler la **conversion du langage en discours**. » (p. 254)
+* subjectivité : « C’est en s’identifiant comme personne unique prononçant *je* que chacun des locuteurs se pose tour à tour comme ‘sujet’. » (p. 254); *je* comme « signe unique, mais mobile » (p. 254) et qui « peut être assumé par chaque locuteur » dans le cadre de « son propre discours » (p. 254)
+* transformation du langage en discours : « Quand l’individu se l’approprie, le langage se tourne en instances de discours, caractérisées par ce système de références internes dont la clef est *je*, et définissant l’individu par la construction linguistique particulière dont il se sert quand il s’énonce comme locuteur. » (p. 255)
+
+## Troisième personne
+* « Il y a des énoncés de discours, qui en dépit de leur nature individuelle, échappent à la condition de personne, c’est-à-dire renvoient non à eux-mêmes, mais à une situation ‘objective’. Cest le domaine de ce qu’on appelle la ‘troisième personne’. » (p. 255)
+* « non-personne » comme énonciation des instances non-réflexives (p. 255), n’importe qui/quoi sauf la personne qui parle, et dont la référence est objective (p. 256)
+* langues indo-européennes qui donnent l’impression de 3 personnes égales (p. 256)
+* spécificité de la 3e personne : peut « se combiner avec n’importe quelle référence d’objet » (p. 256), n’est jamais le reflet de « l’instance de discours » (p. 256) et autres (p. 256-257)
+
+***
+
 # De la subjectivité dans le langage (tome 1, chap. 21)
 * Référence: [@Benveniste1966d]
 * "le discours est le langage mis en action, et nécessairement entre partenaires" (p. 258); discours comme "la langue en tant qu'assumée par l'homme qui parle" (p. 266); "condition d'*intersubjectivité*, qui seule rend possible la communication linguistique" (p. 266)

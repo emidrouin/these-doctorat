@@ -7,6 +7,8 @@ keywords: @Meadwell2012
 
 ## Les perspectives variées sur la figure de l'Autre
 * angles d'étude de l'Autre en littérature: "littératures coloniale, moderne, postmoderne et contemporaine ainsi que l'écriture dite *migrante*" (p. 11), qui "soulignent au reste que l'altérité littéraire ne se constitue pas nécessairement grâce au simple constat de la différence" (p. 11)
+* premier objectf : « élucider les manifestatons particulères de l’altérité dans le récit canadien d’expression française » (p. 12)
+* second objectif : « appréhender les opérations narratives et discursives qui permettraient de poser en tant qu’hypothèse une typologie de l’altérité telle qu’elle se dégage des oeuvres choisies, représentatives au sen du Canada de décennies et d’aires variées, pour enfin définir la littérarité de l’altérité du récit canadien d’expression française » (p. 12)
 * objectif de Meadwell: "définir la littérarité de l'altérité du récit canadien d'expression française" (p. 12)
 * problématique de son étude: "analyse du rôle fondamental que joue la narrativité en ce qui a trait à la création des voix de l'altérité et de ses figurations et configurations" (p. 12)
 * traitement de la "poétique de l'altérité" dans son "énonciation" et sa "discursivité" (p. 12)
@@ -48,7 +50,57 @@ keywords: @Meadwell2012
 * Meadwell précise bien qu'il "ne prétend pas [...] à l'exhaustivité" mais estime pouvoir "saisir la variété" des présences de l'altérité (p. 23)
 * déjà un aperçu chronologisant (?): dans la "métamorphose des milieux rural et urbain", Meadwell anticipe un passage "des figurations et des configuration identitaires de l'altérité qui énoncent principalement l'identité-mêmeté" à d'autres impliquant "l'énonciation de l'ipséité du soi au sein d'un univers romanesque axé davantage sur l'individualisation de la personne" (p. 23)
 
-## Conclusion du chapitre
-* "La problématique identitaire est au centre de toute praxis énonciative de la subjectivité." (p. 23)
+## Conclusion de l’introduction
+* "La problématique identitaire et au centre de toute praxis énonciative de la subjectivité." (p. 23)
 * stratégie identitaire selon Landowski: "stratégies auxquelles un sujet quelconque, individuel ou collectif, peut recourir pour configurer et gérer sa propre "identité" face à la figure complémentaire qu'il se donne comme représentation de "l'Autre"" (Landowski, cité p. 23)
 * ce recours aux stratégies identitaires implique un positionnement théorique qui ne relève pas du "contexte philosophique", mais de la "problatique des relations intersubjectives vécues" (selon Landowski, p. 23), dans une perspective "littéraire et esthétique" (p. 23) qui est celle de l'expression "de la condition humaine dépeinte dans notre roman" (p. 24)
+
+# Menaud, maître draveur de Félix-Antoine Savard et les tensions passionnelles de l’altérité (chap. 1)
+* Savard, Félix-Antoine (1937). *Menaud, maître draveur* : roman de la terre qui se passe dans Charlevoix (p. 25)
+* altérité : « paradigmes spatiaux », par ex. « centre, marges, périphérie, lieux privilégiés, étrangers, intrus » (p. 25)
+* idée que Menaud acquiert le « statut d’*ipse* » par une « dégradation mentale » (p. 43)
+* Menaud qui revendique les « moeurs identitaires de ses aïeuls », ce qui fait de lui « le symbole poétique d’une identité qui refuse de mourir » (p. 43); Meadwell y voit le choix de l’auteur de « préserver la vie [de son personnage] pour ensuite lui accorder la parole prophétique *autre* » (p. 43)
+* ipséité de Menaud qui devient le lieu de convergence des tensions (p. 43)
+
+# Bonheur d’occasion de Gabrielle Roy et l’ipséité masculine (chap. 2)
+* Roy, Gabrielle (1945). *Bonheur d’occasion* : roman urbain réaliste (p. 45)
+* roman de la distinction entre les mondes féminin et masculin (p. 46), et leurs aspirations identitaires respectives, qui passent toutefois toujours par un « mouvement » (p. 47) :
+    * identité féminine : « désir identitaire » féminin qui est horizontal, vers un espace socioéconomique meilleur (p. 46); identité-mêmeté féminine de Florentine (p. 47), dont la grossesse contribue à l’ancrer « dans l’identité-mêmeté de la femme, en l’occurrence celle de la maternité » (p. 56)
+    * altérité masculine : « idéalisme du solitaire » masculin et « aspiration à la mouvance hors des frontières de l’espace urbain » (p. 46); identité-ipséité masculine de Jean Lévesque par son maintien dans la « solitude protectrice qu’engendre l’autonomie » (p. 58) et par son refus de « s’engager affectivement » (p. 58) et dans l’armée, lieu du même masculin (p. 59) et aussi par son absence dans les scènes finales (p. 66), façon de refuser de s’exposer (p. 58); selon Meadwell, Jean Lévesque « témoigne de la volonté, à la manière d’une promesse différée mais tenue, de résister à la continuité du temps qui passe et d’assurer le « maintien de soi » [@Ricoeur1990], c’est-à-dire son ipséité » (p. 66)
+
+# La Belle Bête de Marie-Claire Blais ou la rupture identitaire (chap. 3)
+* Blais, Marie-Claire (1959). *La Belle Bête*
+* Meadwell se réfère aux « stratégies identitaires » de [@Landowski1997] qui semble prôner une approche phénoménologique afin de comprendre l’ipséité : « La nature véritable de l’identité narrative se révèle ainsi dans la dialectique de la mêmeté et l’ipséité […]. » (p. 72); « Cette conceptualisation se retrouve dans ce qu’appelle Landowski une ‘problématique des relations intersubjectives vécues’ et donne lieu à des ‘stratégies identitaires’. […] Afin de saisir les effets de sens de ces stratégies, il faut épouser ‘d’aussi près que possible le point de vue même des parties qui s’y retrouve engagées’. » (p. 73, citations de Landowski)
+* dans l’analyse, Meadwell oppose « la passion de l’identité-mêmeté de Louise qui désire posséder la valeur permanente de la beauté et la passion de l’ipséité du soi incarnée par Isabelle-Marie » (p. 73)
+
+# L’Avalée des avalés de Réjean Ducharme et la parole poétique de l’altérité (chap. 4)
+* Ducharme, Réjean (1966). *L’Avalée des avalés*
+* « Raconté à travers la focalisation interne de la première personne du singulier, le récit crée une vision du monde peu vraisemblable dans lequel la jeune fille se décrit en des termes hyperboliques et extravagants, l’**ipséité du soi** en étant le résultat de cette **énonciation identitaire**. » (p. 86)
+* altérité onomastique (pas juste Bérénice, aussi chez les autres personnages) (p. 87), mais tout de même, puisque c’est Bérénice, en tant que narratrice qui, « désignant ainsi ces personnages, a recours à certaines stratégies narratives aptes à se distinguer elle-même d’autrui » (p. 87)
+* « Peu encline à tolérer la domination de son père, l’avilissement par l’adulte ou encore l’entrée en âge adulte, l’enfant se présente et se représente en tant que sujet désirant se sauvegarder de toute influence extérieure à sa propre volonté, le **maintien de soi** étant le principe qui dirige ses paroles et ses actes. » (p. 88)
+* construction de l’identité à partir des « lieux communs identitaires de l’*idem* », qui se « confondent pour mettre en relief l’ipséité du soi à laquelle elle aspire » (p. 88); énonciation qui se construit à partir du point de vue de l’« enfance rebelle » et contre le cliché du « Quand je serai grande » (p. 88-89)
+* bérénicien : « stratégie identitaire ultime de l’*ipse*, à savoir la création de sa propre langue, le bérénicien » (p. 92-93)
+* ironie comme mécanisme de mise à distance de la « réalité de l’identité-mêmeté » (du féminin conventionnel, lors du récit de puberté) (p. 94)
+* idée de l’adulte (ou de Dick Dong en tant que « jeune adulte ») comme référent de l’identité-mêmeté (p. 94)
+* dans *L’avalée*, c’est la volonté du maintien de soi qui force à l’exil (p. 95)
+* **lien entre altérité et langage** : « Cherchant à être l’*ipse*, désirant en l’occurrence se montrer plus puissante et surtout moins vulnérable qu’elle ne l’est, cette ‘enfant’ qui désire refuser l’âge adulte met en relief la **littérariré de l’altérité à travers la parole poétique**. L’identité narrative fait la démonstration éloquente du **rôle fondamental que joue l’énonciation poétique de la subjectivité** dans la configuration narrative et discursive antithétique fondée sur l’opposition entre l’*idem* et l’*ipse*. Exemple extrême de la praxis énonciative qui finit par créer à travers la focalisation interne une vision de l’altérité fondée sur le désir du maintien de l’ipséité, la discursivation de *L’Avalée des avalés* se situe aux antipodes des discours identitaires de la subjectivité féminine qui ressortent d’autres récits modernes du Québec [Gabrielle Roy et Marie-Claire Blais], dans lesquels l’adhésion à l’identité-mêmeté est mise en évidence. » (p. 97-98)
+
+# Le Passager de Gilbert La Rocque et la subjectivité éclatée de l’ipse (chap. 5)
+* La Rocque, Gilbert (1984). *Le Passager*
+* après Bérénice, notamment chez La Rocque, adviendra une « voix de l’*ipse* » manifestée par « une surdétermination parfois féroce de l’altérité » (p. 98)
+
+# La Mémoire de l’eau de Ying Chen et la fleur de lotus, esthétisation masculine de l’identité féminine (chap. 6)
+* Chen, Ying (1992). *La mémoire de l’eau*
+* succession de « générations migrantes de l’Autre » et transmission, par « la mémoire et la parole », du maintien de soi dans l’*ipse* (p. 130)
+
+# Cantique des plaines de Nancy Huston et la pluralité des voix de l’altérité (chap. 7)
+* Huston, Nancy (1993). *Cantique des plaines*
+* « exploration de soi et d’autrui à travers les voix des ancêtres », bref un jeu entre l’*idem* et l’*ipse* (p. 131)
+
+# Le Soleil du lac qui se couche de J. R. Léveillé et la reconstruction identitaire de l’idem (chap. 8)
+* Léveillé, J. R. (2002). *Le soleil du lac qui se couche*
+
+# Pour une littérarité de l’altérité (conclusion)
+* résume ses analyses sur le plan des « opérations narratives et discursives ayant pour but **l’énonciation du personnage** et la **mise en relation de celui-ci avec autrui** afin de dévoiler les effets sur lui des **processus identitaires de la classification et de l’individualisation** » (p. 163)
+* « Bérénice Einberg se distingue d’autrui par son désir acharné de sauvegarder son autonomie » (p. 164); « *L’Avalée des avalés* surdétermine l’altérité du protagonise en faisant d’elle la seule voix narrative de cette oeuvre porteuse d’un intitulé métaphorique et éponyme. Cette focalisation interne soutient donc le désir identitaire de l’ipséité et nous entraîne dans le monde unique, imaginaire et troublant de la jeune fille précoce qui devient la jeune femme meurtrière. La parole poétique et donc l’imaginaire de cette voix deviennent des hauts lieux de découvertes et d’explorations de l’altérité. » (p. 164)
+* « Au coeur de la **littérarité de l’altérité** réside le **personnage**, élément narratif et discursif modelé par les dimensions spatiotemporelles dans lesquelles est ancré et se meut ce simulacre de l’être humain. Cet **objet littéraire de l’énonciation identitaire** se trouve dans tous les lieux et à toutes les époques, et offre la voie et la voix de l’exploration de la condition humaine, individuelle et collective. Or, le **récit canadien** se présente comme un **terrain particulièrement propice** aux figuration et aux configurations de l’identité, de l’*idem* et de l’*ipse*. » (p. 165); Meadwell voit les oeuvres qu’il a étudiées comme « exemplaires de la problématique identitaire et de l’évolution narrative et discursive du roman canadien d’expression française. » (p. 166)

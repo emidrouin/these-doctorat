@@ -191,4 +191,4 @@
 
 ## Le rapport à la langue comme démonstration d’une dialectique entre soi et l’autre: retour à une lecture « politique »?
 - [ ] Façon d’utiliser la langue qui est, même lorsque ce n’est pas militant (ou que la lecture qu’on en fait n’y voit pas un aspect militant), une démonstration à portée politique [@Gauvin2000]
-- [ ] Enjeu *praxique* et ultimement ontologique qui force à penser la perspective éthique; donc forcément la question du vivre ensemble?
+- [ ] Enjeu *praxique* et ultimement ontologique qui force à penser la perspective éthique; donc forcément la question du vivre ensemble / de la communauté

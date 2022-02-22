@@ -1,0 +1,26 @@
+---
+title: Les père-mutations du sujet
+keywords: @Godin-Ouimet2018
+note: Les numéros de pages réfèrent à la pagination du document PDF
+---
+
+# Utilité
+* démarche : passer par la **psychanalyse** afin d’étudier l’« enjeu de la paternité » (le rapport du père au fils, la mort du père ou le remplacement du père par le fils) chez Hervé Bouchard et Michael Delisle, notamment pour « penser le rapport du sujet au langage » (p. 8)
+* mythe du père (de Freud) : totem comme père mort, en tant qu’« autre chose qu’un corps, soit un symbole et un nom » (p. 8); puis, Lacan « distingue la paternité de la ‘fonction paternelle’ » en tant que relevant de différents registres (les registres étant « le réel, l’imaginaire et le symbolique ») (p. 8)
+* mythe comme « réponse du sujet à la question de son inscription dans une histoire qui le précède » (p. vi = 8), bref le mythe n’est pas vu comme collectif, mais comme une « mythologie individuelle » (p. 9) où chacun se crée son propre mythe en réponse à ce qui existe/arrive; ce qui mène, dans son corpus, à « l’invention d’un enfant totem : création poétique d’un enfant à partir des signifiants de la menace paternelle » (p. 9)
+
+# L’enfant, « totem » d’une communauté interprétative (introduction)
+* plusieurs façons de penser l’enfance : « l’enfant-lui-même », par exemple « en icône » comme chez Ducharme (p. 11); ou encore en tendant vers des « conclusions de nature politique, nationale, sociocritique et psychocritique » (p. 11)
+
+## Enfant comme icône
+* personnage d’Aurore
+* lecture du personnage d’enfant en tant que sujet-nation : « L’enfant de la littérature québécoise a été pensé par les critiques comme une **icône qui représenterait la collectivité, à laquelle elle s’identifierait** en élevant au rang de classiques des oeuvres où l’enfant est battu, meurt ou refuse de vieillir. » (p. 14)
+* enfant comme personnification du Québec : « La triangulation familiale [d’Aurore] suppose une adéquation entre l’enfant personnage et le lecteur/spectateur, renvoyé à son propre statut d’enfant à l’égard du parent symbolique qu’incarne le pays des ancêtres. De cette lecture où l’enfant est envisagé sous un angle national découle une **analogie entre le personnage enfant et le territoire**. » (p. 14) – tendance critique déjà soulignée par Jean-François Hamel [@Hamel2001] qui étudiera ces mêmes figures d’enfant « sous l’angle de la mémoire » (p. 14), notamment d’une « mémoire collective » qui, pointant vers la France (Nelligan) ou l’ailleurs (Soucy) en oubliant le Québec dans leur intertextualité, « porte la marque de l’altérité » (Hamel, cité p. 15); Godin souligne donc que si Hamel critique l’icônisation de l’enfant-pays, il passe tout de même « par le prisme de l’identité sociohistorique » pour traiter l’enfance (p. 15)
+
+## Critique d’une conceptualisation sociopolitique de la représentation de l’enfance
+* conceptualisation de l’« obsession de l’enfance » (Verreault, cité p. 17), notamment chez [@Verreault1998] pour qui la Révolution tranquille a permis de regénérer les mythes ayant façonné le Québec, permettant un « saut de l’individuel au collectif », du roman au réel (p. 17)
+* Godin souligne que la lecture mythanalytique de l’enfance (1960-1990) dans [@Boucher2005a] « cherche à dégager un mythe commun » dans un discours « traversé par un inconscient collectif », perceptible par la « récurrence thématique » des « représentations de l’enfant malheureux, abusé et craintif » (p. 12); Godin souligne les conclusion de Boucher « relèvent de la sociologie » (p. 21)
+* Godin relève que [@Lemieux1984] s’intéresse à l’enfance en littérature québécoise « pour comprendre les ‘transformations du statut de l’enfant dans les sociétés en voie de mondernisation’ [@Lemieux1984, p. 11] » (p. 21); ce qui est symptomatique d’une démarche sociologique (ED)
+* synthèse et réflexion de Godin : « Chaque représentation d’enfance, que ce soit chez Boucher, Verreault ou Lemieux, est **extraite des oeuvres** pour être **replacée dans un tout**, une constellation de personnages et de scènes où la spécificité de chaque écriture et l’énonciation sont pour ainsi dire retirées de l’équation. » (p. 21)
+* BREF : « le motif de l’enfance dans les études littéraires québécoises fait l’objet d’études diverses, qui cependant présentent pour la plupart cette caractéristique : l’enfance constitue un tremplin pour penser *le Québec* et non *l’écriture* et le sens qu’elle donne à la représentation. Dans ces discours, le Québec est conçu *comme sujet*, ce qui engendre la figure rhétorique du Sujet-Nation […]. » (p. 38); travaux de « chercheurs qui utilisent les représentations d’enfants pour les intégrer à un tout cohérent et les lire à partir de leur appareil conceptuel respectif, [en tentant] à partir de ces représentations, de dégager certaines spécificités québécoises d’une expérience du monde » (p. 39); Godin relève qu’une « frange considérable des études québécoises » contribue (ou plutôt a contribué?) à « érige[r] les représentations de l’enfant en totem du Québec », totem prenant le sens de « représentant » (p. 39)
+* défaut de cette perspective critique : « constitue une limite à la reconnaissance de divers enjeux portés par ces oeuvres en regard de leur travail sur la langue et du cadrage de leur énonciation » (p. 39)

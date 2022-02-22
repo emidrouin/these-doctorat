@@ -1,6 +1,6 @@
 # 2. Narrativité et identité : la représentation de l’ipséité
 
-## Raconter : l’identité narrative
+## Raconter : l’identité narrative et la narrativité
 
 ## Les dialectiques de l’identité :  le *soi*, entre *soi-même* et *autre que soi*
 Sans vouloir refaire l’historique ou l’épistémologie de l’altérité – nous référerons pour ce faire à d’autres travaux [@Jodelet2008; @Frame2016] – nous souhaitons tout de même poser adéquatement les bases théoriques nécessaires à notre recherche.

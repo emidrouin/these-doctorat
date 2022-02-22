@@ -8,3 +8,5 @@
 * « De manière très grossière, on pourrait voir dans la réflexion pragmatique un effort pour repenser la coupure entre le logique et le rhétorique ou, quand elle se fait plus délibérément linguistique, pour repenser la coupure entre la structure grammaticale et son utilisation. En d'autres termes, **il y a pragmatique linguistique** si l'on considère que **l'utilisation du langage**, son **appropriation par un énonciateur** s'adressant à un allocutaire dans un contexte déterminé, **ne s'ajoute pas de l'extérieur à un énoncé** en droit autosuffisant, mais que **la structure du langage** est **radicalement conditionnée** par le fait qu'il est **mobilisé par des énonciations singulières** et **produit un certain effet à l'intérieur d'un certain contexte**, verbal et non-verbal. » (Dominique Maingueneau, *Pragmatique pour le discours littéraire*, p. 2-3)
 
 ## L’altérité et le langage (cadre conceptuel)
+
+« De longue date, la praxématique a posé, au princpe du fonctionnement de différents niveaux de linguistique, la dialectique du même, de l’autre et du soi-même » [@Bres1991, 3]

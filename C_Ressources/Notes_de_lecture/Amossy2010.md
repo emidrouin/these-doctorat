@@ -1,0 +1,19 @@
+---
+title: La présentation de soi: ethos et identité verbale
+keywords: @Amossy2010
+---
+
+# Utilité
+* Utilité *technique*? Pour arriver à bien comprendre les différents indices/marqueurs discursifs de l’*ethos*
+* utile pour lier les théories linguistiques sur l’énonciation à la question de l’identité tout en demeurant techniquement en linguistique (par le biais de l’analyse du discours)
+* moins utile pour la littérature car plusieurs exemples sont axés sur l’argumentation et le discours politique
+* placer l’*ethos* entre le dire et le dit (113-117) : « rapport qui se crée dans le discours entre l’image qui découle des modes d’énonciation et celle qui ressort de ce que le ‘je’ dit sur sa propre personne » (117); sur la coîncidence ou non-coïncidence entre le dit et le dire (ex : « je suis très modeste », non-coïncidence); image dans le « dit » qui concorde ou non avec celle du « dire », voir [@Ducrot1984]
+
+# Présentation de soi dans le discours
+* « présentation de soi » (Goffman) = *ethos* (Grecs) = « mise en scène du moi » (p. 6)
+* Amossy : **‘dimension langagière de la présentation de soi’** (p. 6); contrairement à Goffman, qui s’était intéressé aussi aux aspects non-verbaux; **‘ethos discursif’** (p. 7)
+* **‘présentation de soi dans le discours’** (p. 7) : « L’essentiel sera ici de voir comment celui qui prend la parole ou la plume — désormais désigné par le terme global de ‘locuteur’ — effectue *ipso facto* une mise en scène de sa personne plus ou moins programmée, et comment il utilise les ressources du langage dans des objectifs communicationnels divers qui vont de la publicité électorale à la conversation courante et au récit littéraire. » (p. 7)
+* « Mon hypothèse de base est que la présentation de soi, ou ce que la tradition rhétorique appelle ‘ethos’, est une dimension intégrante du discours [note : Je pose donc, dans le cadre d’une théorie de *L’argumentation dans le discours* (Amossy 2010’ [2000]), que le discours comprend certaines dimensions constitutives comme le dialogisme relevé par Bakhtine (le mot est toujours une réaction au mot de l’autre), l’argumentativité au gré de laquelle toute parole oriente des façons de voir, ou l’ethos désignant le fait que toute prise de parole implique une présentation de soi.]. » (p. 7)
+* « Comprendre comment le locuteur se construit un ethos, c’est alors s’interroger sur deux points majeurs. » (p. 103) :
+    * **singularité :** lien avec l’énonciation de [@Benveniste1966c; @Benveniste1974c] : « Il faut voir comment l’usage de la première personne du singulier autorise, en même temps que l’émergence de la subjectivité, celle d’une **image de soi** qui est aussi une **construction identitaire**. » (p. 104)
+    * **identité** (dans le sens de se reconnaître, par rapport à d’autres) : question de la discursivité, qui implique un rapport à l’autre; réfère à [@Benveniste1966d] pour pour parler de la question de l’**identité discursive**; sur la question des pronoms (je/tu) : « ‘je’ implique automatiquement un ‘tu’ : c’est dans cette relation constitutive qu’émerge une subjectivité qui désigne aussi une identité. / Notons qu’‘identité’ est entendu dans la citation de Benveniste comme possibilité de singulariser un individu, de l’‘identifier’ — mais aussi comme émergence de la conscience que l’individu prend de lui-même à travers le discours qui implique le couple ‘je’-‘tu’. Il faut cependant élargir quelque peu cette notion d’identité discursive. En disant ‘je’, le locuteur construit dans son énonciation une image de soi en même temps qu’il se constitue en sujet. » (p. 105); or, cette « image de soi » est dialogique (Bakhtine), donc « traversée par la parole de l’autre » (p. 105)
