@@ -15,20 +15,21 @@
 ## Vers un autre chemin
 - [ ] Pertinence de la recherche
 - [x] Problématique claire
+- [ ] ++ possibilité de faire une lecture beaucoup plus ouverte (que celles du « récit national »/de la métaphore de l’enfance) du corpus de l’enfance romanesque au Québec, en ayant recours à la notion de monde fictif comme « monde refiguré » suite à l’interprétation du lecteur face au monde de l’oeuvre [@McCormick2013]
 
 
 # 2. Narrativité et identité : la représentation de l’ipséité
 - [ ] Question de la narrativité et de l’ipséité [@Meadwell2009] [@Meadwell2012] [@Meadwell2012a] 
 
 ## Raconter : l’identité narrative
-- [ ] Définition de l’identité narrative
+- [x] Définition de l’identité narrative
 
 ## Les dialectiques de l’identité :  le *soi*, entre *soi-même* et *autre que soi*
 - [x] Pensée de Ricoeur sur l’identité [@Ricoeur1990]
 
 ## Se raconter : un enjeu éthique
 - [ ] La dimension collective de l’identité @Ricoeur2004 @Ricoeur2000
-- [ ] Question de *reconnaissance* (se reconnaître soi-même, voir [@Ricoeur2004]); *Soi-même comme un autre* (1990) qui ouvre la dernière portion de l'oeuvre philosophique de Ricoeur, celle de la **"phénoménologie de l'homme capable"**, dont fait partie selon Greisch la **capacité de reconnaissance** dont il est question dans le *Parcours de la reconnaissance* [@Greisch2006]
+- [x] Question de *reconnaissance* (se reconnaître soi-même, voir [@Ricoeur2004]); *Soi-même comme un autre* (1990) qui ouvre la dernière portion de l'oeuvre philosophique de Ricoeur, celle de la **"phénoménologie de l'homme capable"**, dont fait partie selon Greisch la **capacité de reconnaissance** dont il est question dans le *Parcours de la reconnaissance* [@Greisch2006]
 - [ ] La dimension éthique [@Ricoeur1990, chap. 10] [@Ricoeur2004]
 
 
@@ -192,3 +193,4 @@
 ## Le rapport à la langue comme démonstration d’une dialectique entre soi et l’autre: retour à une lecture « politique »?
 - [ ] Façon d’utiliser la langue qui est, même lorsque ce n’est pas militant (ou que la lecture qu’on en fait n’y voit pas un aspect militant), une démonstration à portée politique [@Gauvin2000]
 - [ ] Enjeu *praxique* et ultimement ontologique qui force à penser la perspective éthique; donc forcément la question du vivre ensemble / de la communauté
+- [ ] ++ Parce que le texte ne fait pas que représenter un réel (un monde), mais il participe à sa refiguration (dans un rapport dynamique), suivant la pensée de Ricoeur

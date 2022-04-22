@@ -18,6 +18,7 @@
 * sur le phénomène de renomination :
     * Onomastique : normalement une question **sémantique**, qui, avec la renomination, devient une question **énonciative** ou de ***praxis*** (?) / **praxématique**??
     * noms : en principe des **désignateurs rigides** (noms et pronoms) vs les désignateurs non-rigides (descriptions identifiantes) @Corblin1993
+* résumé de la pensée (contestée) de Searle: voir [@Pavel2013, 12]
    
 ## Article de Lucie Hotte-Pilon
 * art. de @Hotte-Pilon1992

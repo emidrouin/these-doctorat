@@ -9,6 +9,8 @@
     - Thèse sur Ducharme (UdeM, sous la direction d’Élisabeth Nardout-Lafarge)
 - Nathalie Watteyne (USherbrooke)
     - superbe article sur Ricoeur (*Études littéraires*, 2011)
+- Nicolas Xanthos
+    - spécialiste de Soucy?
 
 # UdeM
 - Lucie Bourassa (approche linguistique)
