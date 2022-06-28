@@ -1,6 +1,6 @@
 ## Notion de narrativité
 - Ricoeur « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5]
-- narrativté: « ce qui fait d’un récit un récit » [@Bres1994, 5]
+- narrativité: « ce qui fait d’un récit un récit » [@Bres1994, 5]
 - « propositions qui conduisent à considérer la narration comme un acte par lequel le sujet construit et confirme son identité: narro, ergo sum. » [@Bres1994, 6]; la narrativité qui « nous structure: *narro ergo sum* » [@Bres2001]
 - penser la narrativité autrement, non pas comme un produit mais comme une « production » [@Bres2001], ce qui s’éloigne du concept de « *mise en intrigue* » ricoeurien; « Or le récit c’est d’abord et fondamentalement l’acte langagier de narrer, acte bien sûr producteur du texte du récit [...]. Mais est-il possible de saisir pour la décrire la narration en tant qu’acte? [...] Si, en tant que tel, l’acte langagier de narration est inobservable, on peut l’appréhender :
     - dans les traces qu’il laisse dans le temps du dire, à l’oral [@Bres1991a];
@@ -12,4 +12,3 @@
         - temporellement: le narrateur prend en charge dans sa parole un fragment de passé (temps raconté), déterminé comme tel par l’acte de narration qui, mesuré dans sa durée, forme le temps du raconter. Les temps verbaux du récit sont principalement ceux de l’époque passée.
         - personnellement: ce fragmet d’époque passée par rapport aux deux interlocuteurs est connu du narrateur, inconnu du (des) narrataires(s). Le narrateur sait; le narrataire apprend. Le récit se fait en première personne ou/et en non personne. » [@Bres1989, 86-87]
 - insistance de Bres sur le rapport au temps, sur le rapport de la narrativité et de la temporalité, notamment [@Bres2001; @Bres1991a; @Bres1989]
-- 

@@ -16,11 +16,11 @@
 ## Versus le Moi
 
 ### Du côté des pronoms
-* pour @Benveniste1974c, qui distingue les pronoms sujets de la série *je*, *tu*, *il* des pronoms autonomes *moi*, *toi*, *lui* (quoique le IL est permutable, voir p. 201)
-    * « Le pronom autonome *moi* se comporte à tous égards comme un nom propre. » [@Benveniste1974c, 200]; « À la ressemblance et à la différence du nom propre social, MOI est, dans l’instance de discours, la désignation autique de celui qui parle: c’est son *nom propre de locuteur*, celui par lequel un parlant, toujours et seulement lui, se réfère à lui-même en tant que parlant, puis dénomme en face de lui TOI, et hors du dialogue, LUI. » [@Benveniste1974c, 200]; Benveniste choisit de nommer « la série autonome de MOI, comme distincte du pronom *je* », par le terme « antonyme » [@Benveniste1974c, 201]
-    * série autonome : qui a une « situation ‘pronominale’ » et une « consonance ‘onomastique’ » [@Benveniste1974c, 201]
-    * constitue une « variété spécifique [de noms propres], propre à la langue actualisée dans le discours » [@Benveniste1974c, 201]
-* série *je*, *tu*, *il* qui s’adjoint les séries de pronoms objets *me* *te* *le* (*se*) (pronoms objets directs) et *moi* *toi* *lui* (*soi*) (pronoms objets indirects) [@Benveniste1974c, 203]
+* pour @Benveniste1974, qui distingue les pronoms sujets de la série *je*, *tu*, *il* des pronoms autonomes *moi*, *toi*, *lui* (quoique le IL est permutable, voir p. 201)
+    * « Le pronom autonome *moi* se comporte à tous égards comme un nom propre. » [@Benveniste1974, 200]; « À la ressemblance et à la différence du nom propre social, MOI est, dans l’instance de discours, la désignation autique de celui qui parle: c’est son *nom propre de locuteur*, celui par lequel un parlant, toujours et seulement lui, se réfère à lui-même en tant que parlant, puis dénomme en face de lui TOI, et hors du dialogue, LUI. » [@Benveniste1974, 200]; Benveniste choisit de nommer « la série autonome de MOI, comme distincte du pronom *je* », par le terme « antonyme » [@Benveniste1974, 201]
+    * série autonome : qui a une « situation ‘pronominale’ » et une « consonance ‘onomastique’ » [@Benveniste1974, 201]
+    * constitue une « variété spécifique [de noms propres], propre à la langue actualisée dans le discours » [@Benveniste1974, 201]
+* série *je*, *tu*, *il* qui s’adjoint les séries de pronoms objets *me* *te* *le* (*se*) (pronoms objets directs) et *moi* *toi* *lui* (*soi*) (pronoms objets indirects) [@Benveniste1974, 203]
 
 ### Rôle de la psychanalyse pour renverser Descartes
 * psychanalyse freudienne : n’a pas éliminé le sujet; elle l’a déplacé, et avec elle « ni la conscience, ni le Moi ne sont plus dans la position du principe ou de l’origine » [@Ricoeur1969, p. 327]

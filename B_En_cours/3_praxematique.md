@@ -15,13 +15,13 @@
 
 #### Subjectivèmes
 * « marques concrètes, au niveau de l’énoncé, de l’activité subjective de l’énonciateur » [@Balatchi2005, p. 23]
-* « unités porteuses de ce qu[e @Kerbrat-Orecchioni1980] appelle un ‘subjectivème’, c’est-à-dire un énonciatème marquant l’inscription et les modalités d’existence du seul locuteur-scripteur dans son discours » [@Fiala.etal1981]
+* « unités porteuses de ce que [@Kerbrat-Orecchioni1980] appelle un ‘subjectivème’, c’est-à-dire un énonciatème marquant l’inscription et les modalités d’existence du seul locuteur-scripteur dans son discours » [@Fiala.etal1981]
 * « subjectivème » : « unités ‘subjectives’ qui constituent un sous-ensemble des unités ‘énonciatives’ porteuses d’un ‘subjectivème’ (cas particulier d’énoncia-tème) » [@Kerbrat-Orecchioni1980] – vs les « virtuèmes », qui sont des « sèmes virtuels », sens actualisés seulement parfois, selon le contexte – les virtuèmes ne sont ainsi pas tous des subjectivèmes
 
 ### Effacement énonciatif
 * voir surtout [@Rabatel2004]
 * « forme spécifique de désinscription énonciative » [@Rabatel2004a, p. 111]; en propose la définition, en s’appuyant sur (Vion 2001)
-* le redéfinit par rapport à Benveniste : « L’EE [...] correspond non à un ‘‘appareil formel’ de la *non-énonciation* ’ (car acte d’énonciation il y a), mais à un ‘‘appreil formel’ de l’*effacement énonciatif*’, le locuteur donnant l’impression qu’‘il se retire de l’énonciation, qu’il ‘objetivise’ son discours en ‘gommant’ non seulement les marques les plus manifestes de as présence (les embrayeurs) mais également le marquage de toute source énonciative identifiable’ [@Vion2001]. » [@Rabatel2004, p. 3-4]
+* le redéfinit par rapport à Benveniste : « L’EE [...] correspond non à un ‘appareil formel’ de la *non-énonciation* ’ (car acte d’énonciation il y a), mais à un ‘‘appreil formel’ de l’*effacement énonciatif*’, le locuteur donnant l’impression qu’‘il se retire de l’énonciation, qu’il ‘objetivise’ son discours en ‘gommant’ non seulement les marques les plus manifestes de as présence (les embrayeurs) mais également le marquage de toute source énonciative identifiable’ [@Vion2001]. » [@Rabatel2004, p. 3-4]
 * souligne que c’est « un simulacre », car « c’est la subjectivité qui est la règle » [suivant @Kerbrat-Orecchioni1980] [@Rabatel2004a, p. 112]
 * généralement les « énoncés relevant de l’EE » sont des « énoncés désembrayés » [@Rabatel2004a, p. 115; @Rabatel2004, p. 4], donc pas sans subjectivité, mais dont la subjectivité (ou les marqueurs linguistiques de subjectivité, les *subjectivèmes*) a été retirée
 

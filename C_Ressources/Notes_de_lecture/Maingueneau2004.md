@@ -5,7 +5,7 @@ keywords: @Maingueneau2004
 
 # Démarche
 * fait dialoguer linguistique et littérature
-* propose une synthèse des théories de l’énonciation [@Benveniste1966c; @Benveniste1974c] et d’autres concepts linguistiques, et en propose des usages en littérature
+* propose une synthèse des théories de l’énonciation [@Benveniste1966; @Benveniste1974] et d’autres concepts linguistiques, et en propose des usages en littérature
 * Surtout les chapitres suivant :
     * Chapitre 13 : « Un positionnement dans l’interlangue » (p. 139-150)
     * Chapitre 14 : « La question de la ‘langue littéraire’ » (p. 151-159)
@@ -17,7 +17,7 @@ keywords: @Maingueneau2004
     * entraînent une nouvelle conception de la littérature qui ne peut pas séparer le texte et son contexte (p. 5)
 * mais le structuralisme, davantage « impérialisme sémiologique » que « linguistique », a surtout développé la narratologie, la poétique (théorie de la poésie) et l’étude sur le vocabulaire (p. 25), l’étude sur le vocabulaire étant la seule véritablement linguistique (par la lexicologie) (p. 25)
 * structuralisme utilisé en littérature : « courants énonciatifs et pragmatiques » du structuralisme linguistique, pourtant déjà dépassés (par la « linguistique générative »)
-    * par la théorie de l’énonciation [@Benveniste1966c; @Benveniste1974c] et le travail sur les embrayeurs [@Jakobson1963] ou encore la théorie des actes de langage [@Austin1970]
+    * par la théorie de l’énonciation [@Benveniste1966; @Benveniste1974] et le travail sur les embrayeurs [@Jakobson1963] ou encore la théorie des actes de langage [@Austin1970]
     * entraîne une façon de penser la **communication** et « quelques idées-forces : le discours comme activité, la primauté de l’interaction, la réflexivité de l’énonciation, l’inscription des énoncés dans des genres de discours, une conception instructionnelle du sens, l’inséparabilité du texte et du contexte… » (p. 26)
     * BREF : le (nouveau) structuralisme des sciences du langage s’éloigne du structuralisme utilisé comme méthode d’analyse littéraire (p. 26), en dissociant texte et contexte, linguistique et extralinguistique, littérature et société (p. 26)
 * « Désormais, on ne pourra plus réfléchir sur la relation entre l’oeuvre et le monde qui la rendait possible sans réfléchir sur la textualité. » (p. 26)
@@ -26,7 +26,7 @@ keywords: @Maingueneau2004
 # Notion de discours (chap. 3-4)
 * notion conflictuelle, et plusieurs définitions/conceptions s’opposent  :
     * discours qui s’opposer à la « langue » en tant que « système de valeurs virtuelles »; équivaut quelque peu à l’opposition langue/parole [@Saussure1916] (p. 31) – discours qui sera *sociologique* ou *psychologique* (selon Guillaume, p. 31)
-    * discours comme semblable à l’idée d’« énonciation » [@Benveniste1966c; @Benveniste1974c] : « langue en tant qu’assumée par l’homme qui parle, et dans la condition d’intersubjectivité qui seule rend possible la communication linguistique » (Benveniste, cité p. 31)
+    * discours comme semblable à l’idée d’« énonciation » [@Benveniste1966; @Benveniste1974] : « langue en tant qu’assumée par l’homme qui parle, et dans la condition d’intersubjectivité qui seule rend possible la communication linguistique » (Benveniste, cité p. 31)
     * « usage restreint du système » (p. 31), par opposition à la « langue » comme « système partagé » (p. 32)
 * notions sur le discours utiles à l’étude du littéraire  :
     * discours qui est plus grand que la simple phrase (p. 32)

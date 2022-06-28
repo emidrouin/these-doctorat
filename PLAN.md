@@ -40,8 +40,8 @@
 - [ ] L’énonciation comme appropriation de la langue [@Benveniste1974], [@Benveniste1974]
 - [ ] Notion de déictiques
 - [ ] Notion de subjectivèmes [@Kerbrat-Orecchioni1980] [@Rabatel2008]
-- [ ] Langage et subjectivité [@Benveniste1966d]
-- [ ] Langage et intersubjectivité [@Benveniste1974b]
+- [ ] Langage et subjectivité [@Benveniste1966]
+- [ ] Langage et intersubjectivité [@Benveniste1974]
 
 ## L’altérité et le langage (cadre conceptuel)
 - [ ] en littérature : voir le personnage comme une « instance d’énonciation »
@@ -94,7 +94,7 @@
 # 5. La question des pronoms
 - [ ] Travaux sur les déictiques et les pronoms [@Benveniste1966a]
 - [ ] Revenir rapidement sur la place du *je* dans la réflexion sur le *soi* en première personne
-- [ ] Revenir sur la psychanalyse (le *je* du *moi*)
+- [ ] Revenir sur la psychanalyse (le *je* du *moi*); voir les notes sur Benveniste 1966, chap. 7 (sur la psychanalyse, Lacan, Freud)
 
 ## Surinvestissement ou désinvestissement
 - [ ] le surinvestissement de la première personne par le redoublement *je* *moi* `(Ma)` [@Godin2017] [@Godin-Ouimet2018]

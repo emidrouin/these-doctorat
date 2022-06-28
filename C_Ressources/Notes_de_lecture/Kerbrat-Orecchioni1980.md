@@ -7,7 +7,7 @@ keywords: @Kerbrat-Orecchioni1980
 # Utilité
 * travail de synthèse à partir des principaux travaux en linguistique
     * théories de la communication (Jakobson)
-    * théories de l’énonciation [@Benveniste1966c; @Benveniste1974c; @Ducrot1984], surtout « L’appareil formel de l’énonciation » (*Langages* 217, repris dans [@Benveniste1974])
+    * théories de l’énonciation [@Benveniste1966; @Benveniste1974; @Ducrot1984], surtout « L’appareil formel de l’énonciation » (*Langages* 217, repris dans [@Benveniste1974])
     * théories des *speech acts* [@Austin1970; @Searle1972]
 * ouvrage très technique : synthèse des théories linguistiques autour de l’énonciation
 
