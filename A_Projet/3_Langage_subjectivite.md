@@ -4,65 +4,81 @@
 (Se) raconter, c’est donc dire « je » et utiliser le langage aux fins de production d’un discours.
 C’est « énoncer », nous instruirait Émile Benveniste: « L’énonciation est cette mise en fonctionnement de la langue par un acte individuel d’utilisation. » [@Benveniste1974, 80]
 Pour le linguiste, langage et subjectivité se trouvent ainsi intimement liés:
-> « Le langage est donc la possibilité de la subjectivité, du fait qu’il contient toujours les formes linguistiques appropriées à son expression, et le discours provoque l’émergence de la subjectivité, du fait qu’il consiste en instances discrètes. Le langage propose en quelque sorte des formes ‘vides’ que chaque locuteur en exercice de discours s’approprie et qu’il rapporte à sa ‘personne’, définissant en même temps lui-même comme *je* et un partenaire comme *tu*. L’instance de discours est ainsi constitutive de toutes les coordonnées qui définissent le sujet [...]. » [@Benveniste1966, 263]
-Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la seule structure de la langue – a pour particularité de le mettre en lien avec l’expérience vécue; le langage, écrivait Ricœur, est « un mode d’être dans l’être » [@Ricoeur1969, 357-358 PAGE À VÉRIFIER].
+
+> « Le langage est donc la possibilité de la subjectivité, du fait qu’il contient toujours les formes linguistiques appropriées à son expression, et le discours provoque l’émergence de la subjectivité, du fait qu’il consiste en instances discrètes. Le langage propose en quelque sorte des formes ‘vides’ que chaque locuteur en exercice de discours s’approprie et qu’il rapporte à sa ‘personne’, définissant en même temps lui-même comme *je* et un partenaire comme *tu*. L’instance de discours est ainsi constitutive de toutes les coordonnées qui définissent le sujet \[...\]. » [@Benveniste1966, 263]
+
+<!-- VÉRIF --> Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la seule structure de la langue – a pour particularité de le mettre en lien avec l’expérience vécue; le langage, écrivait Ricœur, est « un mode d’être dans l’être » [@Ricoeur1969, 357-358 PAGE À VÉRIFIER].
 Ainsi, avant même le développement de sa réflexion sur l’identité – narrative [@Ricoeur1985; @Ricoeur1988] et, plus largement, « personnelle » [@Ricoeur1990a] –, le philosophe proposait déjà de voir dans le langage à la fois un *moteur* et un *motif* de la subjectivité.
 D’une part un *moteur*, au sens où le langage participe, au sens ontologique, de la constitution du sujet; d’autre part *motif* en ce que le langage marque l’expression – ou le *signe*, au sens sémiologique – de cette subjectivité.
-À ce compte, il importe de distinguer les nuances apportées par Ricœur à la position de Benveniste quant au rôle joué par le langage au sein de la subjectivité.
+À ce compte, il importe toutefois de bien distinguer les nuances apportées par Ricœur à la perspective de Benveniste – ou, plus largement, à la linguistique d’héritage saussurien et à toute réflexion d’inspiration structuraliste – quant au rôle joué par le langage au sein de la subjectivité.
 
 ## D’une sémiologie à une herméneutique
-Dans *Le conflit des interprétations*, 
+Ainsi, Benveniste voit avant tout  le discours comme « langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266], comme « langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258].
+Le langage, poursuit-il, précède l’humain:
+
+> « Le langage est dans la nature de l’homme, qui ne l’a pas fabriqué. [...] Nous n’atteignons jamais l’homme séparé du langage et nous ne le voyons jamais l’inventant. Nous n’atteignons jamais l’homme réduit à lui-même et s’ingéniant à concevoir l’existence de l’autre. C’est un homme parlant que nous trouvons dans le monde, un homme parlant à un autre homme, et le langage enseigne la définition même de l’homme. » [@Benveniste1966, 259]
+
+Cette conception, qui pose la « condition d’*intersubjectivité*, qui seule rend possible la communication linguistique » [@Benveniste1966, 266], implique qu’il s’agisse en fait d’un système de signes, d’une *sémiologie*, et que son étude soit en fait celle de ses structures.
+Or, et c’est là où Ricœur intervient, cette assimilation de l’étude du *motif* – 
+
+
+* transformation du langage en discours : « Quand l’individu se l’approprie, le langage se tourne en instances de discours, caractérisées par ce système de références internes dont la clef est *je*, et définissant l’individu par la construction linguistique particulière dont il se sert quand il s’énonce comme locuteur. » [@Benveniste1966, 255]
+* « C’est dans et par le langage que l’homme se constitue comme *sujet*; parce que le langage seul fonde en réalité, dans *sa* réalité qui est celle de l’être, le concept d’‘ego’. » [@Benveniste1966, 259]
+
+Il s’agit, en d’autre termes, de voir le langage comme un systèmes de signes
+
+voir le langage comme un système de signes
+
+
+qui s’appuie d’abord sur la distinction entre langue et parole émanant de la linguistique moderne telle que fondée par Saussure
+
+Pour la linguistique d’héritage saussurienne,
+
+
+ 
+ 
+* langage qui n’est pas un instrument (pas une invention de l’homme); ce qui est instrument ou véhicule, c’est la parole en tant qu’elle « assure la ‘communication’ » par sa façon d’être une actualisation du langage (p. 259)
+
+* « D’une manière générale, en plaçant le sujet (au sens philosophique du terme) au centre des grandes catégories du langage, en montrant, à l’occasion de faits très divers, que ce sujet ne peut jamais se distinguer d’une ‘instance de discours’, différente de l’instance de la réalité, Benveniste fonde linguistiquement, c’est-à-dire scientifiquement, l’identité du sujet et du langage, position qui est au cœur de bien des recherches actuelles et qui intéresse aussi bien la philosophie que la littérature; de telles analyses désignent peut-être l’issue d’une vieille antinomie, mal liquidée : celle du subjectif et de l’objectif, de l’individu et de la société, de la science et du discours. » [@Barthes1984, p. 193]
 
 
 
-À ce compte,
+
+
+<!-- ICI --> Dans *Le conflit des interprétations*, Ricœur chemine avec / tente de concilier les herméneutiques que sont la psychanalyse et le structuralisme sous la voie de la phénoménologie et conclut que « l’herméneutique » qui constitue la philosophie réflexive « doit être hardiment une herméneutique du *je suis* » [@Ricoeur1969, 359].
+Cette réflexion préfigure déjà la trame suivie dans *Soi-même comme un autre* [@Ricoeur1990a], entre apologie et destitution du *Cogito*, ainsi que le rapport entre identité personnelle et identité narrative: « Seule cette herméneutique du *je suis* [...] peut tenir côte à côte l’affirmation sereine: *je suis* et le doute poignant: *qui suis-je?* » [@Ricoeur1969, 359]
+Ainsi, Ricœur
+- Ricœur « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5]
+- narrativité: « ce qui fait d’un récit un récit » [@Bres1994, 5]
+- « propositions qui conduisent à considérer la narration comme un acte par lequel le sujet construit et confirme son identité: narro, ergo sum. » [@Bres1994, 6]; la narrativité qui « nous structure: *narro ergo sum* » [@Bres2001]
+- démarche ricoeurienne (herméneutique) : « Ses nombreux travaux sont traversés par une même idée forte: la compréhension joue à l’articulation des frontières de l’agir et du dire, de l’expérience et du langage. À l’opposé donc du principe structuraliste d’immanence, l’objet sémiotique est posé non comme coupure mais comme lien. » [@Bres1994, 43]
+
+
+
+
+
+Cette réflexion sur le *raconter* de l’identité narrative, par sa volonté de rejoint celle, préalable, qui portait sur l’herméneutique philosophique comme
 
 à proprement parler, le philosophe proposait de voir dans le langage un
 
-
 nuance ou les freins majeurs
 
-Déjà avant
-
-
-* conclut que « l’herméneutique » qui est celle de la philosophie réflexive « doit être hardiment une herméneutique du *je suis* » (p. 359); préfigure déjà la trame de [@Ricoeur1990], entre apologie et destitution du *Cogito*, et aussi le rapport entre identité personnelle et identité narrative (ED): « Seule cette herméneutique du *je suis* [...] peut tenir côte à côte l’affirmation sereine: *je suis* et le doute poignant: *qui suis-je?* » [@Ricoeur1969, 359]
-
-
-
 En ce sens, la réflexion sur le langage menée par la linguistique constitue une sémiologie/science du signe
-
 
 e tournant herméneutique de la phénoménologie.
 
 ou sur le *raconter*
 
-
-
-
-
-
-
 « Tout homme se pose dans son individualité en tant que *moi* par rapport à *toi* et *lui*. » [@Benveniste1974, 67]
-
-
 
 * condition: « Le discours, dira-t-on, qui est produit chaque foi qu’on parle, cette manifestation de l’énonciation, n’est-ce pas simplement la ‘parole’? – Il faut prendre garde à la condition spécifique de l’énonciation: c’est l’**acte même de produire un énoncé** et non le texte de l’énoncé **qui est notre objet**. Cet acte est le **fait du locuteur qui mobilise la langue pour son compte**. La relation du locuteur à la langue détermine les caractères linguistiques de l’énonciation. On doit l’envisager comme le **fait du locuteur, qui prend la langue pour instrument**, et dans les caractères linguistiques qui marquent cette relation. » [@Benveniste1974, 80]
 
-Cette réflexion sur le *raconter* de l’identité narrative, par sa volonté de rejoint celle, préalable, qui portait sur l’herméneutique philosophique comme
-
-était précédée
-
-
-
 
 ## Partir de la notion de narrativité
-- Ricœur « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5]
-- narrativité: « ce qui fait d’un récit un récit » [@Bres1994, 5]
-- « propositions qui conduisent à considérer la narration comme un acte par lequel le sujet construit et confirme son identité: narro, ergo sum. » [@Bres1994, 6]; la narrativité qui « nous structure: *narro ergo sum* » [@Bres2001]
+
 - penser la narrativité autrement, non pas comme un produit mais comme une « production » [@Bres2001], ce qui s’éloigne du concept de « *mise en intrigue* » ricoeurien; « Or le récit c’est d’abord et fondamentalement l’acte langagier de narrer, acte bien sûr producteur du texte du récit [...]. Mais est-il possible de saisir pour la décrire la narration en tant qu’acte? [...] Si, en tant que tel, l’acte langagier de narration est inobservable, on peut l’appréhender :
     - dans les traces qu’il laisse dans le temps du dire, à l’oral [@Bres1991a];
     - dans les marqueurs à partir desquels il se signifie, à l’oral aussi bien qu’à l’écrit, dans le temps résultatif du dit. [...] » [@Bres2001]
-- démarche ricoeurienne (herméneutique) : « Ses nombreux travaux sont traversés par une même idée forte: la compréhension joue à l’articulation des frontières de l’agir et du dire, de l’expérience et du langage. À l’opposé donc du principe structuraliste d’immanence, l’objet sémiotique est posé non comme coupure mais comme lien. » [@Bres1994, 43]
 - narrativité : question des « structures narratives » (dériver les « programmes narratifs à partir des programmes phrastiques »), et du « temps du récit » (pour « démontrer l’hypothèse selon laquelle le récit est, à différents niveaux, mise en ascendance du temps dont se construit le sujet ») [@Bres1989, 75]
 - « L’acte narratif apparaît comme un type d’acte linguistique. Il en a les structures temporelle et personnelle: il instaure un présent qui détermine un passé et un futur; il implique un locuteur et un ou des interlocuteurs coprésents.
     Structures qui, dans l’énonciation narrative, se spécifient :
@@ -70,8 +86,7 @@ Cette réflexion sur le *raconter* de l’identité narrative, par sa volonté d
         - personnellement: ce fragmet d’époque passée par rapport aux deux interlocuteurs est connu du narrateur, inconnu du (des) narrataires(s). Le narrateur sait; le narrataire apprend. Le récit se fait en première personne ou/et en non personne. » [@Bres1989, 86-87]
 - insistance de Bres sur le rapport au temps, sur le rapport de la narrativité et de la temporalité, notamment [@Bres2001; @Bres1991a; @Bres1989]
 
-* langage qui précède l’homme: « Le langage est dans la nature de l’homme, qui ne l’a pas fabriqué. [...] Nous n’atteignons jamais l’homme séparé du langage et nous ne le voyons jamais l’inventant. Nous n’atteignons jamais l’homme réduit à lui-même et s’ingéniant à concevoir l’existence de l’autre. C’est un homme parlant que nous trouvons dans le monde, un homme parlant à un autre homme, et le langage ensegne la définition même de l’homme. » [@Benveniste1966, 259]
-* « D’une manière générale, en plaçant le sujet (au sens philosophique du terme) au centre des grandes catégories du langage, en montrant, à l’occasion de faits très divers, que ce sujet ne peut jamais se distinguer d’une ‘instance de discours’, différente de l’instance de la réalité, Benveniste fonde linguistiquement, c’est-à-dire scientifiquement, l’identité du sujet et du langage, position qui est au cœur de bien des recherches actuelles et qui intéresse aussi bien la philosophie que la littérature; de telles analyses désignent peut-être l’issue d’une vieille antinomie, mal liquidée : celle du subjectif et de l’objectif, de l’individu et de la société, de la science et du discours. » [@Barthes1984, p. 193]
+
 
 ### Langage et subjectivité
 * approche de Benveniste: « définir l’énonciation dans le cadre formel de sa réalisation » [@Benveniste1974, 81], donc: « Dans l’énonciation, nous considérons successivement l’acte même, les situations où il se réalise, les instruments de l’accomplissement. » [@Benveniste1974, 81];
@@ -79,9 +94,8 @@ Cette réflexion sur le *raconter* de l’identité narrative, par sa volonté d
     * situation qui est d’abord celle d’une appropriation, mais ensuite d’une allocution:  « En tant que réalisation inviduelle, l’énonciation peut se définir, par rapport à la langue, comme un procès d’*appropriation*. Le **locuteur s’approprie l’appareil formel de la langue** et il **énonce sa position de locuteur** par des indices spécifiques, d’une part, et au moyen de procédés accessoires, de l’autre.; Mais immédiatement, dès qu’il se déclare locuteur et assume la langue, il implante l’*autre* en face de lui, quel que soit le degré de présence qu’il attribue à cet autre. Toute énonciation est, explicite ou implicite, une allocution, elle postule un allocutaire. »[@Benveniste1974, 82], et aussi un système commun de références – ou un « rapport au monde » partagé –, lesquelles font partie de l’énonciation [@Benveniste1974, 82]; bref: l’énonciation implique subjectivité et intersubjectivité;
     * instruments qui sont ceux des indices de personne dont les pronoms personnels et les démonstratifs [@Benveniste1974, 82-83] – notamment par l’idée d’*ostension* –, le paradigme des « formes temporelles, qui se déterminent par rapport à l’EGO, centre de l’énonciation » [@Benveniste1974, 83], sans oublier la spatialité? (ED); « Ainsi l’énonciation est directement responsable de certaines classes de signes qu’elle promeut littéralement à l’existence. Car ils ne pourraient prendre naissance ni trouver emploi dans l’usage cognitif de la langue. Il faut donc distinguer les entités qui ont dans la langue leur statut plein et permanent et celles qui, émanant de l’énonciation, n’existe que dans le réseau d’‘individus’ que l’énonciation crée et par rapport à l’‘ici-maintenant’ du locuteur. » [@Benveniste1974, 84]; aussi les « grandes fonctions syntaxiques » (p. 84), soit des énonciations ayant un objectif spécifique envers l’allocutaire: l’*interrogation* (« énonciation construite pour susciter une ‘réponse’ »), l’*intimation* (ordres, impératif, etc.) et l’*assertion* (« communiquer une certitude ») (p. 84) et autres modalités formelles (p. 85), qui sont d’autres « instruments » de l’énonciation
     * subjectivité : « C’est en s’identifiant comme personne unique prononçant *je* que chacun des locuteurs se pose tour à tour comme ‘sujet’. » [@Benveniste1966, 254]; *je* comme « signe unique, mais mobile » [@Benveniste1966, 254] et qui « peut être assumé par chaque locuteur » dans le cadre de « son propre discours » [@Benveniste1966, 254], ce qui permet le langage (l’intercompréhension) car si chaque sujet avait son « indicatif », « il y aurait pratiquement autant de langues que d’individus et la communication deviendrait strictement impossible » [@Benveniste1966, 254]
-* transformation du langage en discours : « Quand l’individu se l’approprie, le langage se tourne en instances de discours, caractérisées par ce système de références internes dont la clef est *je*, et définissant l’individu par la construction linguistique particulière dont il se sert quand il s’énonce comme locuteur. » [@Benveniste1966, 255]
-* « C’est dans et par le langage que l’homme se constitue comme *sujet*; parce que le langage seul fonde en réalité, dans *sa* réalité qui est celle de l’être, le concept d’‘ego’. » [@Benveniste1966, 259]
-* « La ‘subjectivité’ dont nous traitons ici est la capacité du locuteur à se poser comme ‘sujet’. Elle se définit, non par le sentiment que chacun éprouve d’être lui-même [...], mais comme l’unité psychique qui transcende la totalité des expérieces vécues qu’elle assemble, et qui assure la permanence de la conscience. [voir Ricoeur!!! (ED)] Or nous tenons que cette ‘subjectivité’, qu’on la pose en phénoménologie ou en psychologie, comme on voudra, n’est que l’émergence dans l’être d’une propriété fondamentale du langage. Est ‘ego’ qui *dit* ‘ego’. Nous trouvons là le fondement de la ‘subjectivité’, qui se détermine par le statut linguistique de la ‘personne’. » [@Benveniste1966, 259-260]; « conscience de soi » qui n’est possible que par contraste, notamment du « *je* » qui s’adresse à un « *tu* » et qui devient lui-même le « *tu* » dans l’allocution de l’autre devenu « *je* » [@Benveniste1966, 260] – n’est pas sans rappeler la lecture ricoeurienne de la conscience par le parcours Husserl-Levinas-Heidegger (ED); reviendra là-dessus plus tard: « Tout homme se pose dans son individualité en tant que *moi* par rapport à *toi* et *lui*. » [@Benveniste1974, 67]; *je* comme « donnée lexicale » qui, dans l’énonciation, co-existe avec le *tu* en opposition au *il* [@Benveniste1974, 68]; phénomène qui apparaît comme une « structure d’oppositions linguistiques inhérente au discours » [@Benveniste1974, 67]
+
+* « La ‘subjectivité’ dont nous traitons ici est la capacité du locuteur à se poser comme ‘sujet’. Elle se définit, non par le sentiment que chacun éprouve d’être lui-même [...], mais comme l’unité psychique qui transcende la totalité des expériences vécues qu’elle assemble, et qui assure la permanence de la conscience. [voir Ricoeur!!! (ED)] Or nous tenons que cette ‘subjectivité’, qu’on la pose en phénoménologie ou en psychologie, comme on voudra, n’est que l’émergence dans l’être d’une propriété fondamentale du langage. Est ‘ego’ qui *dit* ‘ego’. Nous trouvons là le fondement de la ‘subjectivité’, qui se détermine par le statut linguistique de la ‘personne’. » [@Benveniste1966, 259-260]; « conscience de soi » qui n’est possible que par contraste, notamment du « *je* » qui s’adresse à un « *tu* » et qui devient lui-même le « *tu* » dans l’allocution de l’autre devenu « *je* » [@Benveniste1966, 260] – n’est pas sans rappeler la lecture ricoeurienne de la conscience par le parcours Husserl-Levinas-Heidegger (ED); reviendra là-dessus plus tard: « Tout homme se pose dans son individualité en tant que *moi* par rapport à *toi* et *lui*. » [@Benveniste1974, 67]; *je* comme « donnée lexicale » qui, dans l’énonciation, co-existe avec le *tu* en opposition au *il* [@Benveniste1974, 68]; phénomène qui apparaît comme une « structure d’oppositions linguistiques inhérente au discours » [@Benveniste1974, 67]
 * « Le langage n’est possible que parce que chaque locuteur se pose comme *sujet*, en renvoyant à lui-même comme *je* dans son discours. De ce fait, *je* pose une autre personne, [...] devient mon écho auquel je dis *tu* et qui me dit *tu*. La polarité des personnes, telle est dans le langage la condition fondamentale [...]. » [@Benveniste1966, 260]
 * polarité ni égalitaire ni symétrique: transcendance de l’‘ego’ à l’égard du *tu* [@Benveniste1966, 260]; conséquences: « Ainsi tombent les vieilles antinomies du ‘moi’ et de l’‘autre’, de l’individu et de la société. Dualité qu’il est illégitime et erroné de réduire à un seul terme originel, que ce terme unique soit le ‘moi’, qui devrait être installé dans sa propre conscience pour s’ouvrir alors à celle du ‘prochain’, ou qu’il soit au contraire la société, qui préexisterait comme totalité à l’individu et d’où celui-ci ne serait dégagé qu’à mesure qu’il acquérait la conscience de soi. C’est dans une **réalité dialectique** englobant les deux termes [moi-individu et autre-société] et les définissant par **relation mutuelle** [je-tu qui sont aussi tu-je] qu’on découvre le fondement linguistique de la subjectivité. » [@Benveniste1966, 260]
 * langage comme moteur de subjectivité: « C’est dans l’instance de discours où *je* désigne le locuteur que celui-ci s’énonce comme ‘sujet’. Il est donc vrai à la lettre que le fondement de la subjectivité est dans l’exercice de la langue. Si l’on veut bien y réfléchir, on verra qu’il n’y a pas d’autre témoignage objectif de l’identité du sujet que celui qu’il donne ainsi lui-même sur lui-même. » (p. 262); « Le langage est ainsi organisé qu’il permet à chaque locuteur de *s’approprier* la langue entière en se désignant comme *je*. » (p. 262); idée reprise dans l’étude 2 de [@Ricoeur1990]; pronom personnel qui « reçoit sa réalité et sa substance du discours seul » [@Benveniste1974, 68], comme les déictiques, dont les démonstratifs qui montrent « à partir d’un point central, qui est Ego » [@Benveniste1974, 69]
