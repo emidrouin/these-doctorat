@@ -5,10 +5,10 @@
 C’est « énoncer », nous instruirait Émile Benveniste: « L’énonciation est cette mise en fonctionnement de la langue par un acte individuel d’utilisation. » [@Benveniste1974, 80]
 Pour le linguiste, langage et subjectivité se trouvent ainsi intimement liés:
 > « Le langage est donc la possibilité de la subjectivité, du fait qu’il contient toujours les formes linguistiques appropriées à son expression, et le discours provoque l’émergence de la subjectivité, du fait qu’il consiste en instances discrètes. Le langage propose en quelque sorte des formes ‘vides’ que chaque locuteur en exercice de discours s’approprie et qu’il rapporte à sa ‘personne’, définissant en même temps lui-même comme *je* et un partenaire comme *tu*. L’instance de discours est ainsi constitutive de toutes les coordonnées qui définissent le sujet [...]. » [@Benveniste1966, 263]
-Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la seule structure de la langue – a pour particularité de le mettre en lien avec l’expérience vécue; le langage, écrivait Ricoeur, est « un mode d’être dans l’être » [@Ricoeur1969, 357-358 PAGE À VÉRIFIER].
+Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la seule structure de la langue – a pour particularité de le mettre en lien avec l’expérience vécue; le langage, écrivait Ricœur, est « un mode d’être dans l’être » [@Ricoeur1969, 357-358 PAGE À VÉRIFIER].
 Ainsi, avant même le développement de sa réflexion sur l’identité – narrative [@Ricoeur1985; @Ricoeur1988] et, plus largement, « personnelle » [@Ricoeur1990a] –, le philosophe proposait déjà de voir dans le langage à la fois un *moteur* et un *motif* de la subjectivité.
 D’une part un *moteur*, au sens où le langage participe, au sens ontologique, de la constitution du sujet; d’autre part *motif* en ce que le langage marque l’expression – ou le *signe*, au sens sémiologique – de cette subjectivité.
-À ce compte, il importe de distinguer les nuances apportées par Ricoeur à la position de Benveniste quant au rôle joué par le langage au sein de la subjectivité.
+À ce compte, il importe de distinguer les nuances apportées par Ricœur à la position de Benveniste quant au rôle joué par le langage au sein de la subjectivité.
 
 ## D’une sémiologie à une herméneutique
 Dans *Le conflit des interprétations*, 
@@ -20,12 +20,10 @@ Dans *Le conflit des interprétations*,
 à proprement parler, le philosophe proposait de voir dans le langage un
 
 
-À ce compte, il est déjà important de nuancer la position de Ricoeur par rapport à celle de Benveniste
 nuance ou les freins majeurs
 
 Déjà avant
 
-Avant même le développement de sa théorie narrative, Ricoeur 
 
 * conclut que « l’herméneutique » qui est celle de la philosophie réflexive « doit être hardiment une herméneutique du *je suis* » (p. 359); préfigure déjà la trame de [@Ricoeur1990], entre apologie et destitution du *Cogito*, et aussi le rapport entre identité personnelle et identité narrative (ED): « Seule cette herméneutique du *je suis* [...] peut tenir côte à côte l’affirmation sereine: *je suis* et le doute poignant: *qui suis-je?* » [@Ricoeur1969, 359]
 
@@ -37,7 +35,6 @@ En ce sens, la réflexion sur le langage menée par la linguistique constitue un
 e tournant herméneutique de la phénoménologie.
 
 ou sur le *raconter*
-Bien avant le développement de sa théorie narrative, Ricoeur avait déjà 
 
 
 
@@ -59,7 +56,7 @@ Cette réflexion sur le *raconter* de l’identité narrative, par sa volonté d
 
 
 ## Partir de la notion de narrativité
-- Ricoeur « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5]
+- Ricœur « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5]
 - narrativité: « ce qui fait d’un récit un récit » [@Bres1994, 5]
 - « propositions qui conduisent à considérer la narration comme un acte par lequel le sujet construit et confirme son identité: narro, ergo sum. » [@Bres1994, 6]; la narrativité qui « nous structure: *narro ergo sum* » [@Bres2001]
 - penser la narrativité autrement, non pas comme un produit mais comme une « production » [@Bres2001], ce qui s’éloigne du concept de « *mise en intrigue* » ricoeurien; « Or le récit c’est d’abord et fondamentalement l’acte langagier de narrer, acte bien sûr producteur du texte du récit [...]. Mais est-il possible de saisir pour la décrire la narration en tant qu’acte? [...] Si, en tant que tel, l’acte langagier de narration est inobservable, on peut l’appréhender :
@@ -74,7 +71,7 @@ Cette réflexion sur le *raconter* de l’identité narrative, par sa volonté d
 - insistance de Bres sur le rapport au temps, sur le rapport de la narrativité et de la temporalité, notamment [@Bres2001; @Bres1991a; @Bres1989]
 
 * langage qui précède l’homme: « Le langage est dans la nature de l’homme, qui ne l’a pas fabriqué. [...] Nous n’atteignons jamais l’homme séparé du langage et nous ne le voyons jamais l’inventant. Nous n’atteignons jamais l’homme réduit à lui-même et s’ingéniant à concevoir l’existence de l’autre. C’est un homme parlant que nous trouvons dans le monde, un homme parlant à un autre homme, et le langage ensegne la définition même de l’homme. » [@Benveniste1966, 259]
-* « D’une manière générale, en plaçant le sujet (au sens philosophique du terme) au centre des grandes catégories du langage, en montrant, à l’occasion de faits très divers, que ce sujet ne peut jamais se distinguer d’une ‘instance de discours’, différente de l’instance de la réalité, Benveniste fonde linguistiquement, c’est-à-dire scientifiquement, l’identité du sujet et du langage, position qui est au coeur de bien des recherches actuelles et qui intéresse aussi bien la philosophie que la littérature; de telles analyses désignent peut-être l’issue d’une vieille antinomie, mal liquidée : celle du subjectif et de l’objectif, de l’individu et de la société, de la science et du discours. » [@Barthes1984, p. 193]
+* « D’une manière générale, en plaçant le sujet (au sens philosophique du terme) au centre des grandes catégories du langage, en montrant, à l’occasion de faits très divers, que ce sujet ne peut jamais se distinguer d’une ‘instance de discours’, différente de l’instance de la réalité, Benveniste fonde linguistiquement, c’est-à-dire scientifiquement, l’identité du sujet et du langage, position qui est au cœur de bien des recherches actuelles et qui intéresse aussi bien la philosophie que la littérature; de telles analyses désignent peut-être l’issue d’une vieille antinomie, mal liquidée : celle du subjectif et de l’objectif, de l’individu et de la société, de la science et du discours. » [@Barthes1984, p. 193]
 
 ### Langage et subjectivité
 * approche de Benveniste: « définir l’énonciation dans le cadre formel de sa réalisation » [@Benveniste1974, 81], donc: « Dans l’énonciation, nous considérons successivement l’acte même, les situations où il se réalise, les instruments de l’accomplissement. » [@Benveniste1974, 81];
@@ -100,7 +97,7 @@ Cette réflexion sur le *raconter* de l’identité narrative, par sa volonté d
 * prémisse: « le discours est le langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258]; discours comme « la langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266]; « condition d’*intersubjectivité*, qui seule rend possible la communication linguistique » [@Benveniste1966, 266]
 * définition des « instances de discours »: « les actes discrets et chaque fois uniques par lesquels la langue est actualisée en parole par un locuteur » [@Benveniste1966, 251]
 * deux volets à la langue: d’une part le fonctionnement des langues; d’autre part la langue comme fait social: « Mais le langage est aussi fait humain; il est, dans l’homme, le lieu d’interaction de la vie mentale et de la vie culturelle et en même temps l’instrument de cette interaction. » [@Benveniste1966, 16]; trinôme: « langue, culture, personnalité »  [@Benveniste1966, 16]; linguistique qui « a un double objet: elle est science du langage et science des langues » [@Benveniste1966, 19]
-* « Le langage *re-produit* la réalité. Cela est à entendre de la manière la plus littérale: la réalité est produite à nouveau par le truchement du langage. Celui qui parle fait renaître par son discours l’événement et son expérience de l’événement. Celui qui l’entend saisit d’abord le discours et à travers ce discours, l’événement reproduit. Ainsi la situation inhérente à l’exercice du langage qui est celle de l’échange et du dialogue, confère à l’acte de discours une fonction double: pour le locuteur, il représente la réalité; pour l’auditeur, il recrée cette réalité. Cela fait du langage l’instrument même de la communication intersubjective. » [@Benveniste1966, 25]; à lier avec la triple mimésis de Ricoeur (ED)
+* « Le langage *re-produit* la réalité. Cela est à entendre de la manière la plus littérale: la réalité est produite à nouveau par le truchement du langage. Celui qui parle fait renaître par son discours l’événement et son expérience de l’événement. Celui qui l’entend saisit d’abord le discours et à travers ce discours, l’événement reproduit. Ainsi la situation inhérente à l’exercice du langage qui est celle de l’échange et du dialogue, confère à l’acte de discours une fonction double: pour le locuteur, il représente la réalité; pour l’auditeur, il recrée cette réalité. Cela fait du langage l’instrument même de la communication intersubjective. » [@Benveniste1966, 25]; à lier avec la triple mimésis de Ricœur (ED)
 * « Chaque locuteur ne peut se poser comme sujet qu’en impliquant l’autre, le partenaire qui, doté de la même langue, a en partage le même répertoire de formes, la même syntaxe d’énonciation et la même manère d’organiser le contenu. À partir de la fonction linguistique, et en vertu de la polarité *je : tu*, individu et société ne sont plus termes contradictoires, mais termes complémentaires. » [@Benveniste1966, 25]
 * « La société n’est possible que par la langue; et par la langue aussi l’individu. » [@Benveniste1966, 25-26]; ce qu’atteste aussi la psychanalyse, d’où son intérêt pour l’acquisition du langage chez l’enfant en tant que formation de sa subjectivité
 * d’ailleurs, à propos de la psychanalyse… univers de la parole et de la subjectivité: « le sujet se sert de la parole et du discours pour se ‘représenter’ lui-même, tel qu’il veut se voir, tel qu’il appelle l’‘autre’ à le constater » [@Benveniste1966, 77]; « Du seul fait de l’allocution, celui qui parle de lui-même installe l’autre en soi et par là se saisit lui-même, se confronte, s’instaure tel qu’il aspire à être, et finalement s’historise en cette histoire incomplète ou falsifiée. Le langage est donc ici utilisé comme parole, converti en cette expression de la subjectivité instante et élusive qui forme la condition du dialogue. La langue fournit l’instrument d’un discours où la personnalité du sujet se délivre et se crée, atteint l’autre et se fait reconnaître de lui. Or la langue est structure socialisée, que la parole asservit à des fins individuelles et intersubjectives [...]. La langue est système commun à tous; le discours est à la fois porteur d’un message et instrument d’action. En ce sens, les configurations de la parole sont chaque fois uniques, bien qu’elles se réalisent à l’intérieur et par l’intermédiaire du langage. » [@Benveniste1966, 77-78]; à lier avec l’identité narrative??? (ED)
