@@ -7,13 +7,13 @@ Pour le linguiste, langage et subjectivité se trouvent ainsi intimement liés:
 
 > « Le langage est donc la possibilité de la subjectivité, du fait qu’il contient toujours les formes linguistiques appropriées à son expression, et le discours provoque l’émergence de la subjectivité, du fait qu’il consiste en instances discrètes. Le langage propose en quelque sorte des formes ‘vides’ que chaque locuteur en exercice de discours s’approprie et qu’il rapporte à sa ‘personne’, définissant en même temps lui-même comme *je* et un partenaire comme *tu*. L’instance de discours est ainsi constitutive de toutes les coordonnées qui définissent le sujet \[...\]. » [@Benveniste1966, 263]
 
-<!-- VÉRIF --> Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la seule structure de la langue – a pour particularité de le mettre en lien avec l’expérience vécue; le langage, écrivait Ricœur, est « un mode d’être dans l’être » [@Ricoeur1969, 357-358 PAGE À VÉRIFIER].
-Ainsi, avant même le développement de sa réflexion sur l’identité – narrative [@Ricoeur1985; @Ricoeur1988] et, plus largement, « personnelle » [@Ricoeur1990a] –, le philosophe proposait déjà de voir dans le langage à la fois un *moteur* et un *motif* de la subjectivité.
+Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la seule structure de la langue – a pour particularité de le mettre en lien avec l’expérience vécue; le langage, écrivait Ricœur, est « un mode d’être dans l’être » [@Ricoeur1969, 358].
+Ainsi, avant même le développement de sa réflexion sur l’identité – narrative [@Ricoeur1985; @Ricoeur1988] et, plus largement, « personnelle » [@Ricoeur1990a] –, le philosophe proposait déjà de voir dans le langage à la fois un *moteur* et un *motif* de la subjectivité[^1].
 D’une part un *moteur*, au sens où le langage participe, au sens ontologique, de la constitution du sujet; d’autre part *motif* en ce que le langage marque l’expression – ou le *signe*, au sens sémiologique – de cette subjectivité.
 À ce compte, il importe toutefois de bien distinguer les nuances apportées par Ricœur à la perspective de Benveniste – ou, plus largement, à la linguistique d’héritage saussurien et à toute réflexion d’inspiration structuraliste – quant au rôle joué par le langage au sein de la subjectivité.
 
 ## D’une sémiologie à une herméneutique
-Ainsi, Benveniste voit avant tout  le discours comme « langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266], comme « langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258].
+Ainsi, Benveniste, qui s’inscrit dans l’héritage de la linguistique saussurienne[^2], voit avant tout le discours comme « langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266], comme « langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258].
 Le langage, poursuit-il, précède l’humain:
 
 > « Le langage est dans la nature de l’homme, qui ne l’a pas fabriqué. [...] Nous n’atteignons jamais l’homme séparé du langage et nous ne le voyons jamais l’inventant. Nous n’atteignons jamais l’homme réduit à lui-même et s’ingéniant à concevoir l’existence de l’autre. C’est un homme parlant que nous trouvons dans le monde, un homme parlant à un autre homme, et le langage enseigne la définition même de l’homme. » [@Benveniste1966, 259]
@@ -123,3 +123,6 @@ ou sur le *raconter*
 
 
 ### Notion de subjectivèmes
+
+[^1]: Nous soulignons ici l’antériorité du *Conflit des interprétations* surtout afin de mettre en lumière comment, malgré son apparent éclectisme – par l’étendue des disciplines et des interlocuteurs convoqués –, la pensée de Paul Ricœur maintient finalement une grande continuité dans son intérêt pour la question du sujet.
+[^2]: Rappelons seulement la distinction proposée par Ferdinand de Saussure entre les notions de « langage » – en tant que « faculté » et fait humain [@Saussure1916, 25] correspondant à l’utilisation de signes, linguistiques ou non, à des fins de communication –, de « langue » – à savoir un « système de signes exprimant des idées » [@Saussure1916, 33], compris et utilisé par une communauté et donc « produit social » [@Saussure1916, 25] ou « institution sociale » [@Saussure1916, 26, 33] – et de « parole » – qui correspond à l’« activité du sujet parlant » [@Saussure1916, 37] utilisant le système de signes qu’est une langue.
