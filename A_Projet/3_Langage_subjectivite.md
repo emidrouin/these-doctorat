@@ -13,12 +13,18 @@ D’une part un *moteur*, au sens où le langage participe, au sens ontologique,
 À ce compte, il importe toutefois de bien distinguer les nuances apportées par Ricœur à la perspective de Benveniste – ou, plus largement, à la linguistique d’héritage saussurien et à toute réflexion d’inspiration structuraliste – quant au rôle joué par le langage au sein de la subjectivité.
 
 ## D’une sémiologie à une herméneutique
-Ainsi, Benveniste, qui s’inscrit dans l’héritage de la linguistique saussurienne[^2], voit avant tout le discours comme « langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266], comme « langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258].
+Ainsi, Benveniste, qui s’inscrit dans un premier temps dans l’héritage de la linguistique saussurienne[^2], s’intéresse avant tout à ce qui constitue le « discours », à savoir la « langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266] ou, pour le dire autrement, le « langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258].
+
+
 Le langage, poursuit-il, précède l’humain:
 
 > « Le langage est dans la nature de l’homme, qui ne l’a pas fabriqué. [...] Nous n’atteignons jamais l’homme séparé du langage et nous ne le voyons jamais l’inventant. Nous n’atteignons jamais l’homme réduit à lui-même et s’ingéniant à concevoir l’existence de l’autre. C’est un homme parlant que nous trouvons dans le monde, un homme parlant à un autre homme, et le langage enseigne la définition même de l’homme. » [@Benveniste1966, 259]
 
 Cette conception, qui pose la « condition d’*intersubjectivité*, qui seule rend possible la communication linguistique » [@Benveniste1966, 266], implique qu’il s’agisse en fait d’un système de signes, d’une *sémiologie*, et que son étude soit en fait celle de ses structures.
+Ainsi, nous dit Benveniste nuançant la distinction *langue*/*parole* <!--À CONFIRMER?-->, le *langage* n’est pas en tant que tel un instrument; ce qui est instrument, ou véhicule, c’est la parole en tant qu’elle « assure la ‘communication’ » par sa façon d’être une actualisation du langage [@Benveniste1966, 259].
+
+
+
 Or, et c’est là où Ricœur intervient, cette assimilation de l’étude du *motif* – 
 
 
@@ -37,7 +43,6 @@ Pour la linguistique d’héritage saussurienne,
 
  
  
-* langage qui n’est pas un instrument (pas une invention de l’homme); ce qui est instrument ou véhicule, c’est la parole en tant qu’elle « assure la ‘communication’ » par sa façon d’être une actualisation du langage (p. 259)
 
 * « D’une manière générale, en plaçant le sujet (au sens philosophique du terme) au centre des grandes catégories du langage, en montrant, à l’occasion de faits très divers, que ce sujet ne peut jamais se distinguer d’une ‘instance de discours’, différente de l’instance de la réalité, Benveniste fonde linguistiquement, c’est-à-dire scientifiquement, l’identité du sujet et du langage, position qui est au cœur de bien des recherches actuelles et qui intéresse aussi bien la philosophie que la littérature; de telles analyses désignent peut-être l’issue d’une vieille antinomie, mal liquidée : celle du subjectif et de l’objectif, de l’individu et de la société, de la science et du discours. » [@Barthes1984, p. 193]
 
@@ -45,12 +50,13 @@ Pour la linguistique d’héritage saussurienne,
 
 
 
-<!-- ICI --> Dans *Le conflit des interprétations*, Ricœur chemine avec / tente de concilier les herméneutiques que sont la psychanalyse et le structuralisme sous la voie de la phénoménologie et conclut que « l’herméneutique » qui constitue la philosophie réflexive « doit être hardiment une herméneutique du *je suis* » [@Ricoeur1969, 359].
+<!--ICI--> Dans *Le conflit des interprétations*, Ricœur chemine avec et tente de concilier, en suivant la voie de la phénoménologie, les herméneutiques distinctes que sont la psychanalyse et le structuralisme, et conclut que « l’herméneutique » qui constitue la philosophie réflexive « doit être hardiment une herméneutique du *je suis* » [@Ricoeur1969, 359].
 Cette réflexion préfigure déjà la trame suivie dans *Soi-même comme un autre* [@Ricoeur1990a], entre apologie et destitution du *Cogito*, ainsi que le rapport entre identité personnelle et identité narrative: « Seule cette herméneutique du *je suis* [...] peut tenir côte à côte l’affirmation sereine: *je suis* et le doute poignant: *qui suis-je?* » [@Ricoeur1969, 359]
-Ainsi, Ricœur
+<!--exploratoire-->Ainsi, Ricœur s’éloigne de la fonction d’outil de communication attribuée au langage en amenant à « considérer la narration comme un acte par lequel le sujet construit et confirme son identité: narro, ergo sum. » [@Bres1994, 6] Suivant la démarche herméneutique ricoeurienne, « la compréhension joue à l’articulation des frontières de l’agir et du dire, de l’expérience et du langage », si bien que « l’objet sémiotique [le récit] est posé non comme coupure mais comme lien[^3] » [@Bres1994, 43]. Ce serait, réitère Brès, la narrativité, à savoir « ce qui fait d’un récit un récit » [@Bres1994, 5], qui « nous structure: *narro ergo sum* » [@Bres2001].
+
+
 - Ricœur « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5]
-- narrativité: « ce qui fait d’un récit un récit » [@Bres1994, 5]
-- « propositions qui conduisent à considérer la narration comme un acte par lequel le sujet construit et confirme son identité: narro, ergo sum. » [@Bres1994, 6]; la narrativité qui « nous structure: *narro ergo sum* » [@Bres2001]
+- « propositions qui conduisent à considérer la narration comme un acte par lequel le sujet construit et confirme son identité: narro, ergo sum. »  [@Bres1994, 6]
 - démarche ricoeurienne (herméneutique) : « Ses nombreux travaux sont traversés par une même idée forte: la compréhension joue à l’articulation des frontières de l’agir et du dire, de l’expérience et du langage. À l’opposé donc du principe structuraliste d’immanence, l’objet sémiotique est posé non comme coupure mais comme lien. » [@Bres1994, 43]
 
 
@@ -124,5 +130,6 @@ ou sur le *raconter*
 
 ### Notion de subjectivèmes
 
-[^1]: Nous soulignons ici l’antériorité du *Conflit des interprétations* surtout afin de mettre en lumière comment, malgré son apparent éclectisme – par l’étendue des disciplines et des interlocuteurs convoqués –, la pensée de Paul Ricœur maintient finalement une grande continuité dans son intérêt pour la question du sujet.
-[^2]: Rappelons seulement la distinction proposée par Ferdinand de Saussure entre les notions de « langage » – en tant que « faculté » et fait humain [@Saussure1916, 25] correspondant à l’utilisation de signes, linguistiques ou non, à des fins de communication –, de « langue » – à savoir un « système de signes exprimant des idées » [@Saussure1916, 33], compris et utilisé par une communauté et donc « produit social » [@Saussure1916, 25] ou « institution sociale » [@Saussure1916, 26, 33] – et de « parole » – qui correspond à l’« activité du sujet parlant » [@Saussure1916, 37] utilisant le système de signes qu’est une langue.
+[^1]: Nous soulignons ici l’antériorité du *Conflit des interprétations* surtout afin de mettre en lumière comment, malgré son apparent éclectisme – par l’étendue des disciplines et des interlocuteurs convoqués –, la pensée de Paul Ricœur fait aussi preuve d’unité et de cohérence par la continuité de son intérêt pour la question du sujet.
+[^2]: Rappelons simplement la distinction proposée par Ferdinand de Saussure entre les notions de « langage » – en tant que « faculté » et fait humain [@Saussure1916, 25] correspondant à l’utilisation de signes, linguistiques ou non, à des fins de communication –, de « langue » – à savoir un « système de signes exprimant des idées » [@Saussure1916, 33], compris et utilisé par une communauté et donc « produit social » [@Saussure1916, 25] ou « institution sociale » [@Saussure1916, 26, 33] – et de « parole » – qui correspond à l’« activité du sujet parlant » [@Saussure1916, 37] utilisant le système de signes qu’est une langue.
+[^3]: Brès souligne ici la singularité  de la pensée de Ricœur, qui « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5].
