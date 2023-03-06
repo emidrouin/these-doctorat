@@ -7,6 +7,10 @@ Pour le linguiste, langage et subjectivité se trouvent ainsi intimement liés:
 
 > « Le langage est donc la possibilité de la subjectivité, du fait qu’il contient toujours les formes linguistiques appropriées à son expression, et le discours provoque l’émergence de la subjectivité, du fait qu’il consiste en instances discrètes. Le langage propose en quelque sorte des formes ‘vides’ que chaque locuteur en exercice de discours s’approprie et qu’il rapporte à sa ‘personne’, définissant en même temps lui-même comme *je* et un partenaire comme *tu*. L’instance de discours est ainsi constitutive de toutes les coordonnées qui définissent le sujet \[...\]. » [@Benveniste1966, 263]
 
+<!-- RALLONGER ICI AVEC BENVENISTE / -->
+Les /marques/ de l’identité se retrouvent alors /insérées/ par le biais des déictiques <!--DÉFINITION-->, ou de ce que… SUBJECTIVÈMES (Voir: Kerbrat-Orecchioni + Rabatel)
+<!-- / ICI -->
+
 Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la seule structure de la langue – a pour particularité de le mettre en lien avec l’expérience vécue; le langage, écrivait Ricœur, est « un mode d’être dans l’être » [@Ricoeur1969, 358].
 Ainsi, avant même le développement de sa réflexion sur l’identité – narrative [@Ricoeur1985; @Ricoeur1988] et, plus largement, « personnelle » [@Ricoeur1990a] –, le philosophe proposait déjà de voir dans le langage à la fois un *moteur* et un *motif* de la subjectivité[^1].
 D’une part un *moteur*, au sens où le langage participe, au sens ontologique, de la constitution du sujet; d’autre part *motif* en ce que le langage marque l’expression – ou le *signe*, au sens sémiologique – de cette subjectivité.
@@ -14,7 +18,6 @@ D’une part un *moteur*, au sens où le langage participe, au sens ontologique,
 
 ## D’une sémiologie à une herméneutique
 Ainsi, Benveniste, qui s’inscrit dans un premier temps dans l’héritage de la linguistique saussurienne[^2], s’intéresse avant tout à ce qui constitue le « discours », à savoir la « langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266] ou, pour le dire autrement, le « langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258].
-
 
 Le langage, poursuit-il, précède l’humain:
 

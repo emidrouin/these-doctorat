@@ -5,9 +5,14 @@ keywords: @Ricoeur2004
 
 ## Préface, avant-propos
 * Parcours de la reconnaissance : « la reconnaissance comme identification; se reconnaître soi-même; la reconnaissance mutuelle » (p. 8, préface de l’éditeur); passer « de l’actif » de « reconnaître un quelque chose en général » jusqu’« au passif » (du « soi [qui] demande à être reconnu »), jusqu’à la « reconnaissance mutuelle » (p. 8, préface de l’éditeur)
+* herméneutique = « lecture de l’expérience humaine » (préface de l’éditeur, p. 8)
+* pas une homonymie du terme « reconnaissance », mais plutôt une « polysémie réglée »(p. 12)
 
 ## Étude I : La reconnaissance comme identification
+* chaîne de reconnaissance: « accepter, tenir pour vrai, admettre, avouer, être redevable, remercier » (p. 32)
+* c’est une question d’identité: « à la fois l’enjeu de cette reconnaissance et le lien entre les problématiqus rassemblées sous ce titre » (p. 43)
 * placer la reconnaissance-identification en premier car elle revient à l’ancienne dialectique platonicienne du Même et de l’Autre (qui relève de la dialectique de l’Être, entre le Soi et l’Autre que soi?) (p. 52-53)
+    * « Ce qui se pose s’oppose en tant qu’il se distingue et rien n’est soi sans être autre que le reste » (Auguste Diès à propos du *Sophiste* de Platon, cité p. 52)
 * conception de l’identification dans deux « philosophies du jugement » :
     * Descartes :
         * identifier = distinguer (p. 53), c-à-d « séparer le même de l’autre, mettre fin à la confusion jointe à l’obscurité; en résulte l’évidence de l’idée ‘reçue’ » (p. 67)

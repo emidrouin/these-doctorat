@@ -37,7 +37,7 @@
 - [ ] Ricoeur, vers la question du langage
 
 ## Le langage comme *pratique* : la linguistique de l’énonciation
-- [ ] L’énonciation comme appropriation de la langue [@Benveniste1974], [@Benveniste1974]
+- [x] L’énonciation comme appropriation de la langue [@Benveniste1974]
 - [ ] Notion de déictiques
 - [ ] Notion de subjectivèmes [@Kerbrat-Orecchioni1980] [@Rabatel2008]
 - [ ] Langage et subjectivité [@Benveniste1966]
@@ -113,6 +113,7 @@
 ## Néologismes et inventions
 - [ ] néologismes
     - [ ] ayant pour fonction d’atténuation: « hortensesturber » et « branle-bas » / se « branle-basser » `(NV)`
+    - [ ] distinction entre les phrases en être et les phrases en faire [@Bres1994, 98-99]
 
 ## Détournement et jeu
 - [ ] détournement lexical

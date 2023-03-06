@@ -1,0 +1,29 @@
+---
+title: La narrativité; Elle est expliquée. Quoi ? – La narrativité...
+keywords: @Bres1994; @Bres2001
+---
+
+# La narrativité
+* narrativité: « ce qui fait d’un récit un récit » [@Bres1994, 5]
+* praxématique: « linguistique de la production de sens » [@Bres1994, 5-6]; fait la « théorisation des rapports langage/réel » [@Bres1994, 98]
+* Ricoeur: contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative du temps à l’agir, à l’identité » [@Bres1994, 5]; « proposition qui conduisent à considérer la narration comme un acte par lequel le sujet construit et confirme son identité; narro, ergo sum. » [@Bres1994, 6]
+* voir: Paul Ricoeur, « La narrativité », dans *Pour une théorie du discours narratifs*, Éd. du CNRS, 1980
+* Lafont (1978?): « Dire le réel en *fable* [récit, narration], c’est le dénouer de la nécessité de présence » (Lafont, cité p. 12-13)
+* Principe du narratif [@Bres1994, 96-97]
+    * n’est pas dépendant de la gestuelle (sémio)
+    * fonctionnel: « récit est délié de la satisfaction des besoins » [@Bres1994, 97]
+    * interactif: pas de stimulus d’action (de type parole → action); possibilité d’interaction verbale; le narratif remplace l’action, *est* l’action (ex.: Shéhérazade)
+    * production de sens: « aptitude à représenter l’objet absent »; « la parole se libère de la dépendance référentielle (mais pas de sa visée référentelle) » [@Bres1994, 97]
+* praxématique vs narratologie (Greimas):
+    * homologie phrase/récit, s’inspire de Tesnière: phrase = petit drame avec un procès (verbe) des acteurs (actants) et des circonstances (circonstants) [@Bres1994, 97,  voir Greimas 1966, 102]
+    * interprétation de Greimas: phrase comme « spectacle que se donne à lui-même l’*homo loquens* [@Bres1994, 98, citant Greimas]
+    * praxématique (notions):
+        * phrase en être vs phrase en faire [@Bres1994, 98-99]
+        * récit en être vs récit en faire? (ED): ~NON: « mais nous avons vu qu’on pouvait concevoir une dérivation du faire à l’être: plus globalement nous dirons que le sujet est la somme de ses actes; le faire de l’actant se reporte sur l’existant qu’il est, le modifie. De sorte que, sous la fable en faire, se dessine toujours une fable en être » [@Bres1994, 114]
+        * actant vs sujet (s): « Les tentatives modernes pour subvertir la forme romanesque libèrent l’actant de son idéologisation en *personnage*, en *héros* en le réduisant à une initiale (K. du *Château de Kafka*, A. de *La jalousie* de Robbe-Grillet) ou à un pronom de 3e personne mais n’effacent pas son statut » [@Bres1994, 115]; « réservant le terme de *sujet* à la construction de la personne, nous nommerons *actant principal* l’actant qui assure, par son identité, la cohésion de l’unité narrative » [@Bres1994, 115]
+    * concept de *point de vue*: élargir ce que fait la narratologie [@Bres1994, 117]
+        * action → interaction (donc deux possibles narratifs)
+        * mise en récit: monologise la dualité [@Bres1994, 117]
+        * mise en récit qui montre les deux facettes de l’interaction?; « Nous mettrons cette monologisation au compte de la fonction de production d’identité dévolue au récit » [@Bres1994, 117]: effacement narrateur/narrataire = récit → histoire (Benveniste)
+        * seconde personne grammaticale (récit au « tu ») qui place l’actant principal en place du narrataire [@Bres1994, 126]
+        * acte narratif/narration = énonciation??? (comment s’articule ce rapport?) (ED)
