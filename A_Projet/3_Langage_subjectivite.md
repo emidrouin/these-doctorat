@@ -1,6 +1,4 @@
 # 3. Du langage dans la subjectivité: la question du langage
-<!-- Exergue: *Narro, ergo sum* — auteur inconnu -->
-
 (Se) raconter, c’est donc dire « je » et utiliser le langage aux fins de production d’un discours.
 C’est « énoncer », nous instruirait Émile Benveniste: « L’énonciation est cette mise en fonctionnement de la langue par un acte individuel d’utilisation. » [@Benveniste1974, 80]
 Pour le linguiste, langage et subjectivité se trouvent ainsi intimement liés:
@@ -8,7 +6,37 @@ Pour le linguiste, langage et subjectivité se trouvent ainsi intimement liés:
 > « Le langage est donc la possibilité de la subjectivité, du fait qu’il contient toujours les formes linguistiques appropriées à son expression, et le discours provoque l’émergence de la subjectivité, du fait qu’il consiste en instances discrètes. Le langage propose en quelque sorte des formes ‘vides’ que chaque locuteur en exercice de discours s’approprie et qu’il rapporte à sa ‘personne’, définissant en même temps lui-même comme *je* et un partenaire comme *tu*. L’instance de discours est ainsi constitutive de toutes les coordonnées qui définissent le sujet \[...\]. » [@Benveniste1966, 263]
 
 <!-- RALLONGER ICI AVEC BENVENISTE / -->
+Ces « coordonnées » dont parle Benveniste correspondent en fait aux phénomènes de marquage, c’est-à-dire aux  « déictiques », notamment les pronoms personnels et les adverbes[^4], et dont l’actualisation dans les situations d’énonciation spécifiques – les « instances de discours », définies comme étant les « actes discrets et chaque fois uniques par lesquel la langue est actualisée en parole par un locuteur » [@Benveniste1966, 251] – permet la prise en charge énonciative.
+L’énonciation se retrouve ainsi à permettre la construction et le maintien de la subjectivité, car « [c]’est en s’identifiant comme personne unique prononçant *je* que chacun des locuteurs se pose tour à tour comme ‘sujet’ » [@Benveniste1966, 254].
+
+
+
+
+« marques concrètes, au niveau de l’énoncé, de l’activité subjective de l’énonciateur » [@Balatchi2005, p. 23], à savoir les
+
+, à savoir ces « unités porteuses de ce que Catherine Kerbrat-Orecchioni appelle un ‘subjectivème’, c’est-à-dire un énonciatème marquant l’inscription et les modalités d’existence du seul locuteur-scripteur dans son discours » [@Fiala.etal1981]
+
+
+dont font partie les « déictiques »
+– ou « déictiques », notamment les pronoms personnels et adverbes [NOTE?] – qui permettent la prise en charge énonciative.
+
+* « subjectivème » : « unités ‘subjectives’ qui constituent un sous-ensemble des unités ‘énonciatives’ porteuses d’un ‘subjectivème’ (cas particulier d’énoncia-tème) » [@Kerbrat-Orecchioni1980] – vs les « virtuèmes », qui sont des « sèmes virtuels », sens actualisés seulement parfois, selon le contexte – les virtuèmes ne sont ainsi pas tous des subjectivèmes
+
+« déictiques » / voir [@Benveniste1966]
+
+Ces « coordonnées » dont parle Benveniste correspondent en fait à la prise en charge énonciative par les phénomènes de marquage, à savoir les déictiques / ou embrayeurs????
+
+
+Lorsqu’il parle des « coordonnées », Benveniste fait ici référence à la prise en charge énonciative par les phénomènes de marquage
+
 Les /marques/ de l’identité se retrouvent alors /insérées/ par le biais des déictiques <!--DÉFINITION-->, ou de ce que… SUBJECTIVÈMES (Voir: Kerbrat-Orecchioni + Rabatel)
+
+prise en charge énonciative par les phénomènes de marquage, à savoir les déictiques (Je/Ici/Maintenant) de Benveniste, ou les « subjectivèmes » [voir @Rabatel2005a]
+
+
+
+
+
 <!-- / ICI -->
 
 Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la seule structure de la langue – a pour particularité de le mettre en lien avec l’expérience vécue; le langage, écrivait Ricœur, est « un mode d’être dans l’être » [@Ricoeur1969, 358].
@@ -80,7 +108,11 @@ ou sur le *raconter*
 
 « Tout homme se pose dans son individualité en tant que *moi* par rapport à *toi* et *lui*. » [@Benveniste1974, 67]
 
-* condition: « Le discours, dira-t-on, qui est produit chaque foi qu’on parle, cette manifestation de l’énonciation, n’est-ce pas simplement la ‘parole’? – Il faut prendre garde à la condition spécifique de l’énonciation: c’est l’**acte même de produire un énoncé** et non le texte de l’énoncé **qui est notre objet**. Cet acte est le **fait du locuteur qui mobilise la langue pour son compte**. La relation du locuteur à la langue détermine les caractères linguistiques de l’énonciation. On doit l’envisager comme le **fait du locuteur, qui prend la langue pour instrument**, et dans les caractères linguistiques qui marquent cette relation. » [@Benveniste1974, 80]
+* condition: « Le discours, dira-t-on, qui est produit chaque foi qu’on parle, cette manifestation de l’énonciation, n’est-ce pas simplement la ‘parole’? – Il faut prendre garde à la condition spécifique de l’énonciation: c’est l’**acte même de produire un énoncé** et non le texte de l’énoncé **qui est notre objet**. Cet acte est le **fait du locuteur qui mobilise la langue pour son compte**. La relation du locuteur à la langue détermine les caractères linguistiques de l’énonciation. On doit l’envisager comme le **fait du locuteur, qui prend la langue pour instrument**, et dans les caractères linguistiques qui marquent cette relation. » [@Benveniste1974, 80]En plus des pronoms (*je* et *tu*) sur lesquels
+Benveniste parle aussi des adverbes (*ici* et *maintenant*) (p. 253), qui tirent leur 
+article « La nature des pronoms », où il est question notamment du « je » et du « tu », que Benveniste ddd les adverbes
+
+* parle des démonstratifs (*ce*) (p. 253)
 
 
 ## Partir de la notion de narrativité
@@ -136,3 +168,4 @@ ou sur le *raconter*
 [^1]: Nous soulignons ici l’antériorité du *Conflit des interprétations* surtout afin de mettre en lumière comment, malgré son apparent éclectisme – par l’étendue des disciplines et des interlocuteurs convoqués –, la pensée de Paul Ricœur fait aussi preuve d’unité et de cohérence par la continuité de son intérêt pour la question du sujet.
 [^2]: Rappelons simplement la distinction proposée par Ferdinand de Saussure entre les notions de « langage » – en tant que « faculté » et fait humain [@Saussure1916, 25] correspondant à l’utilisation de signes, linguistiques ou non, à des fins de communication –, de « langue » – à savoir un « système de signes exprimant des idées » [@Saussure1916, 33], compris et utilisé par une communauté et donc « produit social » [@Saussure1916, 25] ou « institution sociale » [@Saussure1916, 26, 33] – et de « parole » – qui correspond à l’« activité du sujet parlant » [@Saussure1916, 37] utilisant le système de signes qu’est une langue.
 [^3]: Brès souligne ici la singularité  de la pensée de Ricœur, qui « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5].
+[^4]: Dans l’article « La nature des pronoms », Benveniste explique qu’en plus des pronoms (*je* et *tu*, en l’occurence), les adverbes (*ici* et *maintenant*) tirent leur référence du fait de la deixis, laquelle est « contemporaine de l’instance de discours qui porte l’indicateur de personne », si bien qu’ils se retrouvent dans la même situation: « L’essentiel est donc la relation entre l’indicateur (de personne, de temps, de lieu, d’objet montré, etc.) et la *présente* instance de discours. » [@Benveniste1966, 253] <!--aussi les démonstratifs?-->
