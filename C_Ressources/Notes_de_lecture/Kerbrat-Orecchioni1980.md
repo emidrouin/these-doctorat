@@ -18,7 +18,7 @@ keywords: @Kerbrat-Orecchioni1980
 # Quel sujet?
 * de la subjectivité de *qui*?
     * « il convient à la fois de *distinguer*, et de considérer comme le *reflet* l’un de l’autre, les sujets *textuel* (celui qui se construit dans et par l’énoncé) et *extratextuel* (celui d’où s’originent les signifiants phoniques et graphiques) » (p. 171)
-    * or cette vision perd de son sens quand il est question de discours littéraire, car se produit, pour le discours littéraire, le « *dédoublement* suivant des *instances énonciatives* »  : [ auteur — narrateur —— narrataire — lecteur ] dans lequel on peut voir les couples auteur/lecteur et narrateur/narrataire (p. 171)
+    * or cette vision perd de son sens quand il est question de **discours littéraire**, car se produit, pour le discours littéraire, le « *dédoublement* suivant des *instances énonciatives* »  : [ auteur — narrateur —— narrataire — lecteur ] dans lequel on peut voir les couples auteur/lecteur et narrateur/narrataire (p. 171)
 * dédoublement car :
     * « pôle d’émission » : « l’énonciateur se dédouble en un sujet extratextuel (l’auteur) et un sujet intratextuel (le narrateur, qui prend en charge les contenus narrés) » (p. 171)
     * pôle de réception : « le lecteur effectif se double d’un récepteur fictif qui s’inscrit explicitement ou implicitement dans l’énoncé [narrataire de Genette] » (p. 171-172)

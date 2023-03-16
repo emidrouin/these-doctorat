@@ -6,32 +6,56 @@ Pour le linguiste, langage et subjectivité se trouvent ainsi intimement liés:
 > « Le langage est donc la possibilité de la subjectivité, du fait qu’il contient toujours les formes linguistiques appropriées à son expression, et le discours provoque l’émergence de la subjectivité, du fait qu’il consiste en instances discrètes. Le langage propose en quelque sorte des formes ‘vides’ que chaque locuteur en exercice de discours s’approprie et qu’il rapporte à sa ‘personne’, définissant en même temps lui-même comme *je* et un partenaire comme *tu*. L’instance de discours est ainsi constitutive de toutes les coordonnées qui définissent le sujet \[...\]. » [@Benveniste1966, 263]
 
 <!-- RALLONGER ICI AVEC BENVENISTE / -->
-Ces « coordonnées » dont parle Benveniste correspondent en fait aux phénomènes de marquage, c’est-à-dire aux  « déictiques », notamment les pronoms personnels et les adverbes[^4], et dont l’actualisation dans les situations d’énonciation spécifiques – les « instances de discours », définies comme étant les « actes discrets et chaque fois uniques par lesquel la langue est actualisée en parole par un locuteur » [@Benveniste1966, 251] – permet la prise en charge énonciative.
+Suivant cette explication, l’énonciation est l’acte qui introduit le « locuteur » au sein de l’« instance de discours »
+
 L’énonciation se retrouve ainsi à permettre la construction et le maintien de la subjectivité, car « [c]’est en s’identifiant comme personne unique prononçant *je* que chacun des locuteurs se pose tour à tour comme ‘sujet’ » [@Benveniste1966, 254].
 
 
+Ces « coordonnées » dont parle Benveniste correspondent en fait aux « déictiques »[^4], à savoir un « ensemble de signes ‘vides’, non référentiels par rapport à la ‘réalité’, toujours disponibles et qui deviennent ‘pleins’ dès qu’un locuteur les assume dans chaque instance de son discours », et dont le « rôle est de fournir l’instrument [de la] conversion du langage en discours » [@Benveniste1966, 254].
 
+
+
+    * acte qui introduit, pour mener à bien le passage de langue à énonciation [ou à « parole »?, à vérifier (ED)], le « locuteur » au sein de l’« instance de discours » qu’est la réalisation de la langue, et qui atteint un auditeur et qui suscite une autre énonciation en retour [@Benveniste1974, 81-82];
+    * situation qui est d’abord celle d’une appropriation, mais ensuite d’une allocution:  « En tant que réalisation inviduelle, l’énonciation peut se définir, par rapport à la langue, comme un procès d’*appropriation*. Le **locuteur s’approprie l’appareil formel de la langue** et il **énonce sa position de locuteur** par des indices spécifiques, d’une part, et au moyen de procédés accessoires, de l’autre.; Mais immédiatement, dès qu’il se déclare locuteur et assume la langue, il implante l’*autre* en face de lui, quel que soit le degré de présence qu’il attribue à cet autre. Toute énonciation est, explicite ou implicite, une allocution, elle postule un allocutaire. »[@Benveniste1974, 82], et aussi un système commun de références – ou un « rapport au monde » partagé –, lesquelles font partie de l’énonciation [@Benveniste1974, 82]; bref: l’énonciation implique subjectivité et intersubjectivité;
+
+
+
+Ces signes ont ceci de particulier qu’ils nécessitent, « pour rendre compte de la spécificité de leur fonctionnement sémantico-référentiel », que l’on tienne compte de « certains des paramètres constitutifs de la situation d’énonciation » [@Kerbrat-Orecchioni1980, 39].
+Ils incluent notamment les pronoms personnels et certains adverbes[^5], et c’est leur actualisation dans les situations d’énonciation spécifiques – les « instances de discours », définies comme étant les « actes discrets et chaque fois uniques par lesquel la langue est actualisée en parole par un locuteur » [@Benveniste1966, 251] – qui permet la prise en charge énonciative.
+
+
+On pourrait y ajouter les « subjectivèmes » – appellation qui s’inspire de la réflexion de Robert Lafont, qui pensait les mots comme « praxèmes » en ce qu’ils sont liés aux « différentes ‘praxis’ [...] de la société qui les manipule » et qu’ils portent des « jugements interprétatifs ‘subjectifs’ inscrits dans l’inconscient linguistique de la communauté » [@Kerbrat-Orecchioni1980, 79; voir @Lafont1976] – et que Catherine Kerbrat-Orecchioni distingue entre « affectif » et « évaluatif », en ce qu’ils p
+
+
+
+
+
+
+
+Les /marques/ de l’identité se retrouvent alors /insérées/ par le biais des déictiques <!--DÉFINITION-->, ou de ce que… SUBJECTIVÈMES (Voir: Kerbrat-Orecchioni + Rabatel)
+
+
+
+
+
+Or, outre
+<!--définir déictiques/déixis-->
+Catherine Kerbrat-Orecchioni parlait, en d’autres termes, de « subjectivèmes ». a parlé des déictiques (?)
+
+
+
+].
 
 « marques concrètes, au niveau de l’énoncé, de l’activité subjective de l’énonciateur » [@Balatchi2005, p. 23], à savoir les
 
-, à savoir ces « unités porteuses de ce que Catherine Kerbrat-Orecchioni appelle un ‘subjectivème’, c’est-à-dire un énonciatème marquant l’inscription et les modalités d’existence du seul locuteur-scripteur dans son discours » [@Fiala.etal1981]
-
-
-dont font partie les « déictiques »
-– ou « déictiques », notamment les pronoms personnels et adverbes [NOTE?] – qui permettent la prise en charge énonciative.
+, à savoir ces « unités porteuses de ce que Catherine Kerbrat-Orecchioni appelle un ‘subjectivème’, c’est-à-dire un énonciatème marquant l’inscription et les modalités d’existence du seul locuteur-scripteur dans son discours » [@Fiala.etal1981] (à propos du chap. 1)
 
 * « subjectivème » : « unités ‘subjectives’ qui constituent un sous-ensemble des unités ‘énonciatives’ porteuses d’un ‘subjectivème’ (cas particulier d’énoncia-tème) » [@Kerbrat-Orecchioni1980] – vs les « virtuèmes », qui sont des « sèmes virtuels », sens actualisés seulement parfois, selon le contexte – les virtuèmes ne sont ainsi pas tous des subjectivèmes
 
 « déictiques » / voir [@Benveniste1966]
 
-Ces « coordonnées » dont parle Benveniste correspondent en fait à la prise en charge énonciative par les phénomènes de marquage, à savoir les déictiques / ou embrayeurs????
 
 
-Lorsqu’il parle des « coordonnées », Benveniste fait ici référence à la prise en charge énonciative par les phénomènes de marquage
-
-Les /marques/ de l’identité se retrouvent alors /insérées/ par le biais des déictiques <!--DÉFINITION-->, ou de ce que… SUBJECTIVÈMES (Voir: Kerbrat-Orecchioni + Rabatel)
-
-prise en charge énonciative par les phénomènes de marquage, à savoir les déictiques (Je/Ici/Maintenant) de Benveniste, ou les « subjectivèmes » [voir @Rabatel2005a]
 
 
 
@@ -131,8 +155,7 @@ article « La nature des pronoms », où il est question notamment du « j
 
 ### Langage et subjectivité
 * approche de Benveniste: « définir l’énonciation dans le cadre formel de sa réalisation » [@Benveniste1974, 81], donc: « Dans l’énonciation, nous considérons successivement l’acte même, les situations où il se réalise, les instruments de l’accomplissement. » [@Benveniste1974, 81];
-    * acte qui introduit, pour mener à bien le passage de langue à énonciation [ou à « parole »?, à vérifier (ED)], le « locuteur » au sein de l’« instance de discours » qu’est la réalisation de la langue, et qui atteint un auditeur et qui suscite une autre énonciation en retour [@Benveniste1974, 81-82];
-    * situation qui est d’abord celle d’une appropriation, mais ensuite d’une allocution:  « En tant que réalisation inviduelle, l’énonciation peut se définir, par rapport à la langue, comme un procès d’*appropriation*. Le **locuteur s’approprie l’appareil formel de la langue** et il **énonce sa position de locuteur** par des indices spécifiques, d’une part, et au moyen de procédés accessoires, de l’autre.; Mais immédiatement, dès qu’il se déclare locuteur et assume la langue, il implante l’*autre* en face de lui, quel que soit le degré de présence qu’il attribue à cet autre. Toute énonciation est, explicite ou implicite, une allocution, elle postule un allocutaire. »[@Benveniste1974, 82], et aussi un système commun de références – ou un « rapport au monde » partagé –, lesquelles font partie de l’énonciation [@Benveniste1974, 82]; bref: l’énonciation implique subjectivité et intersubjectivité;
+
     * instruments qui sont ceux des indices de personne dont les pronoms personnels et les démonstratifs [@Benveniste1974, 82-83] – notamment par l’idée d’*ostension* –, le paradigme des « formes temporelles, qui se déterminent par rapport à l’EGO, centre de l’énonciation » [@Benveniste1974, 83], sans oublier la spatialité? (ED); « Ainsi l’énonciation est directement responsable de certaines classes de signes qu’elle promeut littéralement à l’existence. Car ils ne pourraient prendre naissance ni trouver emploi dans l’usage cognitif de la langue. Il faut donc distinguer les entités qui ont dans la langue leur statut plein et permanent et celles qui, émanant de l’énonciation, n’existe que dans le réseau d’‘individus’ que l’énonciation crée et par rapport à l’‘ici-maintenant’ du locuteur. » [@Benveniste1974, 84]; aussi les « grandes fonctions syntaxiques » (p. 84), soit des énonciations ayant un objectif spécifique envers l’allocutaire: l’*interrogation* (« énonciation construite pour susciter une ‘réponse’ »), l’*intimation* (ordres, impératif, etc.) et l’*assertion* (« communiquer une certitude ») (p. 84) et autres modalités formelles (p. 85), qui sont d’autres « instruments » de l’énonciation
     * subjectivité : « C’est en s’identifiant comme personne unique prononçant *je* que chacun des locuteurs se pose tour à tour comme ‘sujet’. » [@Benveniste1966, 254]; *je* comme « signe unique, mais mobile » [@Benveniste1966, 254] et qui « peut être assumé par chaque locuteur » dans le cadre de « son propre discours » [@Benveniste1966, 254], ce qui permet le langage (l’intercompréhension) car si chaque sujet avait son « indicatif », « il y aurait pratiquement autant de langues que d’individus et la communication deviendrait strictement impossible » [@Benveniste1966, 254]
 
@@ -144,9 +167,6 @@ article « La nature des pronoms », où il est question notamment du « j
     * d’abord les pronoms personnels
     * puis les « indicateurs de la *deixis*, démonstratifs, adverbes, adjectifs, qui organisent les relations spatiales et temporelles autour du ‘sujet’ » et qui se définissent seulement « par rapport à l’instance de discours où ils sont produits », à savoir le ‘*je*’ dont ils dépendent [@Benveniste1966, 262]; ce qui adjoint la question de la temporalité à la subjectivité, par « coïncidence de l’événement décrit avec l’instance de discours qui le décrit » en tant que « présent » [@Benveniste1966, 262]; sur la question de la temporalité (la plus « riche » [@Benveniste1974, 69]), dont l’expérience serait vécue par la langue, voir [@Benveniste1974, chap. 4] et qui permettrait de donner « la position objective des événements » mais aussi « *notre* situation par rapport à ces événements » [@Benveniste1974, 72]; et aussi le « système des coordonnées spatiales » qui peut « localiser tout objet en n’importe quel champ, une fois que **celui qui l’ordonne s’est lui-même désigné comme centre et repère** » [@Benveniste1974, 69]
 
-
-#### Notion de déictiques
-* utilité des déictiques : « Le langage a résolu ce problème en créant un ensemble de signes ‘vides’, non référentiels par rapport à la ‘réalité’, toujours disponibles, et qui deviennent ‘pleins’ dès qu’un locuteur les assume dans chaque instance de son discours. » [@Benveniste1966, 254]; « Leur rôle est de fournir l’**instrument d’une conversion**, qu’on peut appeler la **conversion du langage en discours**. » [@Benveniste1966, 254]
 
 ### Langage et intersubjectivité
 * prémisse: « le discours est le langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258]; discours comme « la langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266]; « condition d’*intersubjectivité*, qui seule rend possible la communication linguistique » [@Benveniste1966, 266]
@@ -168,4 +188,5 @@ article « La nature des pronoms », où il est question notamment du « j
 [^1]: Nous soulignons ici l’antériorité du *Conflit des interprétations* surtout afin de mettre en lumière comment, malgré son apparent éclectisme – par l’étendue des disciplines et des interlocuteurs convoqués –, la pensée de Paul Ricœur fait aussi preuve d’unité et de cohérence par la continuité de son intérêt pour la question du sujet.
 [^2]: Rappelons simplement la distinction proposée par Ferdinand de Saussure entre les notions de « langage » – en tant que « faculté » et fait humain [@Saussure1916, 25] correspondant à l’utilisation de signes, linguistiques ou non, à des fins de communication –, de « langue » – à savoir un « système de signes exprimant des idées » [@Saussure1916, 33], compris et utilisé par une communauté et donc « produit social » [@Saussure1916, 25] ou « institution sociale » [@Saussure1916, 26, 33] – et de « parole » – qui correspond à l’« activité du sujet parlant » [@Saussure1916, 37] utilisant le système de signes qu’est une langue.
 [^3]: Brès souligne ici la singularité  de la pensée de Ricœur, qui « contribuait à sortir le récit des clôtures à l’intérieur desquelles l’analyse structurale l’avait quelque peu enfermé, en articulant fortement la forme narrative au temps, à l’agir, à l’identité » [@Bres1994, 5].
-[^4]: Dans l’article « La nature des pronoms », Benveniste explique qu’en plus des pronoms (*je* et *tu*, en l’occurence), les adverbes (*ici* et *maintenant*) tirent leur référence du fait de la deixis, laquelle est « contemporaine de l’instance de discours qui porte l’indicateur de personne », si bien qu’ils se retrouvent dans la même situation: « L’essentiel est donc la relation entre l’indicateur (de personne, de temps, de lieu, d’objet montré, etc.) et la *présente* instance de discours. » [@Benveniste1966, 253] <!--aussi les démonstratifs?-->
+[^4]: Roman Jakobson parlait plutôt de « shifters »<!-- source -->, que l’on traduit en français par « embrayeurs » du discours [@Kerbrat-Orecchioni1980, 39].
+[^5]: Dans l’article « La nature des pronoms », Benveniste explique qu’en plus des pronoms (*je* et *tu*, en l’occurence), les adverbes *ici* et *maintenant* tirent leur référence du fait de la deixis, laquelle est « contemporaine de l’instance de discours qui porte l’indicateur de personne », si bien qu’ils se retrouvent dans la même situation: « L’essentiel est donc la relation entre l’indicateur (de personne, de temps, de lieu, d’objet montré, etc.) et la *présente* instance de discours. » [@Benveniste1966, 253] Dans son ouvrage *L’énonciation: de la subjectivité dans le langage*, Catherine Kerbrat-Orecchioni énumère notamment les pronoms personnels et les pronoms possessifs (« qui amalgament [...] un article défini + un pronom personnel » [@Kerbrat-Orecchioni1980, 45]), les démonstratifs, les locutions adverbiales servant à la localisation temporelle ou à la localisation spatiale, ainsi que certains emplois de termes de parenté, par exemple « papa » ou « maman » utilisés « sans prédéterminant » [@Kerbrat-Orecchioni1980, 61].

@@ -182,6 +182,7 @@
 - [ ] mise en scène de l’acte du discours oral: « Voilà que moi-même, je déclamais. » `(NV, 89)`
 - [ ] usages de l’adresse
     - [ ] « O mon ami l’homme » / « O hommes » `(NV)`
+- [ ] bouleversement des temporalités, et donc des « codes » de l’énonciation? (voir [@Kerbrat-Orecchioni1980, 192])
 
 # 9. Conclusion: des personnages *autres*
 - [ ] *enfants de langage*: des personnages / narrateurs qui sont davantage *comment* ils disent
