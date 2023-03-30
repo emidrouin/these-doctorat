@@ -1,10 +1,13 @@
 # Notions de praxématique
-* * sur la praxématique (vs analyse du discours), voir [@Guilhaumou2003]
-
+* sur la praxématique (vs analyse du discours), voir [@Guilhaumou2003]
 * « En dépit des précautions pour éviter toute option ontologique explicite (les structures sémiotiques sont-elles mises en évidence de la réalité objective ou ne sont-elles que construction, représentation intellectuelle?), la présupposition de l’immanence par rapport à la manifestation nous est apparue procéder d’une démarche marquée d’idéalisme : en posant l’antériorité logique d’un ‘être’ sur son ‘paraître’, elle pose en fait, selon nous, celle d’une essence. La praxématique opte au contraire pour une perspective inverse: il ne saurait y avoir de signifié immanent; n’existent que des outils linguistiques dont seule l’actualisation par un sujet est productrice de sens. » [@Barberis.etal1989, p. 31]
 * « Le praxème est l’unité pratique de production de sens que la praxématique substitue au signe. À contre courant de l’usage établi, la praxématique ne renvoie pas le référent à l’extralinguistique mais en fait une composante du fonctionnement du langage. » [@Barberis.etal1989, p. 34]
 * Définition académique de la praxématique : « Théorie linguistique centrée sur l’analyse de la production du sens en langage dans un cadre anthropologique et réaliste. » [@Detrie.etal2017, p. 298]
 * origine: Robert Lafont, années 70 [@Lafont1978]; à partir de Gustave Guillaume; autour de l’U. Montpellier, labo Praxiling (Bres, Siblot, Gardes-Madray, Barbéris); sur des origines sociolinguistiques, mais en tentant de s’orienter davantage vers la pratique
+* « On peut formuler autrement cette proposition, en définissant l’homme comme être travaillant, le travail étant une activité sociale et culturelle. On emploiera alors le terme de ‘praxis’. Ce terme convient aussi à l’activité langagière, qu’on la considère du côté de la construction en longue diachronie d’un système linguistique donné, propre à un groupe social, ou du côté de l’acte de parole. Le terme même d’‘outil linguistique’, que nous avons employé et qui est généralement accepté, implicite la définition d’une praxis dans le langage. » [@Lafont.Gardes-Madray1976, 98]
+* division entre « praxèmes » et « parapraxèmes »: « Nous proposons d’appeler ‘parapraxèmes’ les outils topothétiques et chronothétiques: pronoms, marques verbales de la personne, possessifs, démonstratifs, articles, indéfinis, marquesdu temps, ‘adverbes’ comme *ici*, *là*, *maintenant*, *demain*. » [@Lafont.Gardes-Madray1976, 99]
+    * « fonction parapraxémique »: « quand le pronom de non-personne joue en remplacement de praxème: *Pierre est là, je* le *vois*. *Le* permet au dscours de se référer non pas à l’espace extérieur objectif ou à la conscience linguistique comme espace, mais à son propre espace. *Le* fait que le langage arrive à parler de lui-même. C’est l’ouverture d’une fonction que nous appelons ‘métapraxémique’. » [@Lafont.Gardes-Madray1976, 100]
+    * 
 
 ## Prise en charge énonciative
 * phénomènes de marquage
