@@ -38,8 +38,8 @@
 
 ## Le langage comme *pratique* : la linguistique de l’énonciation
 - [x] L’énonciation comme appropriation de la langue [@Benveniste1974]
-- [ ] Notion de déictiques
-- [ ] Notion de subjectivèmes [@Kerbrat-Orecchioni1980] [@Rabatel2008]
+- [x] Notion de déictiques
+- [x] Notion de subjectivèmes [@Kerbrat-Orecchioni1980] [@Rabatel2008]
 - [ ] Langage et subjectivité [@Benveniste1966]
 - [ ] Langage et intersubjectivité [@Benveniste1974]
 
