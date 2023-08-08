@@ -10,7 +10,8 @@ Ces « coordonnées » dont parle Benveniste correspondent en fait aux « 
 Ces signes ont ceci de particulier qu’ils nécessitent, « pour rendre compte de la spécificité de leur fonctionnement sémantico-référentiel », que l’on tienne compte de « certains des paramètres constitutifs de la situation d’énonciation » [@Kerbrat-Orecchioni1980, 39].
 Ils incluent notamment les pronoms personnels et certains adverbes[^3], et c’est leur actualisation dans les situations d’énonciation spécifiques – les « instances de discours », définies comme étant les « actes discrets et chaque fois uniques par lesquel la langue est actualisée en parole par un locuteur » [@Benveniste1966, 251] – qui permet la prise en charge énonciative.
 L’introduction de la subjectivité dans le langage advient donc par ces termes, d’une part les pronoms personnels, et d’autre part les « indicateurs de la *deixis* » que sont les « démonstratifs, adverbes, adjectifs, qui organisent les relations spatiales et temporelles autour du ‘sujet’ » et qui ont pour particularité de se définir seulement « par rapport à l’instance de discours où ils sont produits », à savoir le ‘*je*’ dont ils dépendent [@Benveniste1966, 262], pronom assumé par cet « Ego » qui « s’est lui-même désigné comme centre et repère » [@Benveniste1974, 69].
-C’est le fait de la *deixis*, ddd
+
+→ C’est le fait de la *deixis*, ddd
 <!--définir déictiques/déixis (voir Charles Bally, 1932?)-->
 
 On pourrait y ajouter les « subjectivèmes » – ces « marques concrètes, au niveau de l’énoncé, de l’activité subjective de l’énonciateur » [@Balatchi2005, p. 23] – dont l’appellation s’inspire de la réflexion de Robert Lafont, qui pensait les mots comme « praxèmes » en ce qu’ils sont liés aux « différentes ‘praxis’ [...] de la société qui les manipule » et qu’ils portent des « jugements interprétatifs ‘subjectifs’ inscrits dans l’inconscient linguistique de la communauté » [@Kerbrat-Orecchioni1980, 79].
@@ -30,18 +31,24 @@ Cette façon de penser le langage dans sa mise en oeuvre – plutôt que pour la
 Ainsi, avant même le développement de sa réflexion sur l’identité – narrative [@Ricoeur1985; @Ricoeur1988] et, plus largement, « personnelle » [@Ricoeur1990a] –, le philosophe proposait déjà de voir dans le langage à la fois un *moteur* et un *motif* de la subjectivité[^6].
 D’une part un *moteur*, au sens où le langage participe, au sens ontologique, de la constitution du sujet; d’autre part *motif* en ce que le langage marque l’expression – ou le *signe*, au sens sémiologique – de cette subjectivité.
 
-D’abord, 
+## D’une sémiologie à une herméneutique
+C’est donc sous le couvert des « interprétations » que Ricœur tentait alors de faire dialoguer les chasses gardées de l’époque qu’étaient le structuralisme – dont découle la linguistique d’inspiration saussurienne –, la psychanalyse ainsi que la phénoménologie.
+Revenant sur la pensée de Heidegger, le philosophe avance ainsi que ce qui a parfois été perçu comme un « simple rejet de toute notion de *l’ego* ou du Soi » [@Ricoeur1969, 305] est en fait plutôt sa réfutation en tant que « simple principe épistémologique » [@Ricoeur1969, 305] suivie de « sa restitution au plan ontologique au titre du ‘je suis’ » [@Ricoeur1969, 306].
+À cet égard, bien que ça apparaisse plus évident au début de l’oeuvre de Heidegger et moins vers la fin, Ricœur estime que la « philosophie heideggerienne du langage » sert de « seconde preuve – ou de contre-épreuve » – à la suite de l’« Analytique du *Dasein* », plus primitive – pour « montrer la sorte d’implication circulaire entre *Sein* et *Dasein*, entre la question de l’être et le Soi » [@Ricoeur1969, 306].
+<!-- réduire citations --> Ainsi, nous explique-t-il, « [l]a tâche de ‘porter l’être au langage’ réitère la même problématique, à savoir l’émergence de l’être que ‘je suis’ dans et par la manifestation de l’être comme tel. » [@Ricoeur1969, 306]
+<!-- travailler sur l’ego qui se questionne, et sur la question -->
+ce qui revient à dire « que l’émergence du *Dasein*, en tant que tel, et celle du langage, en tant que parole, constituent *un seul et même problème*. » [@Ricoeur1969, 306]
+
+C’est alors que Ricœur nous entraîne alors sur les traces d’une « nouvelle philosophie de l’*ego* », s’éloignant de la pensée L’*ego* authentique, c’est-a-dire « celu-là même qui questionne »
+
+<!-- RETOURNER LIRE RICOEUR 1969, p. 308 à 319 -->
 
 [@Ricoeur1969]
-`* Heidegger qui « rend possible à la fois une destruction du *Cogito*, en tant que première vérité, et sa restitution au plan ontologique au titre du ‘je suis’ » (p. 305-306);
-    * c’est évident dans le début de l’oeuvre de Heidegger, mais moins vers la fin;
-    * or, selon Ricoeur – et il y voit une « sorte de seconde preuve – ou de contre-épreuve » (p. 306) –, ça passe en fait non pas par la théorie du *Dasein*, mais par la « philosophie heideggerienne du langage » (p. 306): « La tâche de ‘porter l’être au langage’ réitère la même problématique, à savoir l’émergence de l’être que ‘je suis’ dans et par la manifestation de l’être comme tel. » (p. 306); « C’est dire que l’émergence du *Dasein*, en tant que tel, et celle du langage, en tant que parole, constituent *un seul et même problème*. » (p. 306)
-    * * « l’*ego* authentique [c-à-d « celui-là même qui questionne »] est constitué par la question lui-même » (p. 308); « Ainsi, dans la position de l’*ego*, il faut considérer à la fois l’oubli de la question comme question, mais aussi la naissance de l’*ego* comme questionnant. » (p. 308); « Ainsi, c’est comme *je suis* et non comme *je pense* que je suis impliqué dans l’enquête; pour élaborer adéquatement la question de l’être, il nous faut assumer un étant, *ein Seindes*: ‘la position de cette question, comme mode *d’être* d’un étant, est en elle-même essentiellement déterminée par l’objet, dont – en cet étant – on s’enquiert, par l’être. Cet étant, que nous sommes nous-mêmes et qui a, par son être, entre autre choses, la possibilité de poser des questions, sera désigné sous le nom de *être-là (Dasein)*’ (*Être et Temps*, p. 22-23) » (p. 308)
+    `    * * « l’*ego* authentique [c-à-d « celui-là même qui questionne »] est constitué par la question lui-même » (p. 308); « Ainsi, dans la position de l’*ego*, il faut considérer à la fois l’oubli de la question comme question, mais aussi la naissance de l’*ego* comme questionnant. » (p. 308); « Ainsi, c’est comme *je suis* et non comme *je pense* que je suis impliqué dans l’enquête; pour élaborer adéquatement la question de l’être, il nous faut assumer un étant, *ein Seiendes*: ‘la position de cette question, comme mode *d’être* d’un étant, est en elle-même essentiellement déterminée par l’objet, dont – en cet étant – on s’enquiert, par l’être. Cet étant, que nous sommes nous-mêmes et qui a, par son être, entre autre choses, la possibilité de poser des questions, sera désigné sous le nom de *être-là (Dasein)*’ (*Être et Temps*, p. 22-23) » (p. 308)
     * « La compréhension de l’être est elle-même une détermination de l’être-là. » (*Être et Temps*, p. 28, cité par Ricoeur 1969, p. 309)`
 
 À ce compte, il importe toutefois de bien distinguer les nuances apportées par Ricœur à la perspective de Benveniste – ou, plus largement, à la linguistique d’héritage saussurien et à toute réflexion d’inspiration structuraliste – quant au rôle joué par le langage au sein de la subjectivité.
 
-## D’une sémiologie à une herméneutique
 Ainsi, Benveniste, qui s’inscrit dans un premier temps dans l’héritage de la linguistique saussurienne[^7], s’intéresse avant tout à ce qui constitue le « discours », à savoir la « langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266] ou, pour le dire autrement, le « langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258].
 
 Le langage, poursuit-il, précède l’humain:
