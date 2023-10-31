@@ -1,5 +1,10 @@
 # Journal de bord
 
+### Rencontre avec Martine-Emmanuelle (octobre 2023)
+- min. 250-300 pages, ~40 p./chapitre
+- voir: livre de David Bélanger (PUM, accessible en ligne), pour le rapport à la littérature en litt. qc
+- pour Ducharme, plutôt faire une synthèse des lectures critiques comme cas-témoin (au lieu de « refaire » l’analyse), en montant pourquoi on peut difficilement ajouter, tout en intégrant mes idées à la synthèse; aussi voir l’édition critique des oeuvres complètes (par Élisabeth Nardout-Lafarge)
+
 ### Lectures à propos de Ricoeur, pour la reprise de la rédaction (automne 2021) - OK
 - *Transféré dans les ressources*
 

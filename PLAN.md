@@ -107,7 +107,27 @@
 - [ ] le glissement masculin / féminin des accords `(PF)`
 
 
-# 6. Le vocabulaire
+# 6. L’idiolectalisation
+- [ ] notion (critiquée) d’*idiolecte*
+- [ ] l’*idiolectalisation* comme *processus* [@Detrie2005]
+
+## La mise en scène du rapport à la langue
+- [ ] Mailloux qui « reçoit en songe les mots qui le font » `(Ma)`
+    - [ ] rapport au « mot d’heurque » `(Ma)`
+    - [ ] assonance (?) « tas de merde, t’es de marde » `(Ma)`
+- [ ] commentaires métalinguistiques et rapport aux mots en tant que signes
+    - [ ] « Je ne haïssais l’adulte que lorsque je pensais au mot adulte. J’aime tous les adultes que je connais. » `(NV, 205)`
+
+## La langue *inventée* : du soi dans le soi-même
+- [ ] commentaires métadiscursifs/métaénonciatifs à propos de la volonté idiolectale
+    - [ ] le projet du bérénicien comme projet anti-adultes `(AA)`
+    - [ ] l’écriture du grimoire tout en « l » `(PF)`
+- [ ] le détournement comme action politique/militante
+    - [ ]  RE : « automobilistes » / « hommilistes » `(NV)`
+    - [ ]  utilisation du nom « Molière » comme un synonyme de « comique » `(NV)`
+
+
+# 7. Le vocabulaire
 - [ ] outre les agrammaticalités causées par la juxtaposition du pronom et du nom `(Ma)` ou par le glissement pronominal `(Ji)`
 
 ## Néologismes et inventions
@@ -135,24 +155,6 @@
     - [ ] transciption erronnée de l’anglais `(AHC)`
 - [ ] langues « autochtones », notamment pour le nom d’Ivugivic `(NV)`
 
-# 7. L’idiolectalisation
-- [ ] notion (critiquée) d’*idiolecte*
-- [ ] l’*idiolectalisation* comme *processus* [@Detrie2005]
-
-## La mise en scène du rapport à la langue
-- [ ] Mailloux qui « reçoit en songe les mots qui le font » `(Ma)`
-    - [ ] rapport au « mot d’heurque » `(Ma)`
-    - [ ] assonance (?) « tas de merde, t’es de marde » `(Ma)`
-- [ ] commentaires métalinguistiques et rapport aux mots en tant que signes
-    - [ ] « Je ne haïssais l’adulte que lorsque je pensais au mot adulte. J’aime tous les adultes que je connais. » `(NV, 205)`
-
-## La langue *inventée* : du soi dans le soi-même
-- [ ] commentaires métadiscursifs/métaénonciatifs à propos de la volonté idiolectale
-    - [ ] le projet du bérénicien comme projet anti-adultes `(AA)`
-    - [ ] l’écriture du grimoire tout en « l » `(PF)`
-- [ ] le détournement comme action politique/militante
-    - [ ]  RE : « automobilistes » / « hommilistes » `(NV)`
-    - [ ]  utilisation du nom « Molière » comme un synonyme de « comique » `(NV)`
 
 # 8. L’intertextualité
 - [ ] Littérature comme Autre
