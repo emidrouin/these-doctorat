@@ -134,6 +134,7 @@
 - [ ] néologismes
     - [ ] ayant pour fonction d’atténuation: « hortensesturber » et « branle-bas » / se « branle-basser » `(NV)`
     - [ ] distinction entre les phrases en être et les phrases en faire [@Bres1994, 98-99]
+- [ ] archaïsmes, voire « paléologismes » (selon J-F Sablayrolles), mots complètement morts et sortis de l’usages (vs archaïsmes qui demeurent en usage, quoiqu’ancien ou recherché)
 
 ## Détournement et jeu
 - [ ] détournement lexical
