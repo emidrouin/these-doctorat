@@ -1,3 +1,9 @@
+ 4. L’onomastique
+- [ ] place du nom propre dans l’énonciation [@Benveniste1974c]
+- [ ] fonction de l’onomastique [@Nicole1983] [@Baudelle.Nardout-Lafarge2018]
+- [ ] en littérature [@Baudelle1989] [@Hotte-Pilon1992]
+
+
 # Onomastique
 - entrée du soi dans la langue
 - psychanalyse? (Lacan, langage)

@@ -1,4 +1,4 @@
-# 3. Du langage dans la subjectvité: la question du langage
+# 3. Du langage dans la subjectivité: la question du langage
 (Se) raconter, c’est donc dire « je » et utiliser le langage aux fins de production d’un discours.
 C’est « énoncer », nous instruirait Émile Benveniste: « L’énonciation est cette mise en fonctionnement de la langue par un acte individuel d’utilisation. » [@Benveniste1974, 80]
 Pour le linguiste[^1], langage et subjectivité se trouvent ainsi intimement liés:
