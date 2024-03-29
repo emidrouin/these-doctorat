@@ -1,5 +1,8 @@
 # 3. Un nom à soi: l’onomastique
-Alan Gardiner, *Théorie des noms propres* (dont parle Martine Delvaux dans *Les filles en série*): « Nommer a à voir avec la mise au monde. On baptise, on inaugure, on nomme: le nom fait exister. » (Delvaux, page inconnue, CHAP 12)
+> « Nommer a à voir avec la mise au monde. On baptise, on inaugure, on nomme: le nom fait exister. » [@Delvaux2013, 168]
+
+
+voir Alan Gardiner, *Théorie des noms propres*?
 
 « En tant qu’héritier d’un nom – d’un récit qui le précède depuis toujours [...] –, chacun se trouve lié à une part irrémédiable de non-savoir et d’incertitude, à une dépossession première en lien avec la scène immaîtrisable des commencements, de la naissance. » [@Cardinal2022, 5]; 
 « L’acte de nommer, sa procédure performative, s’avère en effet l’une des clefs du dispositif par lequel le sujet advient à l’existence en son individualité, alors que non seulement il lui sert à s’inscrire dans le fil narratif – et dans une identité narrative – plus ou moins reconfigurable d’un désir et d’une mémoire, mais permet aussi de formellement l’identifier, non pas tant *en soi* qu’en le différenciant de l’autre, des autres. » [@Cardinal2022, 5-6]
