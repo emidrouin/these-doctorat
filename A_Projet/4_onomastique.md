@@ -1,38 +1,36 @@
 # 3. Un nom à soi: l’onomastique
 > « Nommer a à voir avec la mise au monde. On baptise, on inaugure, on nomme: le nom fait exister. » [@Delvaux2013, 168]
+<!--voir Alan Gardiner, *Théorie des noms propres*?-->
 
+## Les fonctions de l’onomastique
+Nouveaux nés, animaux de compagnie, paquebots et même bombes nucléaires: on nomme pour identifier, pour singulariser, pour faire entrer au monde, en langage et en mémoire; tandis que l’on numérote – esclaves, prisonniers, bétail – afin de désindividualiser, de déshumaniser – en vue de justifier le traitement déshumanisant –, de faire sombrer dans l’oubli.
+Le nom, par sa fonction d’identification et de désignation, fait advenir, fait *exister* – en présence comme en l’absence –, fait perdurer.
+D’un point de vue strictement grammatical, les noms propres « sont des substantifs nominaux désignant une espèce substantielle qu’emplit un seul individu » [@Damourette.Pichon1911, 520].
+Ils permettent, par « conventio[n] d’identification sociale », de « désigner constamment et de manière unique un individu unique » [@Benveniste1974, 200] et, à l’inverse de la classification, constituent une des « *opérateurs d’individualisation* » [@Ricoeur1990, 40; voir aussi @Pariente1973, 81] <!-- vérifier source--> au même titre que les descriptions définies qui créent une classe à un seul membre [@Ricoeur1990, 41] ou que les indicateurs déictiques, pronoms personnels, adverbes de lieu ou de temps qui remplissent une « fonction de repérage » dans le contexte précis qui est celui de l’énonciation [@Ricoeur1990, 42-43].
+Le nom propre instaure ainsi une singulisarisation par une « désignation *permanente* » [@Ricoeur1990, 41].
 
-voir Alan Gardiner, *Théorie des noms propres*?
+Or, qui dit identification se situe déja au plan de l’intersubjectivité, à savoir du rapport et du contact entre soi et l’autre.
+Si l’on revient à Ricœur et à ses détours, c’est la nécessité d’inscrire le moment, le lieu ou le nom propre dans un « système » plus grand – par exemple le calendrier, la carte géographique ou l’état civil, ce qui formait l’essentiel du projet de *Temps et récit* [@Ricoeur1990, 377] –, qui fait qu’Husserl a eu besoin de « *mondanéiser* la chair pour qu’elle apparaisse comme corps parmi les corps » [@Ricoeur1990, 377]. <!--vérifier Ricoeur pour valider-->
+Ainsi, le nom introduit au monde, que l’on pense la chose d’un point de vue psychanalytique – « le nom propre permet au sujet de trouver une première consistance » [@Cardinal2022, 9] tout en constituant le « lieu d’une méconnaissance de soi et d’une aliénation première », suivant Lacan dans *Le stade du miroir* [mentionné par @Cardinal2022, 9] – ou suivant une « conception pragmatique et fonctionnelle » – qui voit le « nom comme attestation légale de l’identité du sujet » [@Baudelle.Nardout-Lafarge2018, 7] par l’institution de l’état civil.
+Le nom propre n’est évidemment pas absolu puisque plusieurs individus peuvent partager le même et qu’un même individu peut utiliser différents noms.
+Toutefois, « [l]e nom dit *propre* n’en suppose pas moins un processus d’inscription et de reconnaissance identitaire par lequel s’accomplit le discernement entre le même et l’autre. » [@Cardinal2022, 7]
 
-« En tant qu’héritier d’un nom – d’un récit qui le précède depuis toujours [...] –, chacun se trouve lié à une part irrémédiable de non-savoir et d’incertitude, à une dépossession première en lien avec la scène immaîtrisable des commencements, de la naissance. » [@Cardinal2022, 5]; 
+Nommer c’est identifier; et identifier, c’est distinguer. Le nom fait exister: « L’homme ne *se* différencie du monde – forme verbale réfléchie – que s’il en est différencié – forme passive. En étant appelé par son nom – qui est et qui n’est pas son corps –, il est délivré de son identification imaginaire au réel: il devient sujet. » [@Vasse1974, 128; cité par @Cardinal2022, 8]
+Ici, la pensée d’inspiration psychanalytique rejoint, sans en employer le vocabulaire, la théorie husserlienne de la mondanéisation de la chair en associant à l’idée d’un corps parmi les corps celle d’un nom parmi les noms.
+Le nom propre, à ce titre, constitue en quelque sorte le pendant langagier du corps – version mondanéisée de la chair –, à savoir l’avènement premier du sujet dans le langage, comme le corps est au monde – et face à l’autre et aux autres – ce que la chair est à soi et pour soi:
 « L’acte de nommer, sa procédure performative, s’avère en effet l’une des clefs du dispositif par lequel le sujet advient à l’existence en son individualité, alors que non seulement il lui sert à s’inscrire dans le fil narratif – et dans une identité narrative – plus ou moins reconfigurable d’un désir et d’une mémoire, mais permet aussi de formellement l’identifier, non pas tant *en soi* qu’en le différenciant de l’autre, des autres. » [@Cardinal2022, 5-6]
+Ce sujet, il se voit tout autant réel que littéraire – comme le veut la théorie ricœurienne sur l’identité narrative –, s’inscrivant dans le cadre langagier réel de l’énonciation ou dans celui, littéraire, du roman, et alors que le nom remplit sa « fonction primordiale [...] qui est d’identifier » [@Nicole1983, 234], le savoir sur l’onomastique permet un transfert de certaines réflexions sur « l’analyse ou l’observation des fonctions du nom social » vers l’onomastique littéraire [@Nicole1983, 234].
 
-« Le nom, marqueur de l’identité, repose sur une part irréductible de croyance et de mise en récit. » [@Cardinal2022, 6]
-
-## La fonction de l’onomastique
-- [ ] fonction de l’onomastique [@Nicole1983] [@Baudelle.Nardout-Lafarge2018]
-
-
-* fonctions traditionnelles de l’onomastique :
-    * « identifier, classer, signifier », + une fonction poétique @Nicole1983
-    * « Ce qu’on entend ordinairement par nom propre est une marque conventionnelle d’identification sociale telle qu’elle puisse désigner constamment et de manière unique un individu unique. » [@Benveniste1974, 200]; « Le pronom autonome *moi* se comporte à tous égards comme un nom propre. » [@Benveniste1974, 200]; nom comme
-    * « Ce que le nom met en jeu, c’est la possibilité pour la langue de désigner l’individuel. » [@Benard.etal1994a, 12]; déf: « les noms propres sont des substantifs nomnaux qui désignent une espèce substantielle qu’emplit un seul individu. » (Jacques Damourette et Édouard Pichon, *Des mots à la pensée*, D’Artre, 1911-1936, t. I, chapitre VII., cité par [@Benard.etal1994a, 12n])
-    * nom comme « constituant possible » des « chaînes référentielles » telles que pensées par Charles Chastain, et qui peuvent toucher « la suite des expressions d’un texte ou d’un discours interprétées comme mentions d’un seul et même individu » [@Corblin1996, 95]; on s’intéresse alors à la « dimension discursive », à savoir davantage comment on « maintient la référence à un individu » que simplement comment on nomme [@Corblin1996, 95]
-    * nom propre : « marque conventionnelle d’identification sociale telle qu’elle puisse désigner constamment et de manière unique un individu unique » [@Benveniste1974, 200]
-    * « conception pragmatique et fonctionnelle du nom comme attestation légale de l’identité du sujet qui se raconte et comme engagement de sa signature » [@Baudelle.Nardout-Lafarge2018, 7] / « le nom, conventionnellement associé à la loi (celle de la langue et celle de la filiation, de l’état civil ou même du droit pénal) » [@Baudelle.Nardout-Lafarge2018, 8]
-
-« Du point de vue de l’absolu, il n’y a pas de nom propre – c’est-à-dire un nom et un seul pour chaque sujet [...]. Le nom dit *propre* n’en suppose pas moins un processus d’inscription et de reconnaissance identitaire par lequel s’accomplit le discernement entre le même et l’autre. » [@Cardinal2022, 7]
-
-« L’homme ne *se* différencie du monde – forme verbale réfléchie – que s’il en est différencié – forme passive. En étant appelé par son nom – qui est et qui n’est pas son corps –, il est délivré de son identification imaginaire au réel: il devient sujet. » (Denis Vasse, *L’ombilic et la voix. Deux enfants en analyse*, Paris, Seuil, coll. « Champ freudien », 1974, p. 128, cité par [@Cardinal2022, 8])
-
-Lacan, *Le stade du miroir*, nom propre comme « première consistance » du sujet [@Cardinal2022, 9]
 
 ## La place du nom propre dans l’énonciation
-* Nom propre comme problème pour la linguistique :
-    * structuralisme/inspiration saussurienne : Np n’est pas un signe (ou plutôt un « signe sans signifié ») donc est évacué [@Gary-Prieur2018, 234]; « exclu par Saussure du champ linguistique car désignant un individu, et donc jugé indescriptible » [@Benard.etal1994a, 9-10]
-    * question du « statut de l’individuel en linguistique »: « exclu par décision théorique du champ de la langue » mais repris par la linguistique de l’énonciation [@Benard.etal1994a, 12]
-    * nom au plan de la grammaire : dans une « *sémantique référentielle* » : « la description lexicale d’un Np ne peut à aucun moment mettre entre parenthèses la relation référentielle qui constitue la base même du fonctionnement sémantique d’un Np dans la langue » [@Gary-Prieur2018, 235] – « les noms propres sont, je pense, les seules unités d’une langue qui sont en même temps des objets du monde » [@Gary-Prieur2018, 235]
-* « trois niveaux de définition du Np (monde, langue, discours)  » [@Gary-Prieur2018, 219] :
+Il faut mentionner d’entrée de jeu que le nom propre a longtemps constitué un problème pour la linguistique, plus particulièrement pour le courant structuraliste – d’inspiration saussurienne – de la discipline, pour qui le nom propre n’est pas un signe ou est un « signe sans signifié » [@Gary-Prieur2018, 234], si bien qu’il est « exclu par Saussure du champ linguistique car désignant un individu, et donc jugé indescriptible » [@Benard.etal1994a, 9-10].
+Il faudra attendre la linguistique de l’énonciation – découlant des travaux d’Émile Benveniste – pour que la question du « statut de l’individuel en linguistique » soit reprise [@Benard.etal1994a, 12], et avec elle l’étude des noms propres.
+
+Le nom propre a effectivement un fonctionnement linguistique qui lui est propre, en ce qu’il s’inscrit, au plan grammatical, dans une « *sémantique référentielle* » absolue: « la description lexicale d’un [nom propre] ne peut à aucun moment mettre entre parenthèses la relation référentielle qui constitue la base même du fonctionnement sémantique d’un [nom propre] dans la langue » [@Gary-Prieur2018, 235].
+Ainsi, renchérit Gary-Prieur, « les noms propres sont [...] les seules unités d’une langue qui sont en même temps des objets du monde » [@Gary-Prieur2018, 235], porteurs en ce sens d’un « double nature (mondaine et linguistique) » [@Gary-Prieur2018, 235n] instituée par les « trois niveaux de définition du [nom propre] » comme objet du « monde », de la « langue » ou du « discours » [@Gary-Prieur2018, 239].
+
+
+* « trois niveaux de définition du Np (monde, langue, discours)  » [@Gary-Prieur2018, 239] :
     * nom comme objet du monde : « L’expérience quotidienne nous fait clairement percevoir que le nom d’un individu, par exemple, fait partie des propriétés qui le caractérisent [...]. Il figure d’ailleurs en première position dans toute démarche d’identification de l’individu. » [@Gary-Prieur2018, 235]
     * mais aussi objets de la langue : au plan phonologique (nom anglais qui pose problème en français mène à des traductions/équivalents de certains noms de lieux et de personnes, ex : Londres pour London, Venise pour Venezia) [@Gary-Prieur2018, 236]
     * versant sémantique : pas de définition lexicale pour les Np [@Gary-Prieur2018, 237] : « Les Np sont, comme les embrayeurs et bien d’autres unités du lexique, ce que Ducrot a appelé des ‘mots du discours’. » [@Gary-Prieur2018, 238] – la connaissance de la langue ne suffit pas à interpréter correctement un énoncé et à comprendre le référent d’un Np : « Le Np est en cela comparable aux embrayeurs : de même qu’on définit *je* comme désignant ‘la personne qui énonce la forme *je* dans une instance de discours donnée’, on peut définir le Np *Clermont* comme désignant ‘l’individu qui porte le nom *Clermont* dans une instance de discours donnée’. » [@Gary-Prieur2018, 239]; *question de la subjectivité? nom = je*
@@ -50,8 +48,19 @@ Lacan, *Le stade du miroir*, nom propre comme « première consistance » du
             * « par définition, le Np se borne à donner une instruction d’identification. Le reste est soumis au bon vouloir des protagonistes du discours », et donc « le Np ne suffit pas à garantir l’identité de son porteur » [@Gary-Prieur2018, 246]
             * et aussi « le Np peut avoir d’autres rôles que celui d’identifier son porteur », façons de dire l’individu, par ex. la construction-image [@Gary-Prieur2018, 247]
 
+* nom comme « constituant possible » des « chaînes référentielles » telles que pensées par Charles Chastain, et qui peuvent toucher « la suite des expressions d’un texte ou d’un discours interprétées comme mentions d’un seul et même individu » [@Corblin1996, 95]; on s’intéresse alors à la « dimension discursive », à savoir davantage comment on « maintient la référence à un individu » que simplement comment on nomme [@Corblin1996, 95]
+
+
 ## L’onomastique romanesque
 - [ ] en littérature [@Baudelle1989] [@Hotte-Pilon1992]
+Ainsi, le nom propre remplit traditionnellement les trois fonctions suivantes: « identifier, classer, signifier » [@Nicole1983, 235].
+
+Ainsi, si les « théories du Nom » ont manifesté certaines réserves face au texte littéraire et si ce dernier doit se méfier de certaines, et qui « reconnaissant, à côté de l’usage courant du Nom, un usage poétique qui fait exception à leurs postulats » [@Nicole1983, 234]
+
+Mais que faire des personnages sans nom ou aux multiples surnoms, aux noms empruntés à d’autres – personnages littéraires antérieurs ou figures historiques – ou qui changent au fil du récit?
+
+* « théories du Nom » qui ont certains réserves face au texte littéraire, et qui « reconnaissant, à côté de l’usage courant du Nom, un usage poétique qui fait exception à leurs postulats » [@Nicole1983, 234]
+* voir [@Jakobson1963]: « D’où la double position d’un Jakobson qui, dans les *Essais de linguistique générale*, réduit la signification du nom propre à la désignation de personne qu’il nomme, en l’opposant au nom commun qui, lui, signifie un equalité – alors qu’il montre, ailleurs, comment le poète accroche le signifiant onomastique à la chaîne des signifiés [...] » [@Nicole1983, 234-235]
 
 Or, à la question du nom en tant que « désignateur rigide » (Kripke, *La logique des noms propres*, Minuit, 1982), l’onomastique romanesque supplémente « l’ordre de la logique » d’un « ordre du discours: seule une réalisation textuelle peut produire des équivalence susceptibles de charger le nom propre d’un signifié et il faut intégrer cette hypothèse à une réflexon linguistique » [@Benard.etal1994a, 13].
 
