@@ -94,15 +94,19 @@ Pour la question du nom chez Ducharme, voir spécifiquement [@Pavlovic1987]
 
 ## L’encodage du nom: le nom pré-sémantisé
 psychanalyse et « approche symbolique » qui « inspire et cautionne, [...], tour à tour les deux aspects du problème, l’hypersémanticité d’une part et l’asémanticité de l’autre » [@Benard.etal1994a, 8]
+voir l’aptonyme
+ou l’idionyme (nom unique)
 
 
 ### Le nom palimpseste
 - [ ] le nom et la culture: personnage *palimpseste*, comme rapport à l’Autre de la culture (façon de s’inscrire dans un ordre symbolique
+- [ ] parfois des théonymes (noms de dieux) ou mythonymes
 
 ### Le nom transparent
 - [ ] le nom et la langue : sémantique du nom dans le système linguistique
 nom transparent: voir Rigolot dans *Poétique et onomastique*, Droz, 1977, p. 12
 
+(antonomase?)
 * « l’onomastique réelle d’être en fait, dans son usage social, globalement opaque et arbitraire », opaque pcq « aucun lexème identifiable », arbitraire pcq « en tant que le signifié produit par l’éventuelle homonymie du nom propre avec un mot de la langue ne se vérifie pratiquement jamais chez son référent » [@Baudelle1996, 29]; « Or les traits de l’onomastique littéraire sont exactement le contraire de ceux-là, la fiction soumettant les noms propres à un double processus de sémantisation et de motivation qui instaure une relation de redondance entre les signifiés du nom et les signifiés textuels du personnage qui le porte. » [@Baudelle1996, 29-30]
 
 ## La pratique du nom: absence, imprécision ou indécision
@@ -116,7 +120,7 @@ intérêt pour « les modalités d’introduction de ces noms [de personnages]
 
 « la perte de son nom, le renoncement à son identité qui est, selon Georg Simmel, la condition pour entrer dans une société secrète » (Simmel, « La société secrète », *Nouvelle Revue de psychanalyse*, no 14, 1976, p. 117-119, cité par [@Nardout-Lafarge1994, 98-99]
 
-### La renomination
+### La renomination/le renommage
 - [ ] personnages qui changent de nom (comme façon de redéployer l’identité)
 
 * sur la renomination: en tant que *hapax*, rend la communication impossible (difficile?) : « Un langage infinitisé, correspondant symétrique de l’infinité des événements du monde, ne serait susceptible d’aucun apprentissage, l’occasion nouvelle prenant à tout coup au dépourvu la puissance signifiante. Il ne soutiendrait aucune communication. Il ne serait pas langage du tout, n’étant fait que d’*hapax*. Il ne peut y avoir langage que par la finitude des éléments mis en jeu, et donc soumis au réemploi, et communication que par le réemploi lui-même. » [@Lafont1978, 129]
@@ -124,4 +128,5 @@ intérêt pour « les modalités d’introduction de ces noms [de personnages]
 ### La pratique du surnom
 - [ ] pratique du surnom (comme façon de multiplier les possibles de l’identité)
 - [ ] nom collectif
+- [ ] voir l’hypocoristique (modification du nom Pierre → Pierrot)
 
