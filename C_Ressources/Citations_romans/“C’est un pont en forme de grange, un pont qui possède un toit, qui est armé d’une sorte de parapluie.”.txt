@@ -1,0 +1,2 @@
+“C’est un pont en forme de grange, un pont qui possède un toit, qui est armé d’une sorte de parapluie.”
+(Oc, 167) #commentaire_métalinguistique (passe par la définition plutôt que le mot); #métaphore?

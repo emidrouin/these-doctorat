@@ -1,0 +1,4 @@
+didascalies
+en début de chapitres, qui servent à annoncer ce qui viendra (plutôt que de donner des indications de mise en scène) #mise_en_scène_écriture
+
+ex: "Ouverture. Où l'on entend Jacques Mailloux conter sa première échappée; sa mère monstre; son sauvetage à l'aide d'une pelle. Où l'on entend ensuite Jacques Mailloux sur les circonstances de son premier déguisement." (Ma, 9) #désinvestissement_je (les didascalies désignent Jacques Mailloux à la 3e personne, vs le corps du texte qui est au "je")

@@ -1,0 +1,2 @@
+"les restaurés"
+(NV, 252), pour parler des clients d'un restaurant #imprécision_lexicale

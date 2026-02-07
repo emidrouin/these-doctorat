@@ -1,0 +1,12 @@
+onomastique (Oc)
+#ONOMASTIQUE
+“la vieille Six” (Oc, 12)
+“mon père, Van der Laine” (Oc, 12-13)
+“Mon frère, Ino” (Oc, 13)
+“Ina, ma mère” (Oc, 13)
+“La soeur que j’aurais eue est morte quand je suis née. Elle s’appelait Ina, comme ma mère; elle serait devenue la reine Ina Ssouvie 39.” (Oc, 14) #nom_palimpseste
+“La petite fille [...] s’appelle Asie Azothe.” (Oc, 14) #nom_sémantisé
+“Gilles de Retz féminin!” (Oc, 23) #surnom
+“Ma mère est la reine Ina Ssouvie 38. Mon père s’appelle Van der Laine. Mon frère et moi nous appelons Ino Ssouvie et Iode Ssouvie, non Ino der Laine et Iode der Laine. C’est ainsi. Si on n’est pas content, on n’a qu’à skier. Si tu trouves ton nom laid, grosse valétudinaire, tu n’as qu’à aller te faire renommer.” (Oc, 24) #commentaire_métalinguistique #nom_collectif #nom_sémantisé
+origine hollandaise de Van der Laine: “La famille vivait en Hollande, [...]. En ce temps-là, à Bergen-op-Zoom, Van der Laine et les autres enfants [...].” (Oc, 204)
+“[...] Poussant la familiarité jusqu’à l’apocope, je l’appelle ‘Van der’. // — [...], toi et moi, Van der, n’est-ce pas?” (Oc, 212) #surnom #mise_en_scène_rapport_langue (concept d’apocope)

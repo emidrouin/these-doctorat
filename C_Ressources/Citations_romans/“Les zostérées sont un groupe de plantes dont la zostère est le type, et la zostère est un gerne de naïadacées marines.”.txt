@@ -1,0 +1,4 @@
+“Les zostérées sont un groupe de plantes dont la zostère est le type, et la zostère est un gerne de naïadacées marines.”
+(Oc, 41) #commentaire_métalinguistique
+
+“La vie n’est pas toujours rose!... Les naïadacées sont de la famille des monocotylédones et les monocotylédones sont orphelins.” (Oc, 48) #métaphore

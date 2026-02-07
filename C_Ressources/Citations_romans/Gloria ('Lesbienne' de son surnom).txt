@@ -1,0 +1,4 @@
+"Gloria ('Lesbienne' de son surnom)"
+(AA, 332) #surnom #nom_sémantisé
+
+"Je songe à tout ça après avoir lu ce que Lesbienne a écrit sur la page de garde du roman qu'elle m'a prêté. 'Si on fait le vide autour d'un souvenir, il ne reste plus rien que ce souvenir dans l'infini qu'on a, et ce souvenir devient infini.' Est-ce que je ne suis pas en train de tout échapper? 'L'échappons-nous?' se demandait ce cher Rimbaud." (AA, 334) #objet-livre #convocation_canon_littéraire #désacralisation_littérature

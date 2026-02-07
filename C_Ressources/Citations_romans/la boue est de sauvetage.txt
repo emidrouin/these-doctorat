@@ -1,0 +1,2 @@
+"la boue est de sauvetage"
+(Ma, 17) #détournement_lexical

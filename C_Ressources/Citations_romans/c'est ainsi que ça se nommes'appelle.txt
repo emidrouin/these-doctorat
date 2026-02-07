@@ -1,0 +1,21 @@
+"c'est ainsi que ça se nomme/s'appelle"
+#commentaire_métalinguistique
+"père avait saisi la batte, c'est ainsi que ça se nomme, et frappé si fort" (PF, 28)
+"Et qui s'amène depuis l'arrière-boutique, c'est ainsi que ça s'appelle." (PF, 50)
+"je n'étais plus qu'une loque pantelante, c'est ainsi que ça se nomme." (PF, 60)
+"Si je bouge le plus petit doigt, l'auriculaire comme ça se nomme" (PF, 63)
+"un orgue à tuyaux, comme ça se nomme" (PF, 63); a décrit ledit orgue en grand détail sans jamais le nommer (PF, 59-60)
+"mon frère a été touché par la grâce et que cela l'a rendu comme fou, c'est ainsi que ça se nomme" (PF, 85)
+"si c'est bien ce que je veux dire" (PF, 95)
+"si cela mérite ce nom" (PF, 96)
+"au milieu des amas de bouquins, c'est ainsi que ça se nomme" (PF, 99)
+"J'examinais chaque ustensile, c'est ainsi que ça se nomme" (PF, 108)
+"en regardant des daguerréotypes, ainsi que ça se nomme" (PF, 110) #mots_anciens
+"ainsi que ça se dit" (PF, 119)
+"Il faut dire que j'étais un peu de travers dans mon sommeil, où il m'arrive encore de parler, de marcher, de mener cette ou cette activité [...], et d'écrire même [...]. Or, cette nuit-là, dans mon somnambulisme, ainsi que ça se nomme, [...]." (PF, 121), où la définition précède le terme menant d'abord à une #imprécision_lexicale, puis le commentaire qui reprécise l'exactitude du lexique
+"Ma seule chance, si c'est ainsi que ça se nomme" (PF, 127)
+"un bruit que fit mon estomac, ça s'appelle un gargouillis si ma mémoire est bonne" (PF, 128)
+"si c'est ainsi que ça se nomme" (PF, 134), voir la note sur les perdrix en flammes
+"ces étranges oiseaux que papa appelait les hiéroplanes, si mon souvenir est juste" (PF, 144), pour aéroplanes? #imprécision_lexicale
+"en dehors de toute orbite paternelle, ainsi que ça se nomme" (PF, 164)
+"le manteau du chameau à queue, si c'est ainsi que ça se nomme" (PF, 172)

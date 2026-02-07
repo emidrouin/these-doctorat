@@ -1,0 +1,8 @@
+"Tiroir numéro 24"
+"Elle s'arrête devant une commode aux tiroirs blancs numérotés qui forment un grand quadrillage. Les chiffres sang de boeuf peints au stencil sont jolis. Leur nombre est rassurant. // — Ton tiroir, c'est le dernier en bas de la troisième colonne. C'est le tiroir numéro 24. Répète. // — Tiroir numéro 24." (T24, 10) #nom_sémantisé #surnom
+"— Hé, les gars, j'ai le tiroir numéro 24! // On dit son numéro. Sasseville a le 28. Pitre, le 15." (T24, 11) #surnom
+"J'ai aimé le meuble blanc, les tiroirs et les petits numéros. Le tiroir numéro 24 est à moi, pour mes affaires. Je répète '24' pour ne pas l'oublier." (T24, 11)
+"— Comment tu t'appelles? // [...] Je balbutie: // — Vingt-quatre. Tiroir numéro 24... // La classe ricane. Soeur Dionne s'impatiente. — Il s'appelle Benoit Murray." (T24, 13)
+"Et elle me demande mon nom. Sasseville murmure: 'Tiroir numéro 24', et tout le monde, même moi, éclate de rire. // — Benoit Murray, ma soeur." (T24,18)
+"En juin, le jour vient où je dois vider mon tiroir. Le tiroir numéro 24 et mes effets personnels [...]." (T24, 34)
+“[...], un souvenir me revient. [...], je revois le meuble blanc dans la salle de jeu de l’Orphelinat catholique. Les petits tiroirs carrés, tout propres. Avec les chiffres sang de boeuf. Montiroir à moi. Le numéro 24, tout en bas, au ras du plancher. Et mon goût pour l’ordre renaît.” (T24, 103) #nom_sémantisé

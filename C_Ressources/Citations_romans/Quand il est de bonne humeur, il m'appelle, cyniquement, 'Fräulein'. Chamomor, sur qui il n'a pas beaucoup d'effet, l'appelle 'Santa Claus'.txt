@@ -1,0 +1,4 @@
+"Quand il est de bonne humeur, il m'appelle, cyniquement, 'Fräulein'. Chamomor, sur qui il n'a pas beaucoup d'effet, l'appelle 'Santa Claus'."
+(AA, 241) #surnom
+
+"M'appelant 'Fräulein' (dans sa tête, Chamomor est allemande), [...]" (AA, 252) #emprunt_langue_étrangère #surnom

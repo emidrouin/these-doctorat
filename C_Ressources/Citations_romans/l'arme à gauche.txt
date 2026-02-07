@@ -1,0 +1,4 @@
+"l'arme à gauche"
+"ceux qui ont l'arme à gauche" = les morts (PF, 56) #métaphore
+
+"nous faire passer l'arme à gauche [...] sans même nous oindre extrêmement" (PF, 118), aussi #imprécision_lexicale

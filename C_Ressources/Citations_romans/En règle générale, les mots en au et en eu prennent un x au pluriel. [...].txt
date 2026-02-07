@@ -1,0 +1,6 @@
+"En règle générale, les mots en au et en eu prennent un x au pluriel. [...]"
+"En règle générale, les mots en au et en eu prennent un x au pluriel. Landau, sarrau, bleu et pneu font exception." (NV, 327) #commentaire_métalinguistique
+
+"Les noms en al changent al en aux au pluriel, Bal, cal, carnaval, chacal, festival, régal, aval, bancal, caracal, cérémonial, choral, narval, nopal, pal, récital et gavial prennent simplement s au pluriel; ce sont des exceptions. Les noms en ail prennent un s au pluriel. Un éventail, des éventalis. Neuf noms font exception à cette règle; ce sont: bail, corail, émail, fermail, soupirail, travail, vantail, ventail et vitrail. Quant à bijou, caillou, chou, genou, hibou, joujou et pou, tout le monde sait à quoi s'en tenir à leur sujet." (NV, 330) #commentaire_métalinguistique #mise_en_scène_écriture
+
+"Je suis gonflé et tendu comme un pneu. Pneu prend un s au pluriel." (NV, 331)

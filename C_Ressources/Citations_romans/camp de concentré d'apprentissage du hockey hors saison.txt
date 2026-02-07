@@ -1,0 +1,8 @@
+"camp de concentré d'apprentissage du hockey hors saison"
+(NS, 41) #métaphore #imprécision_lexicale
+
+"l'école du dépliant" (NS, 42) #métaphore
+"l'école du hockey dépliant" (NS, 42) #détournement_lexical
+"dans le stationnement du dépliant" (NS, 52)
+"l'emblème en bleu clair du dépliant de l'école" (NS, 52)
+"c'te s'maine au dépliant?" (NS, 53) #syntaxe et #vulgarité (familiarité)

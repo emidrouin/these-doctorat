@@ -1,0 +1,3 @@
+"Laisse à Client [...]"
+"Les clients vont apprécier [...]. Laisse à Client [...]!" (NV, 242) #nom_sémantisé
+pourtant, quand Chateaugué interpelle le client dans un discours rapporté, il n'y a pas de majuscule: "elle lui demande s'il a trouvé cela bon quand il a fini. "As-tu trouvé ça bon, client?"" (NV, 233)

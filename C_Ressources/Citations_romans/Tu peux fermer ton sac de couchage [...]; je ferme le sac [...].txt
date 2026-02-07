@@ -1,0 +1,2 @@
+"Tu peux fermer ton sac de couchage [...]"; "je ferme le sac [...]"
+"Tu peux fermer ton sac de couchage de l'intérieur ou de l'extérieur. De l'intérieur, tu appuies un pied dans le fond, tu passes ton bras [...] et tu lèves la fermeture éclair [...]. De l'extérieur, il faut que [...]. Je passe mon bras [...] et je ferme le sac de l'intérieur. // [...]" (Ji, 143) #glissement_pronominal #désinvestissement_je

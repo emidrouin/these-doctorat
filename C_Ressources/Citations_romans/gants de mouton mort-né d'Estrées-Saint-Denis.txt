@@ -1,0 +1,2 @@
+"gants de mouton mort-né d'Estrées-Saint-Denis"
+(AA, 232, 233) #détournement_lexical ("mouton mort-né" = agneau?)

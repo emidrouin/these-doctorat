@@ -1,0 +1,2 @@
+prière "Je vous salue Marie"
+(Ma, 100) #intertexte_biblique

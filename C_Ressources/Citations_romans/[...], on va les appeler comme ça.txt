@@ -1,0 +1,2 @@
+"[...], on va les appeler comme ça."
+(NS, 87) #mise_en_scène_écriture

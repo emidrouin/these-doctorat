@@ -1,0 +1,2 @@
+"Car il s'agit d'un objet de rêve. Le. Le couteau de poche idéal."
+(Ma, 75) #mise_en_scène_rapport_langue

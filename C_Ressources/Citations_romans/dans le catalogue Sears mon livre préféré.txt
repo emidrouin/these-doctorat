@@ -1,0 +1,2 @@
+"dans le catalogue Sears mon livre préféré"
+(Ma, 119) #objet-livre

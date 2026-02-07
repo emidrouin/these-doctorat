@@ -1,0 +1,2 @@
+"Il est écrit dans l'Évangile que [...]"
+(NV, 247) #intertexte_biblique

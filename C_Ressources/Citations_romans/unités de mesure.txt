@@ -1,0 +1,16 @@
+unités de mesure
+n'utilise pas les échelles de mesure standard ou communes, mais plutôt les siennes, parfois un peu improvisées #métaphore
+
+volume: "C'était une pièce si gigantesque que deux cents de nos semblables auraient pu agiter les coudes comme lorsque frère et moi nous nous amusions à imiter des poules, sans que leurs coudes ne se touchent" (PF, 106)
+distance: "de fenêtres à carreaux hautes comme trois petites chèvres debout" (PF, 106)
+volume: "chameau à queue dans lequel on aurait pu aisément enfermer trois morts" (PF, 106); déjà cité dans la note sur le "chameau à queue", cependant
+distance: "grandes armoires incrustées dans les murs, qui montaient trois fois la hauteur de la petite chèvre jusqu'au plafond, même que je devais user d'un escabeau" (PF, 107)
+temps: "il y a déjà de cela bien des pompons" (PF, 110); "voilà déjà bien des pompons" (PF, 153)
+distance: "cette cuisine se trouvait à une soixantaine de jambes des dépendances" (PF, 111); "On marchait [...], durant une douzaine de jambes" (PF, 111); "à une vingtaine de jambes de distance" (PF, 112); "écartée de quelques jambes du lieu [...]" (PF, 121); "à moins de quatre ou cinq jambes" (PF, 122); "à peine une dizaine de jambes devant la maison" (PF, 135)
+volume: "On aurait pu y loger une armée et trois empereurs avec leur suite." (PF, 111-112)
+distance (métaphorique): "Ses gestes [au père] jetaient de l'ombre sur nos vies [...] mais cette ombre s'étendait aussi bien au-delà, jusqu'en terre sainte, si ça se trouve" (PF, 119) #métaphore et #intertexte_biblique
+distance: "à trois sauts de crapaud" (PF, 121)
+temps: "depuis un demi-tour d'horloge" (PF, 132); "un demi-tour d'horloge" (PF, 139); "Environ un demi-tour d'horloge" (PF, 175); déjà plus proche des unités communes!
+temps: "depuis bientôt au-delà de deux saisons" (PF, 154, 160); "je m'étais donné trois saisons" (PF, 173); pour marquer la durée de sa grossesse
+temps: "il n'y avait pas vingt minutes" (PF, 159); "durant deux minutes" (PF 162); connaît le temps après tout!
+temps: "depuis quelques secondes à peine" (PF, 164)

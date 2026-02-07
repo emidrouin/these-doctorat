@@ -1,0 +1,2 @@
+"C'est un décomposé, monsieur le professeur de chimie! Donc, ce n'est pas un composé!"
+(AA, 265) #commentaire_métalinguistique? #métaphore

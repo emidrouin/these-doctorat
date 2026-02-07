@@ -1,0 +1,8 @@
+"Mon père parle difficilement depuis son attaque, il traîne des voyelles et s'essouffle. Il arrive que Mme Cyr me demande de traduire."
+(T24, 44) #commentaire_métalinguistique
+
+"— Ha 'a, crie-t-il. // Je comprends que mon père veut 'la paix'." (T24, 50)
+
+"Mon père fait un son que l'infirmière ne comprend pas. Elle me regarde pour que je traduise." (T24, 61)
+
+“À table, il grommelle un commentaire. C’est comme un début de crachat avec des voyelles çà et là.” (T24, 67)

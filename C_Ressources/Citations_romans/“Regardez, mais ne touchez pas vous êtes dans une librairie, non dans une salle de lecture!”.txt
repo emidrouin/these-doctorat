@@ -1,0 +1,2 @@
+“Regardez, mais ne touchez pas: vous êtes dans une librairie, non dans une salle de lecture!”
+(Oc, 95) #métaphore #objet-livre (champ lexical)

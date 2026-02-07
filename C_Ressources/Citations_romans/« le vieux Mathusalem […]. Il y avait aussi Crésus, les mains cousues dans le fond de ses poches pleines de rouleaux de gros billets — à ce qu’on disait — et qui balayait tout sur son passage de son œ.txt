@@ -1,0 +1,12 @@
+« le vieux Mathusalem […]. Il y avait aussi Crésus, les mains cousues dans le fond de ses poches pleines de rouleaux de gros billets — à ce qu’on disait — et qui balayait tout sur son passage de son œil de traqué; la pauvre Marie-Madeleine qui pleurait tout son soûl en marchant […]; l’Astronaute, une espèce d’homme élastique tout dégingandé […] »
+(PV, 14) #nom_palimpseste
+
+« — Pis l’Astronaute, lui? // […] // Pis Marie-Madeleine? // […] // Pis Mathusalem? » (PV, 87)
+
+« Marie-Madeleine s’y trouvait également, claquemurée dans un étrange silence, sans pleurer ni rien. » (PV, 166) #détournement_lexical?
+
+« Je ne savais même pas que Marie-Madeleine avait un autre nom, un vrai. Ça lui donnait un autre visage, ce nom de baptistaire qui venait de se superposer à son image de pleureuse. Jacinthe, ça n’avait plus rien à voir avec cette pauvre folle oubliée en orbite autour du dépanneur. » (PV, 166-167) #surnom #nom_palimpseste #intertexte_biblique
+
+« Mathusalem est mort le premier. » (PV, 196)
+
+« Barbe-Noire, le vieil énergumène qui survivait dans l’un des deux logements du sous-sol […] » (PV, 208) #nom_palimpseste

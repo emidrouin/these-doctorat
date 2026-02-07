@@ -1,0 +1,2 @@
+"Des coups d'ailes! Des coups d'elle!"
+(NV, 171) #détournement_lexical

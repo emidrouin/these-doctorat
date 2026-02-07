@@ -1,0 +1,8 @@
+"Le premier carton montre trois portées avec le dessin d'un oiseau au bec ouvert. Il s'intitule Alouette, n'aie pas peur de moi. [...] C'est une mélodie brève de cinq mesures."
+(T24, 19)
+
+"[...], soeur Musicale ne perd pas de temps. Elle pense au récital de Noël pour les bienfaiteurs. Il est entendu que j'ouvrirai avec Les Anges dans nos campagnes. // Le lendemain, dans la grande salle, pour le film du dimanche, on projette Le Rossignol et les Cloches avec Gérard Barbeau." (T24, 23-24)
+
+"Aujourd'hui, on chante trois chansons. J'annonce moi-même les titres: Les Anges dans nos campagnes, C'est bientôt le Nouvel An et finalement Bonne Année compère." (T24, 26) 
+
+#convocation_canon_littéraire

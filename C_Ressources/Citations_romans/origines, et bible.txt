@@ -1,0 +1,22 @@
+origines, et bible
+"— Parle-moi, encore du comté de Maskinongé, de ton père le roi des sorciers, du lignage des de Portanqueu, du commencement du monde.
+Il me répondit que, nonobstant notre noblesse certaine et très ancienne, nous ne remontions pas à Adam et à Ève mais au déluge seulement. Ce qui faisait que notre bible ne correspondait guère à l'autre, celle de tout le monde." (Am, 79-80) #intertexte_biblique
+
+"Notre bible se lisait ainsi: "Il y a eu trop de commencements des temps, on ne saura jamais où l'on est rendu si l'on veut les garder tous. [...]
+[...]
+Le péché d'origine ne se trouve pas dans la complexion québécoise. Les de Portanqueu n'ont pas recours à un père et à une mère incestueux; ils tirent leur origine de trois frères.
+[...]" (Am, 81-83) #intertexte_biblique; références à "la Pucelle" (Am, 82), à "Capitaine Noé" et à "Dieu catholique en Neuve-France" (Am, 83) et à la toponymie française et québécoise, #citation
+
+"Ce garçon a fort bien pu être ce Jean Gélineau qui, l'an 1662, âgé de 16 ans, [...]. Il était venu de Xaintes avec son père Estienne, lequel, après l'avoir établi à Machiche, s'alla remarier et demeurer à la Pointe-aux-Trembles où il fit souche de Gélineau. Le fils, lui, sera à l'origine de trois lignées. Tout d'abord, son nom évoluant de Gélineau en Gellyna, de Gellyna en Gélina pour se fixer lorsqu'on lui aura ajouté l's final, il sera l'ancêtre de tous les Gélinas. [...] Le premier Bellemare aura sans doute été un Gélinas vantard. Dans le milieu traditionnel que l'écriture n'influence pas, ce nom a toujours été prononcé Bellemore... Enfin Jean Gélineau, dit Gélinas, dit Bellemare, sera aussi l'ancêtre des Lacourse, mais ces derniers, prenant au mot leur nouveau patronyme, ne resteront guère dans la place et laisseront aux premiers l'honneur d'avoir fondé Machiche." (Am, 83-84) étymologie de l'onomastique #changement_de_nom, #intertexte_biblique pour l'idée du lignage, #citation
+
+"C'est là que commence l'histoire des de Portanqueu. Lontemps ils n'en menèrent pas large. Ils s'appelaient Ferron. // Les Ferron n'ont rien fondé, tard venus, arrivés de justesse et plutôt ridiculement à la fin du Régime français. Peut s'en fallut qu'ils ne vinssent Anglais." (Am, 84) #changement_de_nom #mise_en_scène_écriture (nom de l'auteur!), #emprunt_langue_étrangère #citation
+
+"Le premier à sortir de la lisière du bois, dernier enrôlé du Saint-Père, se mettra zouave moins pour aller à Rome que pour monter dans le ciel mauricien; il se traîna si bien les pieds qu'il arriva en Italie les combats finis. Sa bravoure assura sa fortune, mais son nom n'est mentionné que dans les Zouavianas très locaux. Plus heureux, le docteur Wilbrod pourra lire dans la Croix, le célèbre journal de la ville de Paris, que durant l,été de 1901 le fleurdelisé du Sacré-Coeur a flotté sur sa résidence près de l'église, à Saint-Paulin. Quant à la gloire, elle ne viendra qu'avec Rose Ferron, la stigmatisée de Woonsockett, sur laquelle on a écrit un livre en anglais et en français." (Am, 85) #citation #intertexte_biblique #désacralisation_littérature? ("Zouavianas")
+
+"pour rien au monde, tel Ulysse et de nombreux héros voyageurs, il n'aurait dit le premier qu'il se nommait Jean Ferron" (Am, 86) #convocation_canon_littéraire #citation
+
+"Ce fut ainsi que les Ferron, en plus de semer le blé français et le sarrasin, se firent fabuleux pour donner regain à un vieil héritage, relancer le conte et la chanson qui font partie des nécessités de la vie." (Am, 88) #mise_en_scène_écriture #citation
+
+"Mon père referma sa bible, le dimanche n'était pas fini; je lui fis remarquer que son folklore édifiant, sa saga ferronnienne et hérétique, ne m'avait pas fait voir le comté de Maskinongé, au-delà de la mer des Tranquillités." (Am, 88) #désacralisation_littérature
+
+poème cité, mention "Adam suit sa côte d'Ève" (Am, 89), puis "De Maître Serpent" et "Tu me tends le fruit défendu, // Le fruit piqué des vers [...]" (Am, 90) #citation #intertexte_biblique

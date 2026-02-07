@@ -1,0 +1,8 @@
+"[la] route de Saint-J'ai"
+(NS, 39 [chapeau], 42) #détournement_lexical
+= route de Saint-Gédéon (car ils partent du Saguenay pour aller à Alma?); indice: "mine qui sauta dans la région du lac plus bas" (NS, 29)
+
+"sur la 16-A" (NS, 43)
+
+"revenir à Jonquière" (NS, 52)
+"J'ai fait le camp d'entraînement des Orioles qui n'étaient pas de Baltimore, mais d'Arvida." (NS, 55)

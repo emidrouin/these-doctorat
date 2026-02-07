@@ -1,0 +1,2 @@
+"en termes excellents"
+(PF, 120), inversion #imprécision_lexicale

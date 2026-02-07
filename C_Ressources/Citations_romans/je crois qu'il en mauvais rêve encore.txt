@@ -1,0 +1,2 @@
+"je crois qu'il en mauvais rêve encore"
+(PF, 126) #détournement_lexical du nom ("rêve" de "mauvais rêve") au verbe ("rêve" comme 3e pers. sing. du verbe "rêver"), jouant sur l'homonymie

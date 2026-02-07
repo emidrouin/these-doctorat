@@ -1,0 +1,2 @@
+"la famille Papageorges"
+(AR, 12) #emprunt_langue_étrangère

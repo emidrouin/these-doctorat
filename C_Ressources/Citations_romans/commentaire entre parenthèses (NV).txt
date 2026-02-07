@@ -1,0 +1,18 @@
+commentaire entre parenthèses (NV)
+"Il (Dieu... le pape... le Premier ministre...)" (NV, 18) #imprécision_lexicale
+"Au magasin (à la plomberie) où il s'est procuré son livre" (NV, 19)
+"Elle essayait de me donner des crocs-en-jambe (manoeuvres déloyales) et elle était fière, et elle riait." (NV, 123) #commentaire_métalinguistique
+"elle s'est tournée vers le gros garçon de tables (et de chaises)" (NV, 177); "Le garçon de tables (et de chaises) m'a servi mon gin" (NV, 178) #commentaire_métalinguistique
+"Ce qui est important, ce n'est pas ce que c'est (ce que c'est socialement), mais l'effet qu'on en attend, l'effet que ça me fera si ça marche. Si cela m'écoeure, cela (quoi que ce soit) est écoeurant." (NV, 221), dans le propos de Questa
+"Elle est contente de ne plus être un membre inutile (un bras, une jambe) de la société." (NV, 226)
+"Ses cheveux glissaient sur mon visage, ses chevaux (cheveux me fait irrésistiblement penser à chevaux) parcouraient mon visage." (NV, 228); "Chateaugué endiguait ses cheveux d'une main, ses chevaux (horses) d'une main, et essuyait ses larmes de l'autre." (NV, 229)
+"[...], incoercible, consciente, volontairement ou involontairement volontaire (je veux dire que la volonté peut être ou ne pas être d'accord avec cette réaction et ne peut qu'y prendre part) de mes sens [...]" (NV, 241)
+"Et l'âme (l'intelligence et la volonté) n'agit que par réaction. L'intelligence et la volonté [...]." (NV, 241)
+"Nous mangeons chacun une pizza [...], et avec des andouilles (il y en a plein le restaurant)." (NV, 253) aussi #détournement_lexical jouant sur la polysémie du mot "andouille"?
+"je fais tout (même l'imbécile) et je reçois tout (même des coups de poing sur la gueule) avec joie" (NV, 262)
+"Je te verrai pleurer avec joie tout comme (écoute bien ça) tout comme tu pourras, si tu l'oses (il ne s'agit que d'oser), me voir pleurer avec joie." (NV, 264) #mise_en_scène_écriture
+"Je ne savais pas conclure, m'essorer (comme dirait Rimbaud), en arriver au sublime." (NV, 273) #convocation_canon_littéraire
+"Prendre au sérieux de si petites choses (les grosses perles sont bien plus petites que certains cailloux que je connais)" (NV, 280)
+"Même avec les serveuses de mon âge (seize dix-sept ans) je perds mon temps. Elles parlent et agissent comme si elles avaient l'âge de leurs amants (trente-cinq trente-six ans)." (NV, 289)
+"comme si nous étions des magnats de pétrole (des magnats du pétrole?)" (NV, 306) #commentaire_métalinguistique
+"par l'entremise du téléphone (le téléphone est une invention)" (NV, 330)

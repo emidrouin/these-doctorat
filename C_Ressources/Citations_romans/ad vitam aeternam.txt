@@ -1,0 +1,2 @@
+"ad vitam aeternam"
+(AR, 74) #emprunt_langue_étrangère

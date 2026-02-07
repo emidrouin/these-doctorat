@@ -1,0 +1,6 @@
+"grimoire"
+"m'installer à la table devant le grimoire" (PF, 13)  #objet-livre
+"Je me recroquevillai, apeurée, en proie au mauvais augure, autour du grimoire ami." (PF, 129) #objet-livre
+"le grimoire est encombrant et je ne voulais pas l'abandonner, vous pensez bien" (PF, 156)
+"J'étais toujours étendue le nez dans mon grimoire" (PF, 160)
+"J'immolerai donc ce grimoire, comme papa sacrifiait le bouc au renouveau du printemps. À chaque retour de la saison où père punissait jésus de mourir à jamais une fois de plus, on abattait le bouc [...]." (PF, 176) #objet-livre #intertexte_biblique #métaphore

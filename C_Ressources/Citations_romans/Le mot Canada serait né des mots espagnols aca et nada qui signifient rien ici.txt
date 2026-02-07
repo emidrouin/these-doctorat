@@ -1,0 +1,4 @@
+"Le mot Canada serait né des mots espagnols aca et nada qui signifient: rien ici."
+(NV, 15) #emprunt_langue_étrangère #commentaire_métalinguistique #nom_sémantisé
+
+"Le nom des Maritimes leur est venu de ce qu'elles vivent côte à côte sur la côte de l'Atlantique. Nous sommes les Fluviaux, Chateaugué et moi. Nous sommes des amis qui vivent côte à côte sur les rives d'un fleuve. Ma chère Chateaugué, nous sommes les Fluviaux, [...]." (NV, 22) #nom_collectif #surnom

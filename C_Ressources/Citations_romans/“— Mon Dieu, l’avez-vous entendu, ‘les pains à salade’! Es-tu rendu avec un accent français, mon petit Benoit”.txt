@@ -1,0 +1,4 @@
+“— Mon Dieu, l’avez-vous entendu, ‘les pains à salade’! Es-tu rendu avec un accent français, mon petit Benoit?”
+(T24, 78) #emprunt_langue_étrangère
+
+“La vieille vache a raison. Il m’arrive d’avoir un accent. Ça m’échappe. C’est à force de travailler avec des Européens. C’est normal, mais ce n’est pas nécessaire de le claironner devant la clientèle. [...] // Je marmonne des variantes: pain à salade avec le ‘ain’ nasillard, pain à salade avec le pain qui sonne comme ‘pan’. Faut-il plutôt dire pain ‘de’ salade? Non, ça n’a pas de sens... Pain ‘pour’ salade, alors. Non plus... Et puis quel rapport avec la salade? // Mon père ne m’a rien appris. Je n’ai appris que des mots inutiles, tout seul dans mon coin, avec des mots croisés. De mon père, il me semble que je n’ai eu que du silence. Je lui en veux.” (T24, 79) #emprunt_langue_étrangère #mise_en_scène_rapport_langue

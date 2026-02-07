@@ -1,0 +1,63 @@
+vocabulaire recherché (PF)
+verbe "sourdre" #mots_anciens: "la pluie qui sourd" (PF, 19, 99); "Il en sourdait de partout [des semblables]" (PF, 53); "la musique qui va en sourdre" (PF, 175)
+"occiput" (PF, 30, 80, 163) (os du crâne), mot plus recherché #mots_anciens
+"Père en rapportait une hotte à ras bord" (PF, 36), sens = "panier"
+"en insérant dans sa main une obole" (PF, 38) #mots_anciens
+"mes expédients" (PF, 38); "ce sont là mes expédients" (PF, 103); "[frère] avait d'autres expédients devant le cours des choses" (PF, 146); "À chacun ses expédients." (PF, 174)
+"dito" (PF, 52)
+"les gestes idoines", c-à-d appropriés (PF, 58) #mots_anciens
+"Tout cela pour ne rien dire des fifre, flageolet et tambourin, mais ça j'en parlerai à son heure, en même temps que du bouc et tout son bataclan." (PF, 60), aussi un jeu sur les assonances? #mise_en_scène_rapport_langue et aussi #mise_en_scène_écriture
+"encensoir" (PF, 60), vocabulaire du religieux, bien connu par la narratrice
+"dextre" (PF, 70), qui désigne la main droite #mots_anciens (voir Larousse)
+"remembrance" (PF, 71) #mots_anciens; voir autre note incluant ce mot
+"Le prêtre et l'agent continuaient de m'agonir de questions" (PF, 68)
+"m'en cuidez" (PF, 72)
+"itou" (PF, 77, 107, 119); "lui itou" (PF, 162) #mots_anciens, mais d'usage relativement courant au Québec (québécisme?)
+"je l'abomine", verbe "abominer" (PF, 78)
+"marri" (PF, 80), dans le sens de "désolé" ou "fâché", voir dictionnaire Multi
+"Il avait un sourire sardonique en disant cela, si je sais bien ce que sardonique veut dire." (PF, 83); "Qui exprime une moquerie méchante", voir Larousse #commentaire_métalinguistique
+"yeux de chevalier en braquemart, comme on dit en parlant d'une armure sophistiquée, si ma mémoire ne me joue pas de tours" (PF, 83) #commentaire_métalinguistique; "le chevalier en braquemart" (PF, 149)
+"rassérénée" (PF, 88)
+"myriade" (PF, 97); aussi dans une note sur les dictionnaires, cependant
+"flocons de neige en essaims" (PF, 99); "pensées trop douces, trop belles [...], en essaim" (PF, 179); très extensionné (déf 1: abeilles; 2: par extension, insectes; 3: par extension, "Ensemble nombreux qui se déplace", Wiktionnaire)
+"conciliabule" (PF, 102)
+"supplications" (PF, 105)
+"mire-à-tout" (PF, 105, 114, 169, 171) #néologisme
+"[les jours de] conjonctures miraculeuses" (PF, 108)
+"les bras étendus tel un engoulevent" (PF, 109); "mon corps d'engoulevent" (PF, 128, 177)
+"taveleux" (PF, 110); "tavelé.e.s" qui veut dire "moucheté", aussi #imprécision_lexicale
+"Il fallait aussi traverser à gué" (PF, 111); "Endroit d'un cours d'eau assez peu profond pour qu'on puisse le traverser sans nager", selon le Larousse; mais l'usage ici est une #imprécision_lexicale?
+"souille à cochons" (PF, 111); "les cochons dans la souille, ouille!" (PF, 169); aussi #emprunt_langue_étrangère, car le terme québécois commun est plutôt "soue"? (or les deux termes existent) et #détournement_lexical par l'assonance avec l'interjection
+"fondrières" (PF, 111); synonyme de "bourbier" ou d'"ornière", selon le Larousse
+"à condition de ne toujours pas le quitter des prunelles" (PF, 112-113), aussi figure de style (synecdoque, la partie pour le tout) #métaphore
+"jusqu'au fond des étoiles inerrantes" (PF, 115), aussi vocabulaire religieux #intertexte_biblique
+"stigmates" (PF, 115) #intertexte_biblique
+"inexorables" (PF, 119)
+"voilà encore ce qui me turlupinait le plus" (PF, 120); "trop turlupinant" (PF, 125)
+"titillote de curiosité" (PF, 121) #néologisme, d'après "titiller" + suffixe?
+"aux premières langueurs de l'aube" (PF, 123)
+"évanescente" (PF, 123)
+"précautionneusement" (PF, 123), forme plus complexe en tant qu'adverbe
+verbe "extirper": "nous extirpions" (PF, 123)
+"à me coller aux chausses" (PF, 124) #imprécision_lexicale (car ça n'équivaut pas à des chaussures?; vérifier davantage)
+"le groin écumant" (PF, 126), parlant des semblables qui allaient arriver au domaine
+"vers des pays munificients" (PF, 127) #mots_anciens, or #imprécision_lexicale car ce n'est pas synonyme de "magnificient" mais plutôt "très généreux", selon le Larousse
+"le ciel était couvert de limbes" (PF, 128) #intertexte_biblique
+"roide" (PF, 128), utilisé comme synonyme de "raide", dont il est l'ancienne forme
+"de la façon susdite" (PF, 131), aussi très formel et peu littéraire comme registre #imprécision_lexicale
+"mandibules" (PF, 132)
+"Il portait sa houppelande, crasseuse est le mot, ainsi que sempiternelle" (PF, 136) aussi #commentaire_métalinguistique; "sortait des poches de sa houppelande" (PF, 141)
+"soûl comme un moinillon" (PF, 142), suffixe?
+"bol d'eau croupie" (PF, 150)
+verbe "souquer": "en souquant et souquant" (PF, 152)
+"se payait de larmes" (PF, 152)
+"crachats conjuratoires" (PF, 155), aussi connoté (mysticisme?)
+"derechef" (PF, 159)
+"J'avais sa bougne dans la figure et les remugles puissants de son sandwich [...]." (PF, 161) aussi #emprunt_langue_étrangère
+"cauteleux jusqu'au trognon" (PF, 162)
+"qui auraient l'heur" (PF, 167)
+"des ruisseaux qu'on entend chuter, chuinter" (PF, 169), aussi #détournement_lexical pour l'assonance
+"scribouiller" (PF, 172), aussi dans la note sur le Juste Châtiment
+"c'est ça qui me tarabuste" (PF, 173)
+"fifre, flageolet et tambourin" (PF, 176); "flageolet" (PF, 176)
+"je sais d'expérience que mes imaginations ne m'ont jamais rien valu de bon" (PF, 180) registre littéraire, au pluriel

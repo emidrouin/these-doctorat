@@ -1,0 +1,4 @@
+"Christian vit seul dans le pays appelé Christian"
+(AA, 73) #nom_sémantisé
+
+"De même que, pour la satisfaction de nos faims respectives, Christian trouve une maman et moi Chat Mort dans la même personne, il y a de multiples Christian, autant de Christian qu'il y en a qui l'inventent." (AA, 74) #nom_collectif

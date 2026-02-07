@@ -1,0 +1,6 @@
+"la grande-duchesse de Mingrélie"
+(AA, 52, 56) #nom_sémantisé
+
+"arrivée hier, de Dniépropétrovsk" (AA, 52) #emprunt_langue_étrangère
+
+"La grande-duchesse nous quitte. Vaya con Dios my dear Fräulein." (AA, 57) #emprunt_langue_étrangère

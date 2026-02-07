@@ -1,0 +1,2 @@
+"le coeur en chamaille"
+(PF, 128) #imprécision_lexicale, avec des paronymes (voir le Termium à cet effet)

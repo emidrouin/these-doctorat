@@ -1,0 +1,2 @@
+"la porte du côté ouverte sur le vestibule d'Icare"
+(NS, 40) #métaphore

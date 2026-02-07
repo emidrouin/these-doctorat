@@ -1,0 +1,2 @@
+"Je vois un homme-sandwich et je pense à un sandwich au jambon."
+(AA, 320) #mise_en_scène_rapport_langue

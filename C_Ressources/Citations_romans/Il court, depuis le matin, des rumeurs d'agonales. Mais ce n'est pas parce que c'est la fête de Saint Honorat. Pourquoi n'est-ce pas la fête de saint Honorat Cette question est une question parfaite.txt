@@ -1,0 +1,4 @@
+"Il court, depuis le matin, des rumeurs d'agonales. Mais ce n'est pas parce que c'est la fête de Saint Honorat. Pourquoi n'est-ce pas la fête de saint Honorat? Cette question est une question parfaitement inutile. Pourquoi cette question est-elle une question parfaitement inutile. Cette autre question est elle aussi une question parfaitement inutile."
+(AA, 353-354) #mot_ancien #mise_en_scène_écriture
+
+"Il court, depuis ce matin, des rumeurs d'agonales. Je ne sais pas pourquoi. Ce n'est pas la Saint-Honorat. Car Israël n'est pas catholique. Car en Israël, à la Saint-Honorat, [...]." (AA, 355) #intertexte_biblique

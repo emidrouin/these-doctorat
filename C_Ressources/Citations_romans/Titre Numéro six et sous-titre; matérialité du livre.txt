@@ -1,0 +1,8 @@
+Titre "Numéro six" et sous-titre; matérialité du livre
+#objet-livre
+
+Titre: "Numéro six" #INTERTEXTUALITÉ avec la présence du chiffre "six" dans Mailloux?
+
+Sous-titre: "Passages du numéro six dans le hockey mineur, dans les catégories atome, moustique, pee-wee, bantam et midget; avec aussi quelques petites aventures s'y rattachant" (NS, 5)
+
+Chapeau pour chaque "passage" (chapitre), qui annonce ce que contiendra le chapitre; façon similaire à Mailloux (vérifier Ma en Série QR?)

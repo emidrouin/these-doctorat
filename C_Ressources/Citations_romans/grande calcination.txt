@@ -1,0 +1,2 @@
+"grande calcination"
+(PF, 150) #imprécision_lexicale

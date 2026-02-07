@@ -1,0 +1,2 @@
+"pour ne pas effrayer sa panique"
+(PF, 163) #imprécision_lexicale

@@ -1,0 +1,2 @@
+"Je ne veux pas (ne rien vouloir)"
+(NV, 72) #commentaire_métalinguistique

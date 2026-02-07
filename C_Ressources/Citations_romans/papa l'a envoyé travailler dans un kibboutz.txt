@@ -1,0 +1,4 @@
+"papa l'a envoyé travailler dans un kibboutz"
+(AR, 14) #intertexte_biblique
+
+"avant qu'il ne parte pour le kibboutz" (AR, 128)

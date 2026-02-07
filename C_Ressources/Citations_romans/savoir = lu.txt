@@ -1,0 +1,2 @@
+savoir = lu
+"Cuthbert, seigneur de Berthier par achat, fut officier dans la Garde Noire avant l'achat, avant la vente; c'est ce que j'ai lu." (NV, 33) #plagiat

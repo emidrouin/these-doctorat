@@ -1,0 +1,4 @@
+"un rot commençant par un m et sonnant comme meurs"
+(Ma, 36) #commentaire_métalinguistique
+
+performatif? "Le sang du corps Bène de mort [...]" (Ma, 36) aussi #syntaxe

@@ -1,0 +1,4 @@
+"Je te raconte."
+(NS, 39) #mise_en_scène_écriture
+
+"Des détails [...], je pourrais en donner, mais je ne le ferai pas, ce n'est ni le temps ni l'endroit." (NS, 40) #mise_en_scène_écriture

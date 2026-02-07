@@ -1,0 +1,2 @@
+"Mazout tient son nom [...]"
+"Mazout tient son nom d'une tache brune qui lui colore l'épaule [...]" (Ma, 29) #nom_sémantisé

@@ -1,0 +1,2 @@
+"la rue de la Guimbarde qu'on appelle Gilbert du stade."
+(NS, 36) #changement_de_nom (toponymie)?

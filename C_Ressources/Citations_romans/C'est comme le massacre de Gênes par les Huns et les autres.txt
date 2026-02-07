@@ -1,0 +1,2 @@
+"C'est comme le massacre de Gênes par les Huns et les autres."
+(NV, 15) #détournement_lexical

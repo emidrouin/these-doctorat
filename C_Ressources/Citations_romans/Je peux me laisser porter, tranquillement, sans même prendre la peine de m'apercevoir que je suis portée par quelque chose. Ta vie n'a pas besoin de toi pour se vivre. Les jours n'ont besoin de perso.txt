@@ -1,0 +1,6 @@
+"Je peux me laisser porter, tranquillement, sans même prendre la peine de m'apercevoir que je suis portée par quelque chose. Ta vie n'a pas besoin de toi pour se vivre. Les jours n'ont besoin de personne pour se compter et compter un jour à tout le monde au fur et à mesure. Point n'est besoin de t'en faire, Bérénice."
+(AA, 120) #glissement_pronominal
+
+"Elle serait [...]. Elle serait [...]. Je serais [...]. [...] Va-t'en, Chamomor. [...], tu [...], tu es [...], tu es [...], tu ne fais [...]." (AA, 124) #glissement_pronominal
+
+"Je mets mon épaule à la roue et je pousse. Nous n'irons pas loin, Bérénice, mais nous irons à notre guise, par nos propres moyens. Je me fatigue, tombe malade." (AA, 126-127) #glissement_pronominal

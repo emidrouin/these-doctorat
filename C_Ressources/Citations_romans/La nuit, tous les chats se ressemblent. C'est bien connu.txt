@@ -1,0 +1,2 @@
+"La nuit, tous les chats se ressemblent. C'est bien connu."
+(AA, 369) #métaphore #détournement_lexical

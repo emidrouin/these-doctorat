@@ -1,0 +1,2 @@
+"Mon nom retentit [...]"
+(NS, 117) #ONOMASTIQUE

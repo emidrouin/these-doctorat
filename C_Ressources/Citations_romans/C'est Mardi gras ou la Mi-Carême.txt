@@ -1,0 +1,2 @@
+"C'est Mardi gras ou la Mi-Carême."
+(Am, 69) #intertexte_biblique

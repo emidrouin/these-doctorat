@@ -1,0 +1,3 @@
+"un [long] aaaaaaaaaaah monotone et continu"
+"en émettant un long aaaaaaaaaaah monotone et continu" (PF, 162)
+"faire un aaaaaaaaaaah monotone et continu" (PF, 162) #imprécision_lexicale

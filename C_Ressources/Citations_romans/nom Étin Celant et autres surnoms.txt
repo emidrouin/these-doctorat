@@ -1,0 +1,6 @@
+nom "Étin Celant" et autres surnoms
+"Si j'avais du coeur, Rodrigue, [...]. Comment t'appelles-tu? C'est vrai, tu t'appelles Chimo. // C'était son rouge à lèvres qui parlait. Son rouge à lèves était étincelant. // — Je m'appelle Étin Celant." (NV, 180) #changement_de_nom #nom_palimpseste (Rodrigue, perso principal du Cid de Corneille) #surnom
+
+"Elle est partie en déclamant. // — Attends-moi, Étin Celant, je reviendrai. Je reviendrai, étincelante de propreté; attends-moi, Étin Celant. Rodrigue, as-tu du coeur? // Me revoilà seul avec mes chimères. Je souhaite qu'elle revienne, morte ou vive. Je souhaite qu'elle vienne, morte ou vive; Chateaugué, Questa, Madame de Sévigné, Marie de l'Incarnation, n'importe qui." (NV, 189) #surnom, #nom_sémantisé (Étin Celant / étincelante, comme jeu), #convocation_canon_littéraire
+
+"mon cher Étin Celant" (NV, 309)

@@ -1,0 +1,3 @@
+"baptisé d'un nouveau nom de puissance"
+(SH, 235) #changement_de_nom
+"[...] pour découvrir, dans un moîse au fond d'une chambre, l'enfant de la comète, [...]. [...] et sa seule chance de se purifier était de pleurer toutes les larmes de son corps, [...], et pour à la fin renaître au monde dans la lumière, baptisé d'un nouveau nom de puissance; [...], mais il nous fallait le jeter dans ce martyre, vu que c'était sa seule chance de se transfigurer en un enfant du Bien et de la Justice, pour peut-être un jour sauver le monde" (SH, 235) aussi #intertexte_biblique

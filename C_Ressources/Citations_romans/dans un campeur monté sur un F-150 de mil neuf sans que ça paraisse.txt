@@ -1,0 +1,2 @@
+"dans un campeur monté sur un F-150 de mil neuf sans que ça paraisse"
+(NS, 148) #détournement_lexical

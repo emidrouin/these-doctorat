@@ -1,0 +1,51 @@
+vocabulaire recherché/ancien (NV)
+#mots_anciens
+"D'où viens-tu, Elphège? Je viens de me réveiller, Brunehilde." (NV, 26), pour se moquer
+"de la platitude, de la pluvitude" (NV, 33) #néologisme
+"péripatéticiennes" (NV, 34, 128); emploie aussi le terme "prostituées" (NV, 160)
+"en guise de hart ou de collier" (NV, 36) #détournement_lexical (hart = corde de pendaison)
+"Nous ne rêvons que palans et poulies." (NV, 37)
+"toute encoconnée" (NV, 45)
+verbe "mirer": "Elle a des cheveux blonds qui mirent rose, qui miroitent." (NV, 49), aussi #détournement_lexical
+"J'ai mangé à pierre fendre. J'ai bu comme un loir." (NV, 52) #imprécision_lexicale alors que les expressions ne sont pas utilisées dans leur sens habituel
+"un archet sur les nerfs" (NV, 70) #métaphore
+"cothurnes" (NV, 89, 294), souliers de l'antiquité #mots_anciens
+"traquenard" (NV, 91)
+"tabernacle" (NV, 91), au véritable sens; aussi "ces oeufs sacrés comme des hosties", pour une foi dans le vrai sens (NV, 91)
+"leurs yeux simoniaques" (NV, 91)
+"paillardise" (114)
+"Nous serions morts et enterrés; tous les deux. Tout Tate, tout nous, serait du royaume chthonien." (NV, 114) #métaphore, l'adj. "chthonien" référant aux divinités du monde souterrain (Hadès, etc.)
+"Ce n'est pas de la farine, c'est du brocart, c'est damasquiné." (NV, 119); "nous avons dit adieu aux bouches damasquinées d'or noir" (NV, 232)
+"leur accroche des sébiles aux branches" (NV, 122)
+"C'est la dévirilisation des arbres!" (NV, 122)
+"La pluie glacée montait dans nos chaussettes de laine par capillarité." (NV, 122)
+"J'ai envie d'aller aux cabinets. [...] Il faut que j'aille aux cabinets." (NV, 138); "Elle est revenue des cabinets en courant." (NV, 139); "Je ne m'absente que pour aller aux cabinets." (NV, 157); "On se retire dans les cabinets [...]." (NV, 157); "ou pour aller aux cabinets" (NV, 166)
+"J'étais à la fois la victime de l'ire et du rire." (NV, 139), aussi l'allitération
+"revolver, joyau d'orfèvrerie" (NV, 147) #métaphore
+"brebis vassive" (NV, 152)
+"Vauvenargues" (NV, 153)
+"une ruche de cancrelats" (NV, 154)
+"Nous avons ouvert le vasistas, pour laisser entrer la chaleur. Laissez venir à moi les petits enfants par le vasistas." (NV, 157)
+"numismate" (NV, 162)
+"comme on abandonne un cilice" (NV, 170)
+"coups de haches évulsifs" (NV, 171)
+"seule et phtisique" (NV, 176)
+"Questa, grosse ineffable" (NV, 205)
+"allez quérir les adaubages" (NV, 219), dit par Questa
+"roide comme un chien qui vient de mourir" (NV, 231)
+"pour les faire endêver" (NV, 235), expression familière et vieillie #mots_anciens signifiant "faire enrager" (Larousse)
+"du rire irrésistible et tellurique de toute son âme" (NV, 237)
+"se traduit en une faconde d'une vivacité, d'un éclat tel" (NV, 247)
+"avec des daviers" (NV, 248)
+verbe "gésir": "Je ne peux pas la laisser gésir dans l'ignorance. Je commence déjà à choisir des mots et mettre au point des allégories qui faciliteront sa tâche et la mienne." (NV, 250) aussi #mise_en_scène_rapport_langue et #métaphore
+"Tendue et impatiente comme une forte en thème" (NV, 251) à vérifier, #métaphore
+"l'oaristys sens devant derrière" (NV, 252)
+"le paradisier qui lui servait de chapeau" (NV, 264)
+"Je fais mon petit iconoclaste." (NV, 280), bien employé?
+"Je suis une forteresse inexpugnable." (NV, 285)
+"Pour [les serveuses] je ne suis qu'un godelureau [...]." (NV, 289) familier et vieilli #mot_ancien
+"taraud rouillé" (NV, 297)
+"à coups d'ergots gracieux" (NV, 307)
+"surprise-partie" (NV, 316), vieilli #mot_ancien
+"un poussah efféminé à voix de pleutre" (NV, 324)
+"se conduire en mirliflores" (NV, 329), vieilli #mot_ancien

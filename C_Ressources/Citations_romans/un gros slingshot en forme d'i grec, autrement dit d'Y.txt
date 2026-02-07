@@ -1,0 +1,4 @@
+"un gros slingshot en forme d'i grec, autrement dit d'Y"
+(SH, 85) #mise_en_scène_écriture
+
+"des baisers en forme de x" (SH, 117)

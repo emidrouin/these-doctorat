@@ -1,0 +1,8 @@
+"Elle m'appelle 'notre petit Gérard Barbeau', 'notre voix d'or'."
+(T24, 35) #surnom
+
+"Elle m'appelle 'mon sauveur' d'une voix comique." (T24, 42)
+
+“Il m’appelait ‘mon gars’.” (T24, 70)
+
+“mon petit Ben” (T24, 93)

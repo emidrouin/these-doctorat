@@ -1,0 +1,2 @@
+"Liste des noms d'endroits, de personnages, d'équipes, d'événements, etc., dans l'ordre de leur apparition"
+(NS, 159-171) #objet-livre

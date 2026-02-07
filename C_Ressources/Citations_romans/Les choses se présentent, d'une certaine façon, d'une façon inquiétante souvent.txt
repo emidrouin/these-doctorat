@@ -1,0 +1,4 @@
+"Les choses se présentent, d'une certaine façon, d'une façon inquiétante souvent."
+(AA, 273) #syntaxe
+
+long paragraphe sur les "choses" (AA, 273-274) #métaphore

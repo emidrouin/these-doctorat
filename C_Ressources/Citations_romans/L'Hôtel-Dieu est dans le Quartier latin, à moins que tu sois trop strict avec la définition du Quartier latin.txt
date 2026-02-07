@@ -1,0 +1,2 @@
+"L'Hôtel-Dieu est dans le Quartier latin, à moins que tu sois trop strict avec la définition du Quartier latin."
+(Ji, 45) #commentaire_métalinguistique

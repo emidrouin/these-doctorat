@@ -1,0 +1,2 @@
+“Mes efforts ont déjà porté des légumes.”
+(Oc, 51) #détournement_lexical

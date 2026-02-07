@@ -1,0 +1,16 @@
+"Mauriac, le chat que Chat Mort adore"
+(AA, 65) #INTERTEXTUALITÉ
+
+"Sa main va et vient sur le dos gris de Mauriac II, le chat qui remplace le chat qu'elle adorait. La nuit, tous les chats sont gris. Et le dos d'un chat gris est gris." (AA, 92) #nom_palimpseste #métaphore
+
+"dans le rat que Mauriac II était en train de manger" (AA, 115); "comme elle tient et flatte Mauriac II" (AA, 125)
+
+"Mauriac II [...]" (AA, 140)
+
+"Avec moi, les chats ne font pas long feu. [...] J'attrape Mauriac II [...]. Je creuse une fosse [...], l'enterre de façon à ce que la queue dépasse. [...] comme un périscope à la surface de la mer, comme la croix du Christ à la surface du Calvaire." (AA, 164) #intertexte_biblique
+
+"Un chat chasse l'autre. Au dénommé Mauriac II succède le dénommé Trois." (AA, 168) #nom_palimpseste
+
+"Pendant [...], Trois sème la terreur [...], Semer la terreur est le moins qu'on puisse dire, Trois-moi! Plusieurs grimpent après les murs. Plusieurs cardiaques passeront Trois mois à l'hôpital. En un mot, c'est pire que la guerre de Trois." (AA, 169) #nom_sémantisé
+
+"Chamomor a-t-elle encore Trois, le chat abyssin?" (AA, 293)

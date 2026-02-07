@@ -1,0 +1,4 @@
+"— [...] Mais attention, il y a des mots en latin: il faudra travailler. Je vais te montrer. [...] Répète: Ave Maria gratia plena."
+(T24, 21) #emprunt_langue_étrangère
+
+"Je travaille les morceaux avec elle. Je mémorise mon latin." (T24, 22)

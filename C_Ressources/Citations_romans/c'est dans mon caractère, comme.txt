@@ -1,0 +1,2 @@
+"c'est dans mon caractère, comme."
+(PF, 89); "comme" utilisé en fin de phrase #détournement_lexical

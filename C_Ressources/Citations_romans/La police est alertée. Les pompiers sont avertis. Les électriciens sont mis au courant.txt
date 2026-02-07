@@ -1,0 +1,2 @@
+"La police est alertée. Les pompiers sont avertis. Les électriciens sont mis au courant."
+(AA, 270) #métaphore, et jeu

@@ -1,0 +1,2 @@
+"[...] aux gauchers aussi bien qu'aux autres qui veulent cacher qu'ils sont sans droit"
+(NS, 12) #détournement_lexical

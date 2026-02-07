@@ -1,0 +1,2 @@
+"Un brouhaha de visages"
+(PF, 113) #imprécision_lexicale, "brouhaha" ayant normalement trait au bruit (vérifier)

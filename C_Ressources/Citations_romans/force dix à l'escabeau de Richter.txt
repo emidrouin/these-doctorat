@@ -1,0 +1,2 @@
+"force dix à l'escabeau de Richter"
+(AR, 157) #détournement_lexical

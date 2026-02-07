@@ -1,0 +1,2 @@
+"le médecin en médecine"
+(NV, 93) #imprécision_lexicale, voulait-il dire "docteur" en médecine?; par synonymie courante docteur/médecin?

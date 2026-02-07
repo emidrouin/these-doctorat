@@ -1,0 +1,2 @@
+dictionnaire
+"Il est sur la page du dictionnaire. Il y a de tout dans un dictionnaire bien illustré. C'est un vautour imprimé." (NV, 153) #objet-livre

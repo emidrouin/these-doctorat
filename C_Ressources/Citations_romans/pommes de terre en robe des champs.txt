@@ -1,0 +1,2 @@
+"pommes de terre en robe des champs"
+(PF, 94) #emprunt_langue_étrangère, pcq c'est la version européenne plutôt que québécoise?

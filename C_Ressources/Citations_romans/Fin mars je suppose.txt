@@ -1,0 +1,6 @@
+"Fin mars je suppose."
+(NS, 88) #mise_en_scène_écriture
+
+"Tout seul à nouveau fin mars, je l'ai dit, je suppose." (NS, 88) #mise_en_scène_écriture
+
+"Oui, je dis." (NS, 120)

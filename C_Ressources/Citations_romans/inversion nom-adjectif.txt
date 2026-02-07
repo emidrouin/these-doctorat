@@ -1,0 +1,5 @@
+inversion nom-adjectif
+#syntaxe
+"son nom vrai" (Ma, 114)
+"ses mollets gros" (Ma, 115)
+"mon frère petit" (Ma, 162)

@@ -1,0 +1,4 @@
+"un char d'assaut [...], un engin archaïque déboulonné surnommé 'Toupie'"
+(AA, 338) #surnom
+
+"j'actionnai le moteur à explosion (c'est peu dire) de Toupie et, chantant un poème de Nelligan, [...]" (AA, 339) #mise_en_scène_écriture #convocation_canon_littéraire

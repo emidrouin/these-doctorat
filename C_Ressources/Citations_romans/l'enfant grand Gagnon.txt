@@ -1,0 +1,9 @@
+"l'enfant grand Gagnon"
+#nom_sémantisé ("grand") et #syntaxe
+"l'enfant grand Gagnon" (Ma, 23, 52, 63)
+"l'enfant grand Gagnon" (Ma, 23, 24, 52, 53, 74 [x2], 77 [x2]. 78 [x3], 81 [x2])
+"L'enfant grand Gagnon" (Ma, 79)
+"être un grand Gagnon" (Ma, 77)
+"sa poitrine d'enfant grand Gagnon" (Ma, 77)
+"au enfant grand Gagnon" (Ma, 78) #syntaxe
+)

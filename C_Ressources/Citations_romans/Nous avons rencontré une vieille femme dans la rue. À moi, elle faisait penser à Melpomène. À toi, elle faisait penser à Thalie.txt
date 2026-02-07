@@ -1,0 +1,4 @@
+"Nous avons rencontré une vieille femme dans la rue. À moi, elle faisait penser à Melpomène. À toi, elle faisait penser à Thalie."
+(AA, 360) #convocation_canon_littéraire
+
+"— [...] Tes douleurs me font penser à celle de la duchesse de Langeais, l'héroïne de Balzac, de Zola, de Cyrano de Bergerac, du Barbier de Séville." (AA, 361) #convocation_canon_littéraire

@@ -1,0 +1,2 @@
+"Ce représentant est danois. Il vient de la Danoiserie."
+(NV, 42) #détournement_lexical

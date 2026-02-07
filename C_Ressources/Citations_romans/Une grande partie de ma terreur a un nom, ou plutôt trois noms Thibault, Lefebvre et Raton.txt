@@ -1,0 +1,2 @@
+"Une grande partie de ma terreur a un nom, ou plutôt trois noms: Thibault, Lefebvre et Raton."
+(AR, 13-14) #nom_collectif

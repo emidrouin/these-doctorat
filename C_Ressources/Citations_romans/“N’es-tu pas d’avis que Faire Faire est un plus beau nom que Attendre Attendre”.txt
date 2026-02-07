@@ -1,0 +1,4 @@
+“N’es-tu pas d’avis que Faire Faire est un plus beau nom que Attendre Attendre?”
+(Oc, 121) #nom_sémantisé
+
+DDR Faire Faire: “Tu chinoises en silence? Chinoisons ensemble en silence. [...] Est-ce qu’on peut parler en silence? Certes, puisqu’on peut chinoiser en silence et que parler est chinoiser.” (Oc, 121) #détournement_langagier_militant

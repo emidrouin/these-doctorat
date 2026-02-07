@@ -1,0 +1,2 @@
+"son corps enfant"
+(Ma, 23) #syntaxe; utilisation d'"enfant" comme adjectif, qui qualifie le corps plutôt que d'exprimer une appartenance ("corps d'enfant")

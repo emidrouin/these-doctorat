@@ -1,0 +1,2 @@
+"amplement ample"
+(NV, 136) #détournement_lexical par le pléonasme (choisi)

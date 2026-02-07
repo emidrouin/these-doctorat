@@ -1,0 +1,4 @@
+"un ami à nous qui était gros, avec Éric comme prénom"
+(SH, 108) #ONOMASTIQUE
+"l'Éric en question" (SH, 108)
+"notre Éric" (SH, 108)

@@ -1,0 +1,10 @@
+“la maîtresse explique comment il faut s’y prendre pour être pris pour Rembrandt”
+(Oc, 156) #convocation_canon_littéraire
+
+et
+
+“La maîtresse sent qu’il y en a qui ne l’écoutent pas comme si elle était Jésus-Christ.” (Oc, 156) #intertexte_biblique
+
+“Nous nous regardons, singeant tour à tour les attitudes des personnages des illustrations du manuel de lecture. Je suis la Vierge Marie à tête de côté, yeux clos comme des huîtres et à mains jointes soule nez comme avec de la mélasse.” (Oc, 156) #objet-livre #intertexte_biblique
+
+“Hélàs! lancé trop fort, mon espèce de télégramme tombe sur la tablette du petit jésus de plâtre. Pour le récupérer, Asie Asothe devra se lever, courir jusqu’à l’encoignure et faire là un bon d’une couple de pieds. Bras tendu, elle saute. Catastrophe! Frappé, Notre-Seigneur Jésus-Christ chancelle, penche, quitte son juchoir, s’écrase avec fracas.” (Oc, 157) #intertexte_biblique

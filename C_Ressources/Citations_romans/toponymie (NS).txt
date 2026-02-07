@@ -1,0 +1,15 @@
+toponymie (NS)
+"contre Kéno" (NS, 68); "vers Kéno où se trouve le Canadian Tire" (NS, 89) #surnom (Kénogami)
+"contre Chicouti" (NS, 69, 84); "au Tournoi de Chicouti" (NS, 119, [chapeau]); "Le Tournoi national bantam de Chicouti" (NS, 125) #surnom (Chicoutimi)
+"contre Chicoutimou-Norne" (NS, 69) #surnom (Chicoutimi-Nord?)
+"contre Métabetchouane" (NS, 69); "l'aréna de Métabète qu'on appelait alors Chinze Héraume" (NS, 69) #surnom
+"l'école Saint-Carrelage-de-la-Dépression-Saisonnière" (NS, 71 [chapeau], 74, 81)
+"rue du Carambolage" (NS, 81), ET PLUSIEURS AUTRES
+"Tout Arvirond cessa de tourner." (NS, 79); "le corps des tambours et clairons d'Arvirond" (NS, 101 [chapeau], 103, 104); "les couleurs d'Arvirond" (NS, 104); "corps des bombants d'Arvirond" (NS, 104); "l'équipe régionale bantam d'Arvirond qui a pour nom l'année soixante-quatorze de sa fondation" (NS, 120) #surnom?; "L'une des deux équipes du secteur d'Arvirond [...] s'appelle l'équipe des Citations du livre des saints d'avant le jour" (NS, 121), aussi #intertexte_biblique?; "L'autre des deux équipes d'Arvirond [...] s'appelle l'équipe des Cavaliers du vrombissement. Mais la plupart des gens les appelles les Cahiers du zombie vomissant du sang." (NS, 121); "L'équipe des Cavaliers du sang du zombie [...]" (NS, 122) #surnom fantaisiste; "l'équipe de la catégorie supérieure bantam régionale d'Arvirond" (NS, 127); "De retour à Arvirond, [...] ceux-là du nom de l'an soixante-quatorze de la formation de l'équipe." (NS, 131); "le grand club des mêmes" (NS, 131) #imprécision_lexicale; "Les Indiens nains qu'on appelle les Nabots rouges d'Arvirond" (NS, 138)
+"dans la paroisse voisine de Chaint-Zacques" (NS, 103)
+"l'intersecteur de la ville divisée en trois" (NS, 120)
+"les Garagistes d'Immobile-Station" (NS, 125)
+"Centre Georges-Vézinée" (NS, 125, 126) #détournement_lexical
+"les Manches courts de Saint-Agneau" (NS, 130); "les Genciviers de Rigaud" (NS, 130); "les Élites de L'Anse-au-Seau-de-la-Chaudière" (NS, 130)
+"le Bourbier de Saint-Normal-qu'Il-Reste-à-Terre" (NS, 147)
+"des Échangistes du Nord-Est-Sec [...] des Échangistes de l'Ouest-Nord-Pas-Froid qui venaient de la Colombrie titanique de Ford" (NS, 148)

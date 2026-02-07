@@ -1,0 +1,13 @@
+"Juste Châtiment"
+#surnom #nom_inconnu; utilisation de la majuscule (peu usuelle dans ce roman); référent religieux #nom_sémantisé
+
+"Le Juste Châtiment quant à lui demeurait dans son coin, ramassé dans son petit tas." (PF, 20) #surnom #nom_inconnu
+"C'est quelque chose, le Juste Châtiment, un jour nous étonnerons le monde avec." (PF, 20)
+"les soins que papa apportait au Juste Châtiment" (PF, 66)
+"le Juste Châtiment qui sidérera le monde" (PF, 81)
+"Et le Juste Châtiment aussi, si tu veux m'en croire. On va jeter tout ça [les cendres du père] et le Juste Châtiment dans le même trou!" (PF, 96)
+"Mais qu'allait-il advenir du Juste Châtiment" (PF, 120); "Celui-là, je veux dire le Juste [...]" (PF, 120) #surnom
+"il m'a dit, [...], en désignant l'intérieur du caveau: "C'est un juste châtiment", d'où le nom, qui me lui est resté. // C'est ainsi que le Juste et tout ce qui était à l'intérieur du caveau me devinrent familiers [...]." (PF, 123) #nom_sémantisé #surnom
+"C'est quelque chose, le Juste Châtiment [...]." (PF, 148)
+"Le Juste châtiment [...]"; "Le Juste [...]" (PF, 148), passage du nom au #surnom
+"comme un Juste" (PF, 150) #surnom, mais aussi une notion dans le judaïsme #intertexte_biblique

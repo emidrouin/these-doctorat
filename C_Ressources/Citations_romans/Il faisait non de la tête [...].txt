@@ -1,0 +1,2 @@
+"Il faisait non de la tête [...]."
+(NS, 31) #commentaire_métalinguistique

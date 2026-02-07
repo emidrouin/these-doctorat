@@ -1,0 +1,2 @@
+"verre de bristol"
+(PF, 108); manque la majuscule (verre de Bristol = verre soufflé bleu de Bristol) #imprécision_lexicale

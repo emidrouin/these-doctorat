@@ -1,0 +1,2 @@
+"son mètre de trente-six pouces, qui est une verge impériale, la verge des Anglais"
+(SH, 92) #commentaire_métalinguistique

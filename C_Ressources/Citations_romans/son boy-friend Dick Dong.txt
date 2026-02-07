@@ -1,0 +1,8 @@
+"son boy-friend Dick Dong"
+(AA, 7) #emprunt_langue_étrangère
+
+"faire son Marlon Brando" (AA, 244) #métaphore
+
+"Il a parlé en anglais. Il ne peut parler que cette langue. Ce que d'ailleurs je lui reproche." (AA, 261) #emprunt_langue_étrangère #mise_en_scène_rapport_langue
+
+"— [...] Sire Dick Dong, je vous tire ma révérence. Adios amigo! Off vie dher Zen! // — Off vie dher Zen encore une fois? [...] // Off vie dher Zen pour la dher des dher." (AA, 267) #emprunt_langue_étrangère (détourné)

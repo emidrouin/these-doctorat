@@ -1,0 +1,2 @@
+"nous nous sommes vus dans un journal"
+"Au comptoir de la Compagnie de la Baie de Hudson, nous nous sommes vus dans un journal. [...]" #objet-livre

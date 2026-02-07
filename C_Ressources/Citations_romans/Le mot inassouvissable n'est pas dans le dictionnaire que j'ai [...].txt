@@ -1,0 +1,2 @@
+"Le mot inassouvissable n'est pas dans le dictionnaire que j'ai [...]."
+"Le mot inassouvissable n'est pas dans le dictionnaire que j'ai, ne se découvre point dans le dictionnaire que je suis possédant. J'aurais dû m'en acheter un plus épais." (NV, 263) #objet-livre #syntaxe (dans la reformulation, "que je suis possédant")

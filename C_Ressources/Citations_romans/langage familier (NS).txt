@@ -1,0 +1,62 @@
+langage familier (NS)
+#vulgarité
+"Pendant c'te file" (NS, 8); "dans c'te poche" (NS, 18); "c'te bande de débiles" (NS, 94)
+"des bonshommes" (NS, 8, 9); "les bonshommes" (NS, 9 [x2]); "Les bonshommes" (NS, 9)
+"Savait pourtant [...]" (NS, 10), élision du pronom
+"Dans la rue faut que [...]" (NS, 10), élision du pronom
+"qu'on me voye" (NS, 13)
+"flots" (NS, 16, 49, 51)
+"dans l'kiosque" (NS, 20)
+"l'air branlant" (NS, 21), pour "chambranlant"?
+"sur le point d's'écrouler" (NS, 21)
+"l'entraînon Drolet" (NS, 23 [chapeau], 25); "l'entraînon" (NS, 29); "L'entraînon" (NS, 30) #néologisme #volonté_idiolectale; "Puis lent traînon poursuit." (NS, 32) #métaphore; "L'entraînon Hivert de long" (NS, 63)
+"un double corridor en S" (NS, 24); "l'un des bouts de l'S de c'corridor" (NS, 25)
+"un boggie" (NS, 25) #emprunt_langue_étrangère
+"jusqu'au ftougne." (NS, 32 [x2]); "J'ai connu la peur du ftougne." (NS, 32) #néologisme #volonté_idiolectale
+"fermer nos gueules et pas niaiser" (NS, 32); "Si un niaise [...]" (NS, 32-33)
+"comme un chien" (NS, 33) #métaphore
+"comme des chars de course" (NS, 33); "chars" (NS, 67, 72 et peut-être d'autres); "dit qu'il va changer de char" (NS, 118); "au char arrêté" (NS, 143)
+"alors on a pu [...]" (NS, 33)
+"Je suis allé ensuite un soir en spectatron [...] assister à un match [...]." (NS, 35) #néologisme #volonté_idiolectale
+"c't'espèce de netteté supernaturelle" (NS, 35)
+"sa longueur de grand'lente à grand'penche." (NS, 37)
+"avait deux trois [...]" (NS, 40) #imprécision_lexicale
+"l'sac" (NS, 42)
+"l'Ford" (NS, 42)
+"la semaine à cent piastres" (NS, 42)
+"sa carte en carton de mil neuf cent quoi deux mil cent vingt-trois" (NS, 44); "sa carte en carton de mil neuf cent quoi" (NS, 46) #imprécision_lexicale
+"numéro deux cent trois six" (NS, 44) #imprécision_lexicale
+"numéro cent huit six et un douze" (NS, 45)
+"l'shampoing" (NS, 50)
+"c'te bande" (NS, 51)
+"bite" (NS, 52)
+"grands matches" (NS, 52) #emprunt_langue_étrangère
+"finfinauds" (NS, 56)
+verbe "revoler" (NS, 60)
+"leur réussissement" (NS, 61) #néologisme
+"toune" (NS, 69); "les tounes d'A Star Is Born" (NS, 106)
+"Ce sont des venus là [...]" (NS, 75)
+"au perpendiculum de l'axe prolongé du tronc" (NS, 76) #mots_anciens ou #néologisme
+"reporter" (NS, 79) #emprunt_langue_étrangère
+"allait avoir lieu là là" (NS, 80), aussi régionalisme (Sag-Lac)?
+"des chie-en-culottes" (NS, 82)
+"pelletage d'hostie de marde" (NS, 82)
+"faisaient pro" (NS, 88)
+"des boules de crème à glace" (NS, 89) #néologisme
+"qui fumaient des faites la fin de semaine et se roulaient le reste du temps" (NS, 101)
+"J'avais aux pieds des Kodiak jaunes" (NS, 102) #métaphore
+"cothurnes" (NS, 102)
+"sur une toune de Fugain" (NS, 104)
+"une king size" (NS, 114)
+"ce salopard de singe Thérèse" (NS, 114); "Le singe Thérèse de merde" (NS, 114)
+"[...], mais quand même, durant mettons deux mois, [...]" (NS, 120) #néologisme ou familiarité
+"motton" (NS, 123)
+"préposé au voyageage des poches" (NS, 126)
+"beuverie" (NS, 126)
+"il faut que tu soyes bon du revers" (NS, 129)
+"par défonçage de l'estomac" (NS, 129)
+"parmi les tanks, mais les tanks [...]" (NS, 131) #emprunt_langue_étrangère
+"les incisives sont pétées" (NS, 135)
+"au stop" (NS, 143 [x2])
+"ta chambrine" (NS, 150) #néologisme?
+"J'réponds" (NS, 152)

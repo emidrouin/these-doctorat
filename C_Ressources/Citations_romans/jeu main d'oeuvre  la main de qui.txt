@@ -1,0 +1,2 @@
+jeu "main d'oeuvre" / "la main de qui?"
+(NV, 206) #détournement_lexical

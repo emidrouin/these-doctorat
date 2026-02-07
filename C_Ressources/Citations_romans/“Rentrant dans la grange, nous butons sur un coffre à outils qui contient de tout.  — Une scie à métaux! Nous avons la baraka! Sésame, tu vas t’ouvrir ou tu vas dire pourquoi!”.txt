@@ -1,0 +1,2 @@
+“Rentrant dans la grange, nous butons sur un coffre à outils qui contient de tout. // — Une scie à métaux! Nous avons la baraka! Sésame, tu vas t’ouvrir ou tu vas dire pourquoi!”
+(Oc, 88) #emprunt_langue_étrangère (”Baraka”, ayant signification dans le Judaïsme et dans l’Islam); #détournement_lexical #métaphore

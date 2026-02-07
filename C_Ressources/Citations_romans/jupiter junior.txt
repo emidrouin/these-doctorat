@@ -1,0 +1,3 @@
+"jupiter junior"
+(PF, 134, 143, 168) #surnom pour le frère
+"Jupiter junior" (PF, 146) avec la majuscule car en début de phrase

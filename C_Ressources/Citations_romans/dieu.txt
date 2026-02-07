@@ -1,0 +1,8 @@
+"dieu"
+#nom_sémantisé; sans la majuscule, ça change le nom
+"Dieu sait pourquoi l'idée me vint alors [...]" (PF, 23) #métaphore
+"dieu préserve mon frère" (PF, 42); sans la majuscule lorsqu'ailleurs qu'en début de phrase
+"dieu sait d'où" (PF, 43-44)
+"de dieu sait où" (PF, 53)
+"Est-ce dieu possible!" (PF, 62); aussi syntaxe?
+"Dieu lui-même descendrait-il dans nos champs, l'air soucieux, la barbe pas faite?" (PF, 119) #intertexte_biblique

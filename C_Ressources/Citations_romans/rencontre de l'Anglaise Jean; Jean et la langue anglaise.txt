@@ -1,0 +1,6 @@
+"rencontre de l'Anglaise Jean"; "Jean et la langue anglaise"
+(NS, 137 [chapeau]) #emprunt_langue_étrangère #mise_en_scène_rapport_langue
+
+"mon Anglaise [...]. Elle s'appelle Jean." (NS, 142)
+"J'ai demandé à ma Jean des cours de langue anglaise pour parler commerce avec les autres Échangistes du pays du bout." (NS, 149) #métaphore = de la "Colombrie titanique"
+"Quand je dis à ma Jean des mots sales en anglais, elle me dit en français qu'elle aimerait que je lui fasse ce que je lui dis que je lui ferais en mots sales en anglais." (NS, 149) #emprunt_langue_étrangère #mise_en_scène_rapport_langue

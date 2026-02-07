@@ -1,0 +1,2 @@
+"En plus, c'est mon frère, et le mot frère est le plus beau mot du monde."
+(AA, 320) #commentaire_métalinguistique

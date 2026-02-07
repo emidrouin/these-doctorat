@@ -1,0 +1,2 @@
+"Un éclat d'obus, d'eau bue... Ah. Ah."
+(AA, 23) #détournement_lexical

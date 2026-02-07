@@ -1,0 +1,2 @@
+"ite missa est"
+"L'ite missa est de ce prêtre [père]" (PF, 123) #emprunt_langue_étrangère

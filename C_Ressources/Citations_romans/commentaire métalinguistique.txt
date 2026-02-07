@@ -1,0 +1,11 @@
+commentaire métalinguistique
+#commentaire_métalinguistique
+"[...], mais je sais pas si c'est ce que je veux dire ni même si je m'exprime bien." (SH, 54) #imprécision_lexicale
+"Dans une marmite volée en silence aux armoires de cuisine (une marmite appelée cocotte par la mère d'Habéké et presto par la mienne), [...]." (SH, 59); "'C'est-t'y un presto ou bien une cocotte qu'il faut dire?'" (SH, 75); "la cocotte-presto" (SH, 77)
+"Habéké qui avait vraiment de vastes talents d'entomographe, ou d'entomophile je ne sais plus." (SH, 73) #imprécision_lexicale
+"ses zygènes de la filipendule, qui sont des papillons aux antennes renflées en massue" (SH, 75); "dans ma nymphe comme un zygène de la filipendule" (SH, 98)
+"C'est le petit de la chèvre, un cabri, et c'est Habéké qui m'a appris cette vérité zoologique, Habéké qui savait de quoi il parlait, [...]" (SH, 77)
+"la senteur d'un goudron qu'on nomme croésote ou créosote si je ne me trompe" (SH, 109) #imprécision_lexicale
+"escargots hermaphrodisiaques ou quelque chose comme ça" (SH, 119)
+"comme deux petits papes, ou plutôt comme un pape et ce qui s'appelle un négus" (SH, 125) aussi #emprunt_langue_étrangère (de l'amharique)
+"vu l'impossible qui est français aussi" (SH, 180)

@@ -1,0 +1,6 @@
+"sans trombone ni trompette"
+(AA, 260) #détournement_lexical (le trombone étant l'instrument qu'elle est supposée apprendre)
+
+"sans tambour ni trombone" (AA, 356)
+
+"Du tic au tac, [...] ce que je viens de mettre deux heures à lui dire." (AA, 261) #détournement_lexical

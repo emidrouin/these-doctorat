@@ -1,0 +1,6 @@
+"monsieur soissons"
+typographie de l'onomastique (sans la majuscule) qui est à l'effet d'invisibiliser le nom (en tant que nom) #nom_inconnu
+"sa présence soudaine me fit sursauter, et il m'a dit cette chose sidérante: "Est-ce ici la maison de monsieur soissons?"" (PF, 39)
+"Il répéta: "Est-ce ici la maison de monsieur soissons, le propriétaire de la mine?"" (PF, 39)
+dans un discours rapporté: "Votre père est bien monsieur soissons? C'est bien son cheval qui était avec vous?" (PF, 68); aptitude à rapporter les mots (incluant "son cheval"), mais pas la typographie (majuscule)
+"Incidemment, ce qu'il y a de curieux avec ce mot de soissons, c'est qu'il m'arrivait de roupiller un peu au milieu de mes dictionnaires, et tout à coup tout à fait clairement j'entendais ce mot de soissons, [...], et j'avais l'impression que ce mot-là avait quelque chose à voir avec moi et faisait partie de moi dans mon matériau le plus intime plus que n'importe quel autre mot, je dis la chose comme elle m'apparaît, et ce mot-là me sortait tout étonné de mon roupillement, soissons." (PF, 68) #ONOMASTIQUE

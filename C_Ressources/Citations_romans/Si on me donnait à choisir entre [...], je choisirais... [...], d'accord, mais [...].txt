@@ -1,0 +1,4 @@
+"Si on me donnait à choisir entre [...], je choisirais... [...], d'accord, mais [...]."
+(AR, 34) #mise_en_scène_écriture
+
+"[...], allez savoir pourquoi, [...]. (Comme si [...]! [...])" (AR, 35) #mise_en_scène_écriture

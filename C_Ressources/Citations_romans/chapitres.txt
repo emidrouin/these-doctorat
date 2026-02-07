@@ -1,0 +1,6 @@
+chapitres
+"Tiroir no 24" (T24, 7) #surnom
+"Boulange Cyr" (T24, 39) #changement_de_nom
+"Sauce lapin" (T24, 63)
+"Vision de Napoléon" (T24, 91); + exergue: “Écoute, l’oiseau chante: // Il se rit de tes pleurs. // EUGÈNE LAPIERRE, // Il faut croire au bonheur“ (T24, 91) #citation
+"La porte" (T24, 117); + exergue: “Et les regards sont éblouis // Par la clarté des routes blanches. // ALBERT LOZEAU, // Quand il neige sur mon pays“ (T24, 117) #citation

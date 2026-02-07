@@ -1,0 +1,2 @@
+"la vitrine est éclairée a giorno"
+(NV, 117) #emprunt_langue_étrangère

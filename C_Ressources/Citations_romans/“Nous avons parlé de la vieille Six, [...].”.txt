@@ -1,0 +1,2 @@
+“Nous avons parlé de la vieille Six, [...].”
+(Oc, 65) #nom_sémantisé

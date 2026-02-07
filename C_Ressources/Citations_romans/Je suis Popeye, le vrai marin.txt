@@ -1,0 +1,3 @@
+"Je suis Popeye, le vrai marin."
+(NV, 235, 236, 286) #citation
+précédé de: "Moi, toutes les femmes m'aiment. Je m'en fiche bien. Je m'en fiche pas mal." (NV, 235) ou "Toutes les femmes m'aiment." (NV, 286)
