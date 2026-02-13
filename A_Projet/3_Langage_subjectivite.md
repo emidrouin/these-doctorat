@@ -105,7 +105,6 @@ Cette réflexion préfigure déjà la trame suivie dans *Soi-même comme un autr
 
 
 
-
 Cette réflexion sur le *raconter* de l’identité narrative, par sa volonté de rejoint celle, préalable, qui portait sur l’herméneutique philosophique comme
 
 à proprement parler, le philosophe proposait de voir dans le langage un
@@ -126,7 +125,6 @@ article « La nature des pronoms », où il est question notamment du « j
 
 * parle des démonstratifs (*ce*) (p. 253)
 
-
 ## Partir de la notion de narrativité
 
 - penser la narrativité autrement, non pas comme un produit mais comme une « production » [@Bres2001], ce qui s’éloigne du concept de « *mise en intrigue* » ricoeurien; « Or le récit c’est d’abord et fondamentalement l’acte langagier de narrer, acte bien sûr producteur du texte du récit [...]. Mais est-il possible de saisir pour la décrire la narration en tant qu’acte? [...] Si, en tant que tel, l’acte langagier de narration est inobservable, on peut l’appréhender :
@@ -139,8 +137,6 @@ article « La nature des pronoms », où il est question notamment du « j
         - personnellement: ce fragmet d’époque passée par rapport aux deux interlocuteurs est connu du narrateur, inconnu du (des) narrataires(s). Le narrateur sait; le narrataire apprend. Le récit se fait en première personne ou/et en non personne. » [@Bres1989, 86-87]
 - insistance de Bres sur le rapport au temps, sur le rapport de la narrativité et de la temporalité, notamment [@Bres2001; @Bres1991a; @Bres1989]
 
-
-
 ### Langage et subjectivité
 * approche de Benveniste: « définir l’énonciation dans le cadre formel de sa réalisation » [@Benveniste1974, 81], donc: « Dans l’énonciation, nous considérons successivement l’acte même, les situations où il se réalise, les instruments de l’accomplissement. » [@Benveniste1974, 81];
 
@@ -151,7 +147,6 @@ article « La nature des pronoms », où il est question notamment du « j
 * « Le langage n’est possible que parce que chaque locuteur se pose comme *sujet*, en renvoyant à lui-même comme *je* dans son discours. De ce fait, *je* pose une autre personne, [...] devient mon écho auquel je dis *tu* et qui me dit *tu*. La polarité des personnes, telle est dans le langage la condition fondamentale [...]. » [@Benveniste1966, 260]
 * polarité ni égalitaire ni symétrique: transcendance de l’‘ego’ à l’égard du *tu* [@Benveniste1966, 260]; conséquences: « Ainsi tombent les vieilles antinomies du ‘moi’ et de l’‘autre’, de l’individu et de la société. Dualité qu’il est illégitime et erroné de réduire à un seul terme originel, que ce terme unique soit le ‘moi’, qui devrait être installé dans sa propre conscience pour s’ouvrir alors à celle du ‘prochain’, ou qu’il soit au contraire la société, qui préexisterait comme totalité à l’individu et d’où celui-ci ne serait dégagé qu’à mesure qu’il acquérait la conscience de soi. C’est dans une **réalité dialectique** englobant les deux termes [moi-individu et autre-société] et les définissant par **relation mutuelle** [je-tu qui sont aussi tu-je] qu’on découvre le fondement linguistique de la subjectivité. » [@Benveniste1966, 260]
 * langage comme moteur de subjectivité: « C’est dans l’instance de discours où *je* désigne le locuteur que celui-ci s’énonce comme ‘sujet’. Il est donc vrai à la lettre que le fondement de la subjectivité est dans l’exercice de la langue. Si l’on veut bien y réfléchir, on verra qu’il n’y a pas d’autre témoignage objectif de l’identité du sujet que celui qu’il donne ainsi lui-même sur lui-même. » (p. 262); « Le langage est ainsi organisé qu’il permet à chaque locuteur de *s’approprier* la langue entière en se désignant comme *je*. » (p. 262); idée reprise dans l’étude 2 de [@Ricoeur1990]; pronom personnel qui « reçoit sa réalité et sa substance du discours seul » [@Benveniste1974, 68], comme les déictiques, dont les démonstratifs qui montrent « à partir d’un point central, qui est Ego » [@Benveniste1974, 69]
-
 
 ### Langage et intersubjectivité
 * prémisse: « le discours est le langage mis en action, et nécessairement entre partenaires » [@Benveniste1966, 258]; discours comme « la langue en tant qu’assumée par l’homme qui parle » [@Benveniste1966, 266]; « condition d’*intersubjectivité*, qui seule rend possible la communication linguistique » [@Benveniste1966, 266]
@@ -171,7 +166,7 @@ article « La nature des pronoms », où il est question notamment du « j
 ### Notion de subjectivèmes
 
 [^1]: La définition de Benveniste s’écarte <!-- -->
-- [ ] [^2]: Roman Jakobson parlait plutôt de « shifters » [@Jakobson1971a], terme qui a été traduit en français par « embrayeurs » du discours [@Kerbrat-Orecchioni1980, 39; @Ducrot.Schaeffer1995, 370], quoiqu’il y ait celon certain.e.s linguistes une nuance à faire entre les déictiques comme marqueurs d’une position centrale et les embrayeurs en tant que manifestation d’une présence subjective (du « je ») autour et au sujet de laquelle se rattache l’instance discours [voir @Perret1994] <!-- vérifier source + page -->.
+[^2]: Roman Jakobson parlait plutôt de « shifters » [@Jakobson1971a], terme qui a été traduit en français par « embrayeurs » du discours [@Kerbrat-Orecchioni1980, 39; @Ducrot.Schaeffer1995, 370], quoiqu’il y ait selon certain.e.s linguistes une nuance à faire entre les déictiques comme marqueurs d’une position centrale et les embrayeurs en tant que manifestation d’une présence subjective (du « je ») autour et au sujet de laquelle se rattache l’instance discours [voir @Perret1994] <!-- vérifier source + page -->.
 [^3]: Dans l’article « La nature des pronoms », Benveniste explique qu’en plus des pronoms (*je* et *tu*, en l’occurence), les adverbes *ici* et *maintenant* tirent leur référence du fait de la deixis, laquelle est « contemporaine de l’instance de discours qui porte l’indicateur de personne », si bien qu’ils se retrouvent dans la même situation: « L’essentiel est donc la relation entre l’indicateur (de personne, de temps, de lieu, d’objet montré, etc.) et la *présente* instance de discours. » [@Benveniste1966, 253] Dans son ouvrage *L’énonciation: de la subjectivité dans le langage*, Catherine Kerbrat-Orecchioni énumère notamment les pronoms personnels et les pronoms possessifs (« qui amalgament [...] un article défini + un pronom personnel » [@Kerbrat-Orecchioni1980, 45]), les démonstratifs, les locutions adverbiales servant à la localisation temporelle ou à la localisation spatiale, ainsi que certains emplois de termes de parenté, par exemple « papa » ou « maman » utilisés « sans prédéterminant » [@Kerbrat-Orecchioni1980, 61].
 [^4]: Ce choix se situe, au sens de la linguistique structurale, à l’intersection entre l’axe syntagmatique (du « syntagme », à savoir de la phrase ou du groupe de mots) et l’axe paradigmatique (du « paradigme », à savoir des termes qui peuvent se substituer au terme employé) et, par le fait même, en plein cœur de la fonction poétique. Ainsi, rappelle Roman Jakobson, les « deux modes fondamentaux d’arrangement utilisés dans le comportement verbal » sont la sélection, qui est « produite sur la base de l’équivalence, de la similarité [...], de la synonymie [...] » et la combinaison, à savoir « la construction de la séquence » [@Jakobson1963, 220]. Il y a donc, dans la fonction poétique, « *proje[ction du] principe d’équivalence de l’axe de la sélection sur l’axe de la combinaison* » [@Jakobson1963, 220, l’auteur souligne], en ce sens que l’on accorde autant d’importance au sein de l’énoncé à l’agencement des mots formant le message qu’a leur sélection, un mot à la fois, au sein de tout le lexique disponible.
 [^5]: Catherine Kerbrat-Orecchioni tient à distinguer l’une de l’autre les « connotations axiologiques et stylistiques », la première étant « d’ordre *sémantique* » au sens où elle témoigne d’une attitude (favorable ou défavorable) et la seconde n’étant qu’une variation du « *signifiant* » opposant deux termes « équivalents extensionnellement » mais appartenant à différents « types [ou niveaux] de discours » [@Kerbrat-Orecchioni1980, 83-84].
