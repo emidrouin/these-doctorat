@@ -7,5 +7,5 @@
 * Ricoeur1983, *Temps et récit 1* [@Ricoeur1983]
 * Ricoeur1985, *Temps et récit 3* [@Ricoeur1985]
 * Ricoeur1988, « L’identité narrative » [@Ricoeur1988]
-* Ricoeur1990a, *Soi-même comme un autre* [@Ricoeur1990a]
-* Ricoeur2004a, *Parcours de la reconnaissance* [@Ricoeur2004a]
+* Ricoeur1990, *Soi-même comme un autre* [@Ricoeur1990]
+* Ricoeur2004, *Parcours de la reconnaissance* [@Ricoeur2004]
